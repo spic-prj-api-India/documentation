@@ -2,7 +2,7 @@ var searchData=
 [
   ['datasystem_0',['DataSystem',['../classspic_1_1internal_1_1systems_1_1DataSystem.html#aa1b18ff1fd930c3b421e3dbe3d00a3d5',1,'spic::internal::systems::DataSystem']]],
   ['decode_5fmap_1',['decode_map',['../namespacespic_1_1internal_1_1networking.html#a4d80733ea572e013fda791d04a3b44b0',1,'spic::internal::networking']]],
-  ['deg2rad_2',['DEG2RAD',['../namespacespic_1_1general__helper.html#a857da068e59693da4cb1083cc93b1db6',1,'spic::general_helper']]],
+  ['deg2rad_2',['DEG2RAD',['../namespacespic_1_1helper__functions_1_1general__helper.html#a8c6179ad7103b48f8e365489005cccf0',1,'spic::helper_functions::general_helper']]],
   ['delay_3',['Delay',['../structspic_1_1internal_1_1time_1_1InternalTime.html#a640198108b9511fee210ab98607b98ba',1,'spic::internal::time::InternalTime']]],
   ['deltatime_4',['DeltaTime',['../classspic_1_1Time.html#a7a10bf5a13400f1c3ae250cbc1aae0a1',1,'spic::Time']]],
   ['deserialize_5',['Deserialize',['../structspic_1_1NetworkPacket.html#aa75c3294d310b603992511a4e451a7d8',1,'spic::NetworkPacket::Deserialize()'],['../structspic_1_1Serializer.html#a776e5696a8e33c4d6100a5bf893b0503',1,'spic::Serializer::Deserialize()'],['../structspic_1_1Transform.html#af60ef6c490be7f0c886a628b5226eebf',1,'spic::Transform::Deserialize()']]],

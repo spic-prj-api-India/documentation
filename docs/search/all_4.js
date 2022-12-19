@@ -9,7 +9,7 @@ var searchData=
   ['decode_5fmap_6',['decode_map',['../namespacespic_1_1internal_1_1networking.html#a4d80733ea572e013fda791d04a3b44b0',1,'spic::internal::networking']]],
   ['decrease_5fspeed_7',['DECREASE_SPEED',['../namespacespic_1_1settings.html#ae3c742328cd2952571eead3efa78675e',1,'spic::settings']]],
   ['decreasegamespeedlistener_8',['DecreaseGameSpeedListener',['../classspic_1_1internal_1_1input_1_1DecreaseGameSpeedListener.html',1,'spic::internal::input']]],
-  ['deg2rad_9',['DEG2RAD',['../namespacespic_1_1general__helper.html#a857da068e59693da4cb1083cc93b1db6',1,'spic::general_helper']]],
+  ['deg2rad_9',['DEG2RAD',['../namespacespic_1_1helper__functions_1_1general__helper.html#a8c6179ad7103b48f8e365489005cccf0',1,'spic::helper_functions::general_helper']]],
   ['delay_10',['Delay',['../structspic_1_1internal_1_1time_1_1InternalTime.html#a640198108b9511fee210ab98607b98ba',1,'spic::internal::time::InternalTime']]],
   ['delete_11',['DELETE',['../namespacespic_1_1input.html#a274f6bbd5b1b0d75d59451b6d24f997fa32f68a60cef40faedbc6af20298c1a1e',1,'spic::input']]],
   ['deltatime_12',['DeltaTime',['../classspic_1_1Time.html#a7a10bf5a13400f1c3ae250cbc1aae0a1',1,'spic::Time']]],

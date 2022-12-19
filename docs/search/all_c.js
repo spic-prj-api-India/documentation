@@ -22,7 +22,7 @@ var searchData=
   ['left_5fshift_19',['LEFT_SHIFT',['../namespacespic_1_1input.html#a274f6bbd5b1b0d75d59451b6d24f997fab6c7e6204e97690efd79d6f513ed5613',1,'spic::input']]],
   ['length_20',['Length',['../structspic_1_1Point.html#ae89d0319845bda1b6b2e769a1a8e5bbb',1,'spic::Point']]],
   ['lengthsq_21',['LengthSq',['../structspic_1_1Point.html#aef9398596643e02f7e2dd73d8ffac0d9',1,'spic::Point']]],
-  ['lineintersection_22',['LineIntersection',['../namespacespic_1_1general__helper.html#a3cc894cbebaa04943a2e1b139e06b892',1,'spic::general_helper']]],
+  ['lineintersection_22',['LineIntersection',['../namespacespic_1_1helper__functions_1_1general__helper.html#ae1f4d0d1c1208db0321a7b17cdd59da0',1,'spic::helper_functions::general_helper']]],
   ['listen_23',['Listen',['../classspic_1_1internal_1_1InputManager.html#a7da847ebe66390a0a6c7b25e7b50c7c2',1,'spic::internal::InputManager']]],
   ['load_24',['Load',['../classspic_1_1Persistable.html#addb8c09e9129eaac0a6b458e9d783035',1,'spic::Persistable']]],
   ['loadscene_25',['LoadScene',['../classspic_1_1GameEngine.html#acdd464c65316fe083a0e89374442109f',1,'spic::GameEngine']]],

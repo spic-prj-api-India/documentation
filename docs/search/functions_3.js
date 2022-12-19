@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['calculatewithinsquare_0',['CalculateWithinSquare',['../namespacespic_1_1general__helper.html#a7904ad3eec084040ccde0395d96e2ce7',1,'spic::general_helper']]],
+  ['calculatewithinsquare_0',['CalculateWithinSquare',['../namespacespic_1_1helper__functions_1_1general__helper.html#a6f2108b39cf4efe03eaf293e4c5b9002',1,'spic::helper_functions::general_helper']]],
   ['camera_1',['Camera',['../classspic_1_1Camera.html#a6a6c1dfb42827dc2382b65862efd0d43',1,'spic::Camera::Camera()'],['../classspic_1_1Scene.html#ac012b72eaeb5c040b3184c8a7dd5a025',1,'spic::Scene::Camera() const'],['../classspic_1_1Scene.html#a60bd5fcc8178419c204330ab46de01d5',1,'spic::Scene::Camera(std::unique_ptr&lt; spic::Camera &gt; newCamera)']]],
   ['canrun_2',['CanRun',['../classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#ae2df0a4d29961f5f6bef4f9569720e05',1,'spic::extensions::PhysicsExtensionImpl1']]],
   ['castexception_3',['CastException',['../classspic_1_1internal_1_1exceptions_1_1CastException.html#aba1cc1fb34d7d57cbbed49bc3255dcce',1,'spic::internal::exceptions::CastException']]],

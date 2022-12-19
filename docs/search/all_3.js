@@ -1,7 +1,7 @@
 var searchData=
 [
   ['c_0',['C',['../namespacespic_1_1input.html#a274f6bbd5b1b0d75d59451b6d24f997fa0d61f8370cad1d412f80b84d143e1257',1,'spic::input']]],
-  ['calculatewithinsquare_1',['CalculateWithinSquare',['../namespacespic_1_1general__helper.html#a7904ad3eec084040ccde0395d96e2ce7',1,'spic::general_helper']]],
+  ['calculatewithinsquare_1',['CalculateWithinSquare',['../namespacespic_1_1helper__functions_1_1general__helper.html#a6f2108b39cf4efe03eaf293e4c5b9002',1,'spic::helper_functions::general_helper']]],
   ['camera_2',['Camera',['../classspic_1_1Camera.html#a6a6c1dfb42827dc2382b65862efd0d43',1,'spic::Camera::Camera()'],['../classspic_1_1Scene.html#ac012b72eaeb5c040b3184c8a7dd5a025',1,'spic::Scene::Camera() const'],['../classspic_1_1Scene.html#a60bd5fcc8178419c204330ab46de01d5',1,'spic::Scene::Camera(std::unique_ptr&lt; spic::Camera &gt; newCamera)'],['../classspic_1_1Camera.html',1,'spic::Camera']]],
   ['camera_5fview_3',['CAMERA_VIEW',['../namespacespic.html#a8464b1b01a828b6b07b2087b6ac3b5d2a07eb6617b4a6c9c3981647d9311e7d76',1,'spic']]],
   ['cancel_4',['CANCEL',['../namespacespic_1_1input.html#a274f6bbd5b1b0d75d59451b6d24f997fa2027c027133e22c8929e2874dc44dd36',1,'spic::input']]],

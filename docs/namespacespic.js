@@ -8,26 +8,7 @@ var namespacespic =
       [ "DEBUG_MODE", "namespacespic_1_1debug.html#a453a93217265faea7bf965a5ff8b4e6f", null ]
     ] ],
     [ "extensions", "namespacespic_1_1extensions.html", "namespacespic_1_1extensions" ],
-    [ "general_helper", "namespacespic_1_1general__helper.html", [
-      [ "CalculateWithinSquare", "namespacespic_1_1general__helper.html#a7904ad3eec084040ccde0395d96e2ce7", null ],
-      [ "DEG2RAD", "namespacespic_1_1general__helper.html#a857da068e59693da4cb1083cc93b1db6", null ],
-      [ "GetCenter", "namespacespic_1_1general__helper.html#a35d2a71e746bba2f4492655809ec864b", null ],
-      [ "GetPoints", "namespacespic_1_1general__helper.html#ac1e87ee7f0e37c8818fba73b62c34b8a", null ],
-      [ "GetRandomUUID", "namespacespic_1_1general__helper.html#ad248acdbe24e2f979b4bc552e9d99599", null ],
-      [ "GetsPointY", "namespacespic_1_1general__helper.html#a391184ba65efb34ea6f3904e1f222dbb", null ],
-      [ "LineIntersection", "namespacespic_1_1general__helper.html#a3cc894cbebaa04943a2e1b139e06b892", null ],
-      [ "NetworkPacketSorting", "namespacespic_1_1general__helper.html#a989f5b2d4b15361b140ea7fac54e66df", null ],
-      [ "PrecisionRoundingoInt", "namespacespic_1_1general__helper.html#aa48dbcc226b1e1213a85d7c05f03433b", null ],
-      [ "RAD2DEG", "namespacespic_1_1general__helper.html#ae85dbf8be8313d1eb796d8a2ecee1ac2", null ],
-      [ "RectIntersection", "namespacespic_1_1general__helper.html#a7d3dc0a2ce26f5e2441a538c578e2c61", null ],
-      [ "RotatePoint", "namespacespic_1_1general__helper.html#a568bbbb019839efa5aa5d87ac46f1eec", null ],
-      [ "SpecialWrap", "namespacespic_1_1general__helper.html#a66cf5e5271bfa613624b4f6b071065b8", null ],
-      [ "SpriteSorting", "namespacespic_1_1general__helper.html#ad6877dd0db2ac16f38ae7b796f6a5473", null ]
-    ] ],
-    [ "helper_functions", "namespacespic_1_1helper__functions.html", [
-      [ "GetKeys", "namespacespic_1_1helper__functions.html#aa18633793bc8f50c7c287408847a7553", null ],
-      [ "GetValues", "namespacespic_1_1helper__functions.html#abe24ea2ce38317bc1e1a6855140de2e7", null ]
-    ] ],
+    [ "helper_functions", "namespacespic_1_1helper__functions.html", "namespacespic_1_1helper__functions" ],
     [ "input", "namespacespic_1_1input.html", [
       [ "KeyCode", "namespacespic_1_1input.html#a274f6bbd5b1b0d75d59451b6d24f997f", [
         [ "ERROR_ROLLOVER", "namespacespic_1_1input.html#a274f6bbd5b1b0d75d59451b6d24f997fad7344f106c77e09feb390ad801ff422f", null ],

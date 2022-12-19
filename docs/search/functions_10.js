@@ -1,10 +1,10 @@
 var searchData=
 [
   ['r_0',['R',['../classspic_1_1Color.html#a68b5ce9c0b858e6b991003335e927b4c',1,'spic::Color']]],
-  ['rad2deg_1',['RAD2DEG',['../namespacespic_1_1general__helper.html#ae85dbf8be8313d1eb796d8a2ecee1ac2',1,'spic::general_helper']]],
+  ['rad2deg_1',['RAD2DEG',['../namespacespic_1_1helper__functions_1_1general__helper.html#ac99052e0962eb900ad4482731f352669',1,'spic::helper_functions::general_helper']]],
   ['radius_2',['Radius',['../classspic_1_1CircleCollider.html#a0896d0b551460d96d75db168746cd8af',1,'spic::CircleCollider::Radius() const'],['../classspic_1_1CircleCollider.html#a0c74568320adc11102b4190c51c238f9',1,'spic::CircleCollider::Radius(const float newRadius)']]],
   ['randomfloat_3',['RandomFloat',['../namespacespic_1_1internal_1_1math.html#aa3324b4b0a3aec036909f065a87380f2',1,'spic::internal::math']]],
-  ['rectintersection_4',['RectIntersection',['../namespacespic_1_1general__helper.html#a7d3dc0a2ce26f5e2441a538c578e2c61',1,'spic::general_helper']]],
+  ['rectintersection_4',['RectIntersection',['../namespacespic_1_1helper__functions_1_1general__helper.html#a62b085c0f79f1da3e6766cb48f94d15f',1,'spic::helper_functions::general_helper']]],
   ['red_5',['red',['../classspic_1_1Color.html#a3bf7729f174beec8452d9c07913e83ea',1,'spic::Color']]],
   ['registerlistener_6',['RegisterListener',['../classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#a544f3cdca7521492b287e97009ff4727',1,'spic::extensions::PhysicsExtensionImpl1']]],
   ['registernewentity_7',['RegisterNewEntity',['../classspic_1_1SocketScript.html#a48910d90ce4b7b1a7cf4444dc0b3111e',1,'spic::SocketScript']]],
@@ -29,7 +29,7 @@ var searchData=
   ['rigidbody_26',['RigidBody',['../classspic_1_1RigidBody.html#a9f5272120642a0575eb317946c6a0421',1,'spic::RigidBody']]],
   ['rotate_27',['Rotate',['../classspic_1_1internal_1_1math_1_1S2DMatrix.html#a0c1da946d82f6d39c1644186e02fb1e4',1,'spic::internal::math::S2DMatrix::Rotate(const spic::Point &amp;heading, const spic::Point &amp;side)'],['../classspic_1_1internal_1_1math_1_1S2DMatrix.html#a662ead55847b3d5879d974ca4aae7953',1,'spic::internal::math::S2DMatrix::Rotate(const float rotation)']]],
   ['rotatearoundorigin_28',['RotateAroundOrigin',['../namespacespic_1_1internal_1_1math.html#abc21b61594a828121e86a2e7148b23f8',1,'spic::internal::math']]],
-  ['rotatepoint_29',['RotatePoint',['../namespacespic_1_1general__helper.html#a568bbbb019839efa5aa5d87ac46f1eec',1,'spic::general_helper']]],
+  ['rotatepoint_29',['RotatePoint',['../namespacespic_1_1helper__functions_1_1general__helper.html#af56147c5b27e611c469c5d740920fa72',1,'spic::helper_functions::general_helper']]],
   ['rotation_30',['Rotation',['../classspic_1_1GameObject.html#a5ee3beeabd5d895eb8647b57b3b1350a',1,'spic::GameObject::Rotation()'],['../structspic_1_1Point.html#a36547cfb7b03bafff5d007afaac630c3',1,'spic::Point::Rotation()']]],
   ['runtimes_31',['RunTimes',['../classspic_1_1extensions_1_1IPhysicsExtension.html#a48cda8be3245a970d10943ca2aca25fd',1,'spic::extensions::IPhysicsExtension::RunTimes()'],['../classspic_1_1extensions_1_1PhysicsExtension1.html#a54a11f875c557d573e736395b0e7bc8a',1,'spic::extensions::PhysicsExtension1::RunTimes()']]]
 ];

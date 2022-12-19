@@ -24,7 +24,7 @@ var searchData=
   ['post_5ffail_21',['POST_FAIL',['../namespacespic_1_1input.html#a274f6bbd5b1b0d75d59451b6d24f997facc4102d67815076b23ba0cfed3535642',1,'spic::input']]],
   ['postsolve_22',['PostSolve',['../classspic_1_1internal_1_1extensions_1_1Box2DCollisionListener.html#ad8addd4769933a44421f2fafdface605',1,'spic::internal::extensions::Box2DCollisionListener']]],
   ['power_23',['POWER',['../namespacespic_1_1input.html#a274f6bbd5b1b0d75d59451b6d24f997fac9c9c146c630ca5ef9197c73c032f4a6',1,'spic::input']]],
-  ['precisionroundingoint_24',['PrecisionRoundingoInt',['../namespacespic_1_1general__helper.html#aa48dbcc226b1e1213a85d7c05f03433b',1,'spic::general_helper']]],
+  ['precisionroundingoint_24',['PrecisionRoundingoInt',['../namespacespic_1_1helper__functions_1_1general__helper.html#a40135e5a6e2d4dab626c44461a774ac2',1,'spic::helper_functions::general_helper']]],
   ['presolve_25',['PreSolve',['../classspic_1_1internal_1_1extensions_1_1Box2DCollisionListener.html#a6dfbe982818975bc03f704c0d4a4d6ba',1,'spic::internal::extensions::Box2DCollisionListener']]],
   ['print_5fscreen_26',['PRINT_SCREEN',['../namespacespic_1_1input.html#a274f6bbd5b1b0d75d59451b6d24f997fa853f8ded7a96b5a765704974e6a3ca96',1,'spic::input']]],
   ['prior_27',['PRIOR',['../namespacespic_1_1input.html#a274f6bbd5b1b0d75d59451b6d24f997fae4bf0e3d9afa4b59492d1f1a22fb6a37',1,'spic::input']]],

@@ -14,6 +14,6 @@ var searchData=
   ['position_11',['Position',['../classspic_1_1GameObject.html#aab0436fb170b58c59196708fedac344b',1,'spic::GameObject']]],
   ['positionpacket_12',['PositionPacket',['../classspic_1_1SocketScript.html#a450614171e574f4f776ab685afb64899',1,'spic::SocketScript']]],
   ['postsolve_13',['PostSolve',['../classspic_1_1internal_1_1extensions_1_1Box2DCollisionListener.html#ad8addd4769933a44421f2fafdface605',1,'spic::internal::extensions::Box2DCollisionListener']]],
-  ['precisionroundingoint_14',['PrecisionRoundingoInt',['../namespacespic_1_1general__helper.html#aa48dbcc226b1e1213a85d7c05f03433b',1,'spic::general_helper']]],
+  ['precisionroundingoint_14',['PrecisionRoundingoInt',['../namespacespic_1_1helper__functions_1_1general__helper.html#a40135e5a6e2d4dab626c44461a774ac2',1,'spic::helper_functions::general_helper']]],
   ['presolve_15',['PreSolve',['../classspic_1_1internal_1_1extensions_1_1Box2DCollisionListener.html#a6dfbe982818975bc03f704c0d4a4d6ba',1,'spic::internal::extensions::Box2DCollisionListener']]]
 ];
