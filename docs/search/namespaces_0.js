@@ -1,12 +1,12 @@
 var searchData=
 [
   ['audio_0',['audio',['../namespacespic_1_1internal_1_1audio.html',1,'spic::internal']]],
-  ['containerhelper_1',['ContainerHelper',['../namespacespic_1_1ContainerHelper.html',1,'spic']]],
-  ['debug_2',['debug',['../namespacespic_1_1debug.html',1,'spic']]],
-  ['defaults_3',['defaults',['../namespacespic_1_1internal_1_1defaults.html',1,'spic::internal']]],
-  ['exceptions_4',['exceptions',['../namespacespic_1_1internal_1_1exceptions.html',1,'spic::internal']]],
-  ['extensions_5',['extensions',['../namespacespic_1_1extensions.html',1,'spic::extensions'],['../namespacespic_1_1internal_1_1extensions.html',1,'spic::internal::extensions']]],
-  ['general_5fhelper_6',['general_helper',['../namespacespic_1_1general__helper.html',1,'spic']]],
+  ['debug_1',['debug',['../namespacespic_1_1debug.html',1,'spic']]],
+  ['defaults_2',['defaults',['../namespacespic_1_1internal_1_1defaults.html',1,'spic::internal']]],
+  ['exceptions_3',['exceptions',['../namespacespic_1_1internal_1_1exceptions.html',1,'spic::internal']]],
+  ['extensions_4',['extensions',['../namespacespic_1_1extensions.html',1,'spic::extensions'],['../namespacespic_1_1internal_1_1extensions.html',1,'spic::internal::extensions']]],
+  ['general_5fhelper_5',['general_helper',['../namespacespic_1_1general__helper.html',1,'spic']]],
+  ['helper_5ffunctions_6',['helper_functions',['../namespacespic_1_1helper__functions.html',1,'spic']]],
   ['impl_7',['impl',['../namespacespic_1_1internal_1_1audio_1_1impl.html',1,'spic::internal::audio']]],
   ['input_8',['input',['../namespacespic_1_1input.html',1,'spic::input'],['../namespacespic_1_1internal_1_1input.html',1,'spic::internal::input']]],
   ['inputimpl_9',['InputImpl',['../namespacespic_1_1internal_1_1InputImpl.html',1,'spic::internal']]],

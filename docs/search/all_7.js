@@ -29,7 +29,7 @@ var searchData=
   ['getinstance_26',['GetInstance',['../classspic_1_1internal_1_1EntityManager.html#a29cfad81ba4f0123ed80b95ebd6cf2b5',1,'spic::internal::EntityManager::GetInstance()'],['../classspic_1_1GameEngine.html#ab5798545559d7772a548fc6603cdff6d',1,'spic::GameEngine::GetInstance()'],['../classspic_1_1internal_1_1InputManager.html#a0581e2ffd3539fb358142cb6527cf73d',1,'spic::internal::InputManager::GetInstance()']]],
   ['getkey_27',['GetKey',['../namespacespic_1_1input.html#abec2cd9974962b710b957c340bd6c430',1,'spic::input::GetKey()'],['../namespacespic_1_1internal_1_1InputImpl.html#a1a86197bf04cd213cc3a2607c97f0019',1,'spic::internal::InputImpl::GetKey()']]],
   ['getkeydown_28',['GetKeyDown',['../namespacespic_1_1input.html#a5948cae55160295fdf73657d169dd228',1,'spic::input::GetKeyDown()'],['../namespacespic_1_1internal_1_1InputImpl.html#a7661f915cedae4414022c0a4ccfd4671',1,'spic::internal::InputImpl::GetKeyDown()']]],
-  ['getkeys_29',['GetKeys',['../namespacespic_1_1ContainerHelper.html#a7edb6b17afb380185076076f357237b8',1,'spic::ContainerHelper']]],
+  ['getkeys_29',['GetKeys',['../namespacespic_1_1helper__functions.html#aa18633793bc8f50c7c287408847a7553',1,'spic::helper_functions']]],
   ['getkeyup_30',['GetKeyUp',['../namespacespic_1_1input.html#aee4d5cc85a2081cec07e2c6b1a0f96ac',1,'spic::input::GetKeyUp()'],['../namespacespic_1_1internal_1_1InputImpl.html#a229e0afd1845d8bf706a325123f79a64',1,'spic::internal::InputImpl::GetKeyUp()']]],
   ['getlayer_31',['GetLayer',['../classspic_1_1TileMap.html#a22264c28a0a4d57a1548ee2e5d2c3f11',1,'spic::TileMap']]],
   ['getlinearvelocity_32',['GetLinearVelocity',['../classspic_1_1extensions_1_1PhysicsExtension1.html#a28daf9ec5ad5e213a3259a9cf10ea442',1,'spic::extensions::PhysicsExtension1::GetLinearVelocity()'],['../classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#a7c5ae8a4803ec9f22ba406d6605854b2',1,'spic::extensions::PhysicsExtensionImpl1::GetLinearVelocity()'],['../classspic_1_1extensions_1_1IPhysicsExtension.html#a93f661be9b72b2a2045b3e2ce639a3e0',1,'spic::extensions::IPhysicsExtension::GetLinearVelocity()']]],
@@ -47,8 +47,9 @@ var searchData=
   ['getspointy_44',['GetsPointY',['../namespacespic_1_1general__helper.html#a391184ba65efb34ea6f3904e1f222dbb',1,'spic::general_helper']]],
   ['gettilesize_45',['GetTilesize',['../classspic_1_1TileLayer.html#adc64c84030e0783019eca42ebd5ff350',1,'spic::TileLayer']]],
   ['gettypename_46',['GetTypeName',['../namespacespic_1_1TypeHelper.html#a1b30b18048be178d82968eae4f559eb3',1,'spic::TypeHelper::GetTypeName()'],['../namespacespic_1_1TypeHelper.html#aaf4bb56ce6705e1d77c348ce2ab7e2a9',1,'spic::TypeHelper::GetTypeName(T object)']]],
-  ['grave_5faccent_5fand_5ftilde_47',['GRAVE_ACCENT_AND_TILDE',['../namespacespic_1_1input.html#a274f6bbd5b1b0d75d59451b6d24f997fa85d96861c533b803fadc36d0db7e144b',1,'spic::input']]],
-  ['gravity_48',['GRAVITY',['../namespacespic_1_1settings.html#a35dea2ca60e4c201e8c2f081dd44177a',1,'spic::settings']]],
-  ['gravityscale_49',['GravityScale',['../classspic_1_1RigidBody.html#ad6692a5d28ba98f707019b0c158da91b',1,'spic::RigidBody::GravityScale() const'],['../classspic_1_1RigidBody.html#a6bc6c6014d406617d99fd756eeaad70d',1,'spic::RigidBody::GravityScale(const float newGravityScale)']]],
-  ['green_50',['green',['../classspic_1_1Color.html#a2aeaad5a555b6a1140a5efa65bd2e1e5',1,'spic::Color']]]
+  ['getvalues_47',['GetValues',['../namespacespic_1_1helper__functions.html#abe24ea2ce38317bc1e1a6855140de2e7',1,'spic::helper_functions']]],
+  ['grave_5faccent_5fand_5ftilde_48',['GRAVE_ACCENT_AND_TILDE',['../namespacespic_1_1input.html#a274f6bbd5b1b0d75d59451b6d24f997fa85d96861c533b803fadc36d0db7e144b',1,'spic::input']]],
+  ['gravity_49',['GRAVITY',['../namespacespic_1_1settings.html#a35dea2ca60e4c201e8c2f081dd44177a',1,'spic::settings']]],
+  ['gravityscale_50',['GravityScale',['../classspic_1_1RigidBody.html#ad6692a5d28ba98f707019b0c158da91b',1,'spic::RigidBody::GravityScale() const'],['../classspic_1_1RigidBody.html#a6bc6c6014d406617d99fd756eeaad70d',1,'spic::RigidBody::GravityScale(const float newGravityScale)']]],
+  ['green_51',['green',['../classspic_1_1Color.html#a2aeaad5a555b6a1140a5efa65bd2e1e5',1,'spic::Color']]]
 ];

@@ -1,8 +1,5 @@
 var namespacespic =
 [
-    [ "ContainerHelper", "namespacespic_1_1ContainerHelper.html", [
-      [ "GetKeys", "namespacespic_1_1ContainerHelper.html#a7edb6b17afb380185076076f357237b8", null ]
-    ] ],
     [ "debug", "namespacespic_1_1debug.html", [
       [ "DrawLine", "namespacespic_1_1debug.html#ad5cfde4152d71b2332a2508d3619f3b2", null ],
       [ "Log", "namespacespic_1_1debug.html#a2de5576578958ef16655d6db11922946", null ],
@@ -26,6 +23,10 @@ var namespacespic =
       [ "RotatePoint", "namespacespic_1_1general__helper.html#a568bbbb019839efa5aa5d87ac46f1eec", null ],
       [ "SpecialWrap", "namespacespic_1_1general__helper.html#a66cf5e5271bfa613624b4f6b071065b8", null ],
       [ "SpriteSorting", "namespacespic_1_1general__helper.html#ad6877dd0db2ac16f38ae7b796f6a5473", null ]
+    ] ],
+    [ "helper_functions", "namespacespic_1_1helper__functions.html", [
+      [ "GetKeys", "namespacespic_1_1helper__functions.html#aa18633793bc8f50c7c287408847a7553", null ],
+      [ "GetValues", "namespacespic_1_1helper__functions.html#abe24ea2ce38317bc1e1a6855140de2e7", null ]
     ] ],
     [ "input", "namespacespic_1_1input.html", [
       [ "KeyCode", "namespacespic_1_1input.html#a274f6bbd5b1b0d75d59451b6d24f997f", [
