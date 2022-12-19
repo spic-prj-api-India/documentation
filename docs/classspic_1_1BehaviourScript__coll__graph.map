@@ -1,0 +1,5 @@
+<map id="spic::BehaviourScript" name="spic::BehaviourScript">
+<area shape="rect" id="node1" title=" " alt="" coords="5,168,152,193"/>
+<area shape="rect" id="node2" href="$classspic_1_1Component.html" title="Base class for all components." alt="" coords="19,93,139,119"/>
+<area shape="rect" id="node3" href="$classspic_1_1GameObject.html" title="Any object which should be represented on screen." alt="" coords="15,5,142,31"/>
+</map>

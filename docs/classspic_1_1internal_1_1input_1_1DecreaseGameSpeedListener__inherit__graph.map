@@ -1,0 +1,4 @@
+<map id="spic::internal::input::DecreaseGameSpeedListener" name="spic::internal::input::DecreaseGameSpeedListener">
+<area shape="rect" id="node1" title="Listens for a certain key to show the fps counter." alt="" coords="5,79,208,119"/>
+<area shape="rect" id="node2" href="$classspic_1_1IKeyListener.html" title="Interface for objects wanting to respond to keyboard events." alt="" coords="43,5,170,31"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="spic::AudioSource" name="spic::AudioSource">
+<area shape="rect" id="node1" title="Component which can play audio." alt="" coords="5,79,133,104"/>
+<area shape="rect" id="node2" href="$classspic_1_1Component.html" title="Base class for all components." alt="" coords="9,5,129,31"/>
+</map>

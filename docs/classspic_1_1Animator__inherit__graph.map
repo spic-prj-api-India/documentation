@@ -1,0 +1,4 @@
+<map id="spic::Animator" name="spic::Animator">
+<area shape="rect" id="node1" title="A component which can play animated sequences of sprites." alt="" coords="12,79,119,104"/>
+<area shape="rect" id="node2" href="$classspic_1_1Component.html" title="Base class for all components." alt="" coords="5,5,125,31"/>
+</map>

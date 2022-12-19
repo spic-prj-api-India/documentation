@@ -1,0 +1,9 @@
+<map id="spic::GameObject" name="spic::GameObject">
+<area shape="rect" id="node1" title="Any object which should be represented on screen." alt="" coords="199,5,326,31"/>
+<area shape="rect" id="node2" href="$classspic_1_1Camera.html" title="Class representing a point of view towards the game scene." alt="" coords="5,79,104,104"/>
+<area shape="rect" id="node3" href="$classspic_1_1ForceDriven.html" title="Force driven entity only moves with force." alt="" coords="129,79,253,104"/>
+<area shape="rect" id="node4" href="$classspic_1_1Persistable.html" title=" " alt="" coords="277,79,395,104"/>
+<area shape="rect" id="node5" href="$classspic_1_1UIObject.html" title="Base class for a user interface object like Button or Text." alt="" coords="419,79,525,104"/>
+<area shape="rect" id="node6" href="$classspic_1_1Button.html" title="Instances of this class are clickable user interface items." alt="" coords="371,152,463,177"/>
+<area shape="rect" id="node7" href="$classspic_1_1Text.html" title="Class representing a piece of text which can be rendered." alt="" coords="487,152,566,177"/>
+</map>
