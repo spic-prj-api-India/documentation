@@ -281,7 +281,7 @@ $(document).ready(function(){initNavTree('GameObject_8hpp_source.html',''); init
 <div class="line"><a id="l00424" name="l00424"></a><span class="lineno">  424</span>    <span class="keyword">template</span>&lt;<span class="keyword">class</span> T&gt;</div>
 <div class="line"><a id="l00425" name="l00425"></a><span class="lineno"><a class="line" href="classspic_1_1GameObject.html#aed4e802151d6274b28edb997f61fab40">  425</a></span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classspic_1_1GameObject.html#aed4e802151d6274b28edb997f61fab40">GameObject::AddComponent</a>(std::shared_ptr&lt;T&gt; component)</div>
 <div class="line"><a id="l00426" name="l00426"></a><span class="lineno">  426</span>    {</div>
-<div class="line"><a id="l00427" name="l00427"></a><span class="lineno">  427</span>        spic::TypeHelper::CastSharedPtrToType&lt;Component&gt;(component)-&gt;Parent(*<span class="keyword">this</span>);</div>
+<div class="line"><a id="l00427" name="l00427"></a><span class="lineno">  427</span>        spic::helper_functions::type_helper::CastSharedPtrToType&lt;Component&gt;(component)-&gt;Parent(*<span class="keyword">this</span>);</div>
 <div class="line"><a id="l00428" name="l00428"></a><span class="lineno">  428</span>        components.emplace_back(component);</div>
 <div class="line"><a id="l00429" name="l00429"></a><span class="lineno">  429</span>    }</div>
 <div class="line"><a id="l00430" name="l00430"></a><span class="lineno">  430</span> </div>

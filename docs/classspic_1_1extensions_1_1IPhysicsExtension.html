@@ -137,9 +137,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a45c41458e398daa8bf02c2def8037635"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1extensions_1_1IPhysicsExtension.html#a45c41458e398daa8bf02c2def8037635">Reset</a> (std::function&lt; void(const std::shared_ptr&lt; <a class="el" href="classspic_1_1GameObject.html">spic::GameObject</a> &gt; &amp;, const std::shared_ptr&lt; <a class="el" href="classspic_1_1Collider.html">spic::Collider</a> &gt; &amp;)&gt; enterCallback, std::function&lt; void(const std::shared_ptr&lt; <a class="el" href="classspic_1_1GameObject.html">spic::GameObject</a> &gt; &amp;, const std::shared_ptr&lt; <a class="el" href="classspic_1_1Collider.html">spic::Collider</a> &gt; &amp;)&gt; exitCallback, std::function&lt; void(const std::shared_ptr&lt; <a class="el" href="classspic_1_1GameObject.html">spic::GameObject</a> &gt; &amp;, const std::shared_ptr&lt; <a class="el" href="classspic_1_1Collider.html">spic::Collider</a> &gt; &amp;)&gt; stayCallback)=0</td></tr>
 <tr class="memdesc:a45c41458e398daa8bf02c2def8037635"><td class="mdescLeft">&#160;</td><td class="mdescRight">Resets all physics and removes entities from extension.  <a href="classspic_1_1extensions_1_1IPhysicsExtension.html#a45c41458e398daa8bf02c2def8037635">More...</a><br /></td></tr>
 <tr class="separator:a45c41458e398daa8bf02c2def8037635"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad4d32d6748e2b7aa651968e109bc4472"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1extensions_1_1IPhysicsExtension.html#ad4d32d6748e2b7aa651968e109bc4472">AddCollisionLayer</a> (const <a class="el" href="classspic_1_1TileLayer.html">spic::TileLayer</a> &amp;collisionLayer)=0</td></tr>
-<tr class="memdesc:ad4d32d6748e2b7aa651968e109bc4472"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add collision layer to physic world.  <a href="classspic_1_1extensions_1_1IPhysicsExtension.html#ad4d32d6748e2b7aa651968e109bc4472">More...</a><br /></td></tr>
-<tr class="separator:ad4d32d6748e2b7aa651968e109bc4472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2882b824bdb3f250a9d69ee4f39db3d6"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1extensions_1_1IPhysicsExtension.html#a2882b824bdb3f250a9d69ee4f39db3d6">AddCollisionLayer</a> (const <a class="el" href="classspic_1_1tiled_1_1TileLayer.html">spic::tiled::TileLayer</a> &amp;collisionLayer)=0</td></tr>
+<tr class="memdesc:a2882b824bdb3f250a9d69ee4f39db3d6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add collision layer to physic world.  <a href="classspic_1_1extensions_1_1IPhysicsExtension.html#a2882b824bdb3f250a9d69ee4f39db3d6">More...</a><br /></td></tr>
+<tr class="separator:a2882b824bdb3f250a9d69ee4f39db3d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad15196a2fe2bda44bf6efd72988ac041"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1extensions_1_1IPhysicsExtension.html#ad15196a2fe2bda44bf6efd72988ac041">Update</a> (std::vector&lt; std::shared_ptr&lt; <a class="el" href="classspic_1_1GameObject.html">spic::GameObject</a> &gt; &gt; &amp;entities)=0</td></tr>
 <tr class="memdesc:ad15196a2fe2bda44bf6efd72988ac041"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add and updates entities with physics.  <a href="classspic_1_1extensions_1_1IPhysicsExtension.html#ad15196a2fe2bda44bf6efd72988ac041">More...</a><br /></td></tr>
 <tr class="separator:ad15196a2fe2bda44bf6efd72988ac041"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -268,8 +268,8 @@ Public Member Functions</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="ad4d32d6748e2b7aa651968e109bc4472" name="ad4d32d6748e2b7aa651968e109bc4472"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad4d32d6748e2b7aa651968e109bc4472">&#9670;&#160;</a></span>AddCollisionLayer()</h2>
+<a id="a2882b824bdb3f250a9d69ee4f39db3d6" name="a2882b824bdb3f250a9d69ee4f39db3d6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2882b824bdb3f250a9d69ee4f39db3d6">&#9670;&#160;</a></span>AddCollisionLayer()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -280,7 +280,7 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="memname">virtual void spic::extensions::IPhysicsExtension::AddCollisionLayer </td>
           <td>(</td>
-          <td class="paramtype">const <a class="el" href="classspic_1_1TileLayer.html">spic::TileLayer</a> &amp;&#160;</td>
+          <td class="paramtype">const <a class="el" href="classspic_1_1tiled_1_1TileLayer.html">spic::tiled::TileLayer</a> &amp;&#160;</td>
           <td class="paramname"><em>collisionLayer</em></td><td>)</td>
           <td></td>
         </tr>
@@ -296,7 +296,7 @@ Public Member Functions</h2></td></tr>
 <dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
 </dd></dl>
 
-<p>Implemented in <a class="el" href="classspic_1_1extensions_1_1PhysicsExtension1.html#abddc72695ea254d0b4009941d9e88dc5">spic::extensions::PhysicsExtension1</a>.</p>
+<p>Implemented in <a class="el" href="classspic_1_1extensions_1_1PhysicsExtension1.html#a85098df6ea07cbcb9e4c5e362283a34b">spic::extensions::PhysicsExtension1</a>.</p>
 
 </div>
 </div>

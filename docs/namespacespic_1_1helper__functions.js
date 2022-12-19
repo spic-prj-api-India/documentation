@@ -17,5 +17,19 @@ var namespacespic_1_1helper__functions =
       [ "RectIntersection", "namespacespic_1_1helper__functions_1_1general__helper.html#a62b085c0f79f1da3e6766cb48f94d15f", null ],
       [ "RotatePoint", "namespacespic_1_1helper__functions_1_1general__helper.html#af56147c5b27e611c469c5d740920fa72", null ],
       [ "SpriteSorting", "namespacespic_1_1helper__functions_1_1general__helper.html#aeca704f2fa59947ce4b58031121167ed", null ]
+    ] ],
+    [ "networking_helper", "namespacespic_1_1helper__functions_1_1networking__helper.html", [
+      [ "GetParsedIPConfigData", "namespacespic_1_1helper__functions_1_1networking__helper.html#ab1e200b55ddc13c1a4f8d301631b0551", null ]
+    ] ],
+    [ "string_helper", "namespacespic_1_1helper__functions_1_1string__helper.html", [
+      [ "GetBasePath", "namespacespic_1_1helper__functions_1_1string__helper.html#ad43455de9044a2d716063f94fb5af0e8", null ],
+      [ "Replace", "namespacespic_1_1helper__functions_1_1string__helper.html#ae79af7b9daea2547efa0a1ed23c7ad46", null ]
+    ] ],
+    [ "type_helper", "namespacespic_1_1helper__functions_1_1type__helper.html", [
+      [ "CastPtrToType", "namespacespic_1_1helper__functions_1_1type__helper.html#a5937bfea1dd6cb5d72c5c270d0ab8cc1", null ],
+      [ "CastSharedPtrToType", "namespacespic_1_1helper__functions_1_1type__helper.html#a7945bd97da3341365d000ebd15552395", null ],
+      [ "GetTypeName", "namespacespic_1_1helper__functions_1_1type__helper.html#ae63b65ee21b797dacd3f71ea3a53db9e", null ],
+      [ "GetTypeName", "namespacespic_1_1helper__functions_1_1type__helper.html#aaeeea60f55683f34fa14983c21088c77", null ],
+      [ "SharedPtrIsOfType", "namespacespic_1_1helper__functions_1_1type__helper.html#a1c24d80edcfbbbf238677fdbfa25df24", null ]
     ] ]
 ];

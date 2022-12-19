@@ -4,7 +4,7 @@ var classspic_1_1extensions_1_1PhysicsExtension1 =
     [ "~PhysicsExtension1", "classspic_1_1extensions_1_1PhysicsExtension1.html#a60f904d51f0e8f3cf472caab740b513a", null ],
     [ "PhysicsExtension1", "classspic_1_1extensions_1_1PhysicsExtension1.html#afd507109ed8d4d5364a3b21e84332df3", null ],
     [ "PhysicsExtension1", "classspic_1_1extensions_1_1PhysicsExtension1.html#a8a4b28f136bb5776f4de5f8730ff0cef", null ],
-    [ "AddCollisionLayer", "classspic_1_1extensions_1_1PhysicsExtension1.html#abddc72695ea254d0b4009941d9e88dc5", null ],
+    [ "AddCollisionLayer", "classspic_1_1extensions_1_1PhysicsExtension1.html#a85098df6ea07cbcb9e4c5e362283a34b", null ],
     [ "AddForce", "classspic_1_1extensions_1_1PhysicsExtension1.html#a5e983a4f4579538ee2bb7a7ac69561e1", null ],
     [ "DrawColliders", "classspic_1_1extensions_1_1PhysicsExtension1.html#a20eaf4966a0409bf81ec6d03eedd720b", null ],
     [ "GetLinearVelocity", "classspic_1_1extensions_1_1PhysicsExtension1.html#a28daf9ec5ad5e213a3259a9cf10ea442", null ],

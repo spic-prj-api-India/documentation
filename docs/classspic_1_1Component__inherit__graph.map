@@ -2,7 +2,7 @@
 <area shape="rect" id="node1" title="Base class for all components." alt="" coords="5,153,125,179"/>
 <area shape="rect" id="node2" href="$classspic_1_1Animator.html" title="A component which can play animated sequences of sprites." alt="" coords="193,5,300,31"/>
 <area shape="rect" id="node3" href="$classspic_1_1AudioSource.html" title="Component which can play audio." alt="" coords="183,55,311,80"/>
-<area shape="rect" id="node4" href="$classspic_1_1BehaviourScript.html" title=" " alt="" coords="173,104,320,129"/>
+<area shape="rect" id="node4" href="$classspic_1_1BehaviourScript.html" title="Contains the beheviours of an object." alt="" coords="173,104,320,129"/>
 <area shape="rect" id="node5" href="$classspic_1_1Collider.html" title="The base class for all colliders." alt="" coords="198,153,295,179"/>
 <area shape="rect" id="node8" href="$classspic_1_1RigidBody.html" title="A component representing a rigid body." alt="" coords="190,203,303,228"/>
 <area shape="rect" id="node9" href="$classspic_1_1SocketScript.html" title="A component representing a rigid body." alt="" coords="182,252,311,277"/>

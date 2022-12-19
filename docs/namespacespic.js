@@ -273,9 +273,6 @@ var namespacespic =
       [ "UnSubscribeAll", "namespacespic_1_1input.html#a0a9bc78388e40a3e9b73e31a7e4b8eff", null ]
     ] ],
     [ "internal", "namespacespic_1_1internal.html", "namespacespic_1_1internal" ],
-    [ "networkingHelper", "namespacespic_1_1networkingHelper.html", [
-      [ "GetParsedIPConfigData", "namespacespic_1_1networkingHelper.html#a4e6ebdba1b728df9821da105e244752b", null ]
-    ] ],
     [ "settings", "namespacespic_1_1settings.html", [
       [ "FULLSCREENTYPE", "namespacespic_1_1settings.html#a9438f969814794f5ded14f2f015a41e3", [
         [ "WINDOWED", "namespacespic_1_1settings.html#a9438f969814794f5ded14f2f015a41e3adaa43822b2c6abbb5d4eaf867ff6e4a4", null ],
@@ -299,18 +296,8 @@ var namespacespic =
       [ "WINDOW_NAME", "namespacespic_1_1settings.html#a6895f46850099de871fd8273c2b0af85", null ],
       [ "WINDOW_WIDTH", "namespacespic_1_1settings.html#aa62959da457868f4fe57f483e85c2fcf", null ]
     ] ],
-    [ "StringHelper", "namespacespic_1_1StringHelper.html", [
-      [ "GetBasePath", "namespacespic_1_1StringHelper.html#a00eb30da90ba355b05a92946d5d934ca", null ],
-      [ "Replace", "namespacespic_1_1StringHelper.html#aacb88c341b798bcf8192bee230222293", null ]
-    ] ],
     [ "systems", "namespacespic_1_1systems.html", "namespacespic_1_1systems" ],
-    [ "TypeHelper", "namespacespic_1_1TypeHelper.html", [
-      [ "CastPtrToType", "namespacespic_1_1TypeHelper.html#ade249b22d33c8abd617c95b8f2a8cc3f", null ],
-      [ "CastSharedPtrToType", "namespacespic_1_1TypeHelper.html#afac88e8128cada43a6c6beaa5f6abc6c", null ],
-      [ "GetTypeName", "namespacespic_1_1TypeHelper.html#a1b30b18048be178d82968eae4f559eb3", null ],
-      [ "GetTypeName", "namespacespic_1_1TypeHelper.html#aaf4bb56ce6705e1d77c348ce2ab7e2a9", null ],
-      [ "SharedPtrIsOfType", "namespacespic_1_1TypeHelper.html#a0e62569d53e534c7e22dac9ae2ebeef5", null ]
-    ] ],
+    [ "tiled", "namespacespic_1_1tiled.html", "namespacespic_1_1tiled" ],
     [ "Animator", "classspic_1_1Animator.html", "classspic_1_1Animator" ],
     [ "AudioSource", "classspic_1_1AudioSource.html", "classspic_1_1AudioSource" ],
     [ "BehaviourScript", "classspic_1_1BehaviourScript.html", "classspic_1_1BehaviourScript" ],
@@ -338,13 +325,9 @@ var namespacespic =
     [ "Sprite", "classspic_1_1Sprite.html", "classspic_1_1Sprite" ],
     [ "Text", "classspic_1_1Text.html", "classspic_1_1Text" ],
     [ "ThreadWrapper", "classspic_1_1ThreadWrapper.html", "classspic_1_1ThreadWrapper" ],
-    [ "TileLayer", "classspic_1_1TileLayer.html", "classspic_1_1TileLayer" ],
-    [ "TileMap", "classspic_1_1TileMap.html", "classspic_1_1TileMap" ],
-    [ "TileSet", "structspic_1_1TileSet.html", "structspic_1_1TileSet" ],
     [ "Time", "classspic_1_1Time.html", null ],
     [ "Transform", "structspic_1_1Transform.html", "structspic_1_1Transform" ],
     [ "UIObject", "classspic_1_1UIObject.html", "classspic_1_1UIObject" ],
-    [ "Matrix", "namespacespic.html#a954219b338a557da3afd42dc7d81cee3", null ],
     [ "Alignment", "namespacespic.html#aaa0301faebebc81988adda719b02a0fe", [
       [ "LEFT", "namespacespic.html#aaa0301faebebc81988adda719b02a0fea684d325a7303f52e64011467ff5c5758", null ],
       [ "CENTER", "namespacespic.html#aaa0301faebebc81988adda719b02a0feac397289ee45877be0cd49811fe245b4e", null ],

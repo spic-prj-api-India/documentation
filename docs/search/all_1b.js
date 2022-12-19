@@ -18,5 +18,5 @@ var searchData=
   ['_7erenderingsystem_15',['~RenderingSystem',['../classspic_1_1internal_1_1systems_1_1RenderingSystem.html#a1cef5d05da988893e6a3f8ca55fe7084',1,'spic::internal::systems::RenderingSystem']]],
   ['_7esample_16',['~Sample',['../classspic_1_1internal_1_1audio_1_1impl_1_1Sample.html#aea8a48c34d94596f6affbbd28938fb2c',1,'spic::internal::audio::impl::Sample']]],
   ['_7ethreadwrapper_17',['~ThreadWrapper',['../classspic_1_1ThreadWrapper.html#a4cbc69374cabd02d489dd0e40786a574',1,'spic::ThreadWrapper']]],
-  ['_7etilelayer_18',['~TileLayer',['../classspic_1_1TileLayer.html#a2d4ce482314c222acbb8ed3a00e59e9f',1,'spic::TileLayer']]]
+  ['_7etilelayer_18',['~TileLayer',['../classspic_1_1tiled_1_1TileLayer.html#a120bf05c38778267bb9e9f7c4e18668a',1,'spic::tiled::TileLayer']]]
 ];

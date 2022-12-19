@@ -4,7 +4,7 @@ var searchData=
   ['magenta_1',['magenta',['../classspic_1_1Color.html#aa73bb7542f2119ebbfc2bd9cc7d778b4',1,'spic::Color']]],
   ['mapparser_2',['MapParser',['../classspic_1_1internal_1_1MapParser.html#a3f31dbd2df9c568b98f1e8613ba21a18',1,'spic::internal::MapParser::MapParser()'],['../classspic_1_1internal_1_1MapParser.html',1,'spic::internal::MapParser']]],
   ['mass_3',['Mass',['../classspic_1_1ForceDriven.html#add4b560db1fc08cd3d5ab82fb2e92cd7',1,'spic::ForceDriven::Mass()'],['../classspic_1_1RigidBody.html#a417b0fcbb162c28961c4782e2e2f7ba6',1,'spic::RigidBody::Mass() const'],['../classspic_1_1RigidBody.html#ac1d7ae1707085d093414a93cab7a717f',1,'spic::RigidBody::Mass(const float newMass)']]],
-  ['matrix_4',['Matrix',['../namespacespic.html#a954219b338a557da3afd42dc7d81cee3',1,'spic']]],
+  ['matrix_4',['Matrix',['../namespacespic_1_1tiled.html#a0292055df603e9df763285d81c3ded0e',1,'spic::tiled']]],
   ['max_5fchannels_5',['MAX_CHANNELS',['../namespacespic_1_1settings.html#aa913bdca8733c017c2fd2f348e7f1fca',1,'spic::settings']]],
   ['maxfloat_6',['MaxFloat',['../namespacespic_1_1internal_1_1math.html#a68fcb916055f2156b49bbd50945c1978',1,'spic::internal::math']]],
   ['media_5fbackward_7',['MEDIA_BACKWARD',['../namespacespic_1_1input.html#a274f6bbd5b1b0d75d59451b6d24f997fa4bf945eaee26faf878a5084f745ef0c6',1,'spic::input']]],

@@ -6,5 +6,5 @@ var searchData=
   ['renderfps_3',['renderFps',['../classspic_1_1internal_1_1input_1_1FPSListener.html#afe3e84d7856f6a0ddae0288b6a6cf32e',1,'spic::internal::input::FPSListener']]],
   ['reset_5fspeed_4',['RESET_SPEED',['../namespacespic_1_1settings.html#a71a75b6b802255685d393b18c7fe28c8',1,'spic::settings']]],
   ['rotation_5',['rotation',['../structspic_1_1Transform.html#a5b01ea27fd1995a81aa7f5c379379a7d',1,'spic::Transform']]],
-  ['rowcount_6',['rowCount',['../structspic_1_1TileSet.html#a50ecf52a80ac2a23db47efebe20340d4',1,'spic::TileSet']]]
+  ['rowcount_6',['rowCount',['../structspic_1_1tiled_1_1TileSet.html#a2cc23c0e9e1ae2f029a41b07cfaec39a',1,'spic::tiled::TileSet']]]
 ];

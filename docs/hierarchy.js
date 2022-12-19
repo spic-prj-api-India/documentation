@@ -53,7 +53,7 @@ var hierarchy =
       [ "spic::internal::input::ResetGameSpeedListener", "classspic_1_1internal_1_1input_1_1ResetGameSpeedListener.html", null ]
     ] ],
     [ "spic::IMouseListener", "classspic_1_1IMouseListener.html", [
-      [ "spic::internal::ButtonClickListener", "classspic_1_1internal_1_1ButtonClickListener.html", null ]
+      [ "spic::internal::input::ButtonClickListener", "classspic_1_1internal_1_1input_1_1ButtonClickListener.html", null ]
     ] ],
     [ "spic::internal::InputManager", "classspic_1_1internal_1_1InputManager.html", null ],
     [ "spic::internal::time::InternalTime", "structspic_1_1internal_1_1time_1_1InternalTime.html", null ],
@@ -79,9 +79,9 @@ var hierarchy =
     [ "spic::internal::rendering::SDL_Deleter", "structspic_1_1internal_1_1rendering_1_1SDL__Deleter.html", null ],
     [ "spic::Serializer", "structspic_1_1Serializer.html", null ],
     [ "spic::ThreadWrapper", "classspic_1_1ThreadWrapper.html", null ],
-    [ "spic::TileLayer", "classspic_1_1TileLayer.html", null ],
-    [ "spic::TileMap", "classspic_1_1TileMap.html", null ],
-    [ "spic::TileSet", "structspic_1_1TileSet.html", null ],
+    [ "spic::tiled::TileLayer", "classspic_1_1tiled_1_1TileLayer.html", null ],
+    [ "spic::tiled::TileMap", "classspic_1_1tiled_1_1TileMap.html", null ],
+    [ "spic::tiled::TileSet", "structspic_1_1tiled_1_1TileSet.html", null ],
     [ "spic::Time", "classspic_1_1Time.html", null ],
     [ "spic::Transform", "structspic_1_1Transform.html", null ]
 ];

@@ -14,12 +14,13 @@ var searchData=
   ['internal_11',['internal',['../namespacespic_1_1internal.html',1,'spic']]],
   ['math_12',['math',['../namespacespic_1_1internal_1_1math.html',1,'spic::internal']]],
   ['networking_13',['networking',['../namespacespic_1_1internal_1_1networking.html',1,'spic::internal']]],
-  ['networkinghelper_14',['networkingHelper',['../namespacespic_1_1networkingHelper.html',1,'spic']]],
+  ['networking_5fhelper_14',['networking_helper',['../namespacespic_1_1helper__functions_1_1networking__helper.html',1,'spic::helper_functions']]],
   ['rendering_15',['rendering',['../namespacespic_1_1internal_1_1rendering.html',1,'spic::internal']]],
   ['settings_16',['settings',['../namespacespic_1_1settings.html',1,'spic']]],
   ['spic_17',['spic',['../namespacespic.html',1,'']]],
-  ['stringhelper_18',['StringHelper',['../namespacespic_1_1StringHelper.html',1,'spic']]],
+  ['string_5fhelper_18',['string_helper',['../namespacespic_1_1helper__functions_1_1string__helper.html',1,'spic::helper_functions']]],
   ['systems_19',['systems',['../namespacespic_1_1internal_1_1systems.html',1,'spic::internal::systems'],['../namespacespic_1_1systems.html',1,'spic::systems']]],
-  ['time_20',['time',['../namespacespic_1_1internal_1_1time.html',1,'spic::internal']]],
-  ['typehelper_21',['TypeHelper',['../namespacespic_1_1TypeHelper.html',1,'spic']]]
+  ['tiled_20',['tiled',['../namespacespic_1_1tiled.html',1,'spic']]],
+  ['time_21',['time',['../namespacespic_1_1internal_1_1time.html',1,'spic::internal']]],
+  ['type_5fhelper_22',['type_helper',['../namespacespic_1_1helper__functions_1_1type__helper.html',1,'spic::helper_functions']]]
 ];

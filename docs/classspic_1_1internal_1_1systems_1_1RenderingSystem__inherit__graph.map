@@ -1,4 +1,4 @@
 <map id="spic::internal::systems::RenderingSystem" name="spic::internal::systems::RenderingSystem">
 <area shape="rect" id="node1" title=" " alt="" coords="9,79,163,119"/>
-<area shape="rect" id="node2" href="$classspic_1_1systems_1_1ISystem.html" title=" " alt="" coords="5,5,167,31"/>
+<area shape="rect" id="node2" href="$classspic_1_1systems_1_1ISystem.html" title="The ISystem interface needs to be included before running the start method in game engine." alt="" coords="5,5,167,31"/>
 </map>

@@ -38,7 +38,6 @@ var namespacespic_1_1internal =
     [ "rendering", "namespacespic_1_1internal_1_1rendering.html", "namespacespic_1_1internal_1_1rendering" ],
     [ "systems", "namespacespic_1_1internal_1_1systems.html", "namespacespic_1_1internal_1_1systems" ],
     [ "time", "namespacespic_1_1internal_1_1time.html", "namespacespic_1_1internal_1_1time" ],
-    [ "ButtonClickListener", "classspic_1_1internal_1_1ButtonClickListener.html", "classspic_1_1internal_1_1ButtonClickListener" ],
     [ "EntityManager", "classspic_1_1internal_1_1EntityManager.html", "classspic_1_1internal_1_1EntityManager" ],
     [ "InputManager", "classspic_1_1internal_1_1InputManager.html", "classspic_1_1internal_1_1InputManager" ],
     [ "MapParser", "classspic_1_1internal_1_1MapParser.html", "classspic_1_1internal_1_1MapParser" ],

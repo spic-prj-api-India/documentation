@@ -101,33 +101,32 @@ $(document).ready(function(){initNavTree('ConvertListToBytes_8hpp_source.html','
 <div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="preprocessor">#include &lt;boost/serialization/map.hpp&gt;</span></div>
 <div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="preprocessor">#include &lt;boost/serialization/string.hpp&gt;</span></div>
 <div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span> </div>
-<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span> </div>
-<div class="line"><a id="l00011" name="l00011"></a><span class="lineno"><a class="line" href="namespacespic_1_1internal_1_1networking.html">   11</a></span><span class="keyword">namespace </span><a class="code hl_namespace" href="namespacespic_1_1internal_1_1networking.html">spic::internal::networking</a></div>
-<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span>{</div>
-<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span>    <span class="keyword">template</span>&lt;<span class="keyword">class</span> K, <span class="keyword">class</span> V&gt;</div>
-<div class="line"><a id="l00021" name="l00021"></a><span class="lineno"><a class="line" href="namespacespic_1_1internal_1_1networking.html#acdcb80698c25659bf1a86b54ed0d567a">   21</a></span>    std::string <a class="code hl_function" href="namespacespic_1_1internal_1_1networking.html#acdcb80698c25659bf1a86b54ed0d567a">encode_map</a>(std::map&lt;K, V&gt; data) {</div>
-<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span>        std::string buffer;</div>
-<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span>        boost::iostreams::back_insert_device&lt;std::string&gt; inserter(buffer);</div>
-<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span>        boost::iostreams::stream&lt;boost::iostreams::back_insert_device&lt;std::string&gt;&gt; ostr(inserter);</div>
-<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>        boost::archive::binary_oarchive oa(ostr);</div>
-<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>        oa &lt;&lt; data;</div>
-<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>        ostr.flush();</div>
-<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>        <span class="keywordflow">return</span> buffer;</div>
-<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>    }</div>
-<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span> </div>
-<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>    <span class="keyword">template</span>&lt;<span class="keyword">class</span> K, <span class="keyword">class</span> V&gt;</div>
-<div class="line"><a id="l00039" name="l00039"></a><span class="lineno"><a class="line" href="namespacespic_1_1internal_1_1networking.html#a4d80733ea572e013fda791d04a3b44b0">   39</a></span>    std::map&lt;K, V&gt; <a class="code hl_function" href="namespacespic_1_1internal_1_1networking.html#a4d80733ea572e013fda791d04a3b44b0">decode_map</a>(std::string bytes) {</div>
-<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>        std::map&lt;K, V&gt; map;</div>
-<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>        boost::iostreams::basic_array_source&lt;char&gt; device(bytes.data(), bytes.size());</div>
-<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>        boost::iostreams::stream&lt;boost::iostreams::basic_array_source&lt;char&gt;&gt; istr(device);</div>
-<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>        boost::archive::binary_iarchive ia(istr);</div>
-<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>        ia &gt;&gt; map;</div>
-<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>        <span class="keywordflow">return</span> map;</div>
-<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>    }</div>
-<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>}</div>
-<div class="ttc" id="anamespacespic_1_1internal_1_1networking_html"><div class="ttname"><a href="namespacespic_1_1internal_1_1networking.html">spic::internal::networking</a></div><div class="ttdef"><b>Definition:</b> ConvertListToBytes.hpp:12</div></div>
-<div class="ttc" id="anamespacespic_1_1internal_1_1networking_html_a4d80733ea572e013fda791d04a3b44b0"><div class="ttname"><a href="namespacespic_1_1internal_1_1networking.html#a4d80733ea572e013fda791d04a3b44b0">spic::internal::networking::decode_map</a></div><div class="ttdeci">std::map&lt; K, V &gt; decode_map(std::string bytes)</div><div class="ttdoc">Decodes an map to an string.</div><div class="ttdef"><b>Definition:</b> ConvertListToBytes.hpp:39</div></div>
-<div class="ttc" id="anamespacespic_1_1internal_1_1networking_html_acdcb80698c25659bf1a86b54ed0d567a"><div class="ttname"><a href="namespacespic_1_1internal_1_1networking.html#acdcb80698c25659bf1a86b54ed0d567a">spic::internal::networking::encode_map</a></div><div class="ttdeci">std::string encode_map(std::map&lt; K, V &gt; data)</div><div class="ttdoc">Encodes an map to an string.</div><div class="ttdef"><b>Definition:</b> ConvertListToBytes.hpp:21</div></div>
+<div class="line"><a id="l00013" name="l00013"></a><span class="lineno"><a class="line" href="namespacespic_1_1internal_1_1networking.html">   13</a></span><span class="keyword">namespace </span><a class="code hl_namespace" href="namespacespic_1_1internal_1_1networking.html">spic::internal::networking</a></div>
+<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span>{</div>
+<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span>    <span class="keyword">template</span>&lt;<span class="keyword">class</span> K, <span class="keyword">class</span> V&gt;</div>
+<div class="line"><a id="l00023" name="l00023"></a><span class="lineno"><a class="line" href="namespacespic_1_1internal_1_1networking.html#acdcb80698c25659bf1a86b54ed0d567a">   23</a></span>    std::string <a class="code hl_function" href="namespacespic_1_1internal_1_1networking.html#acdcb80698c25659bf1a86b54ed0d567a">encode_map</a>(std::map&lt;K, V&gt; data) {</div>
+<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span>        std::string buffer;</div>
+<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>        boost::iostreams::back_insert_device&lt;std::string&gt; inserter(buffer);</div>
+<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>        boost::iostreams::stream&lt;boost::iostreams::back_insert_device&lt;std::string&gt;&gt; ostr(inserter);</div>
+<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>        boost::archive::binary_oarchive oa(ostr);</div>
+<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>        oa &lt;&lt; data;</div>
+<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>        ostr.flush();</div>
+<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>        <span class="keywordflow">return</span> buffer;</div>
+<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>    }</div>
+<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span> </div>
+<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>    <span class="keyword">template</span>&lt;<span class="keyword">class</span> K, <span class="keyword">class</span> V&gt;</div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno"><a class="line" href="namespacespic_1_1internal_1_1networking.html#a4d80733ea572e013fda791d04a3b44b0">   41</a></span>    std::map&lt;K, V&gt; <a class="code hl_function" href="namespacespic_1_1internal_1_1networking.html#a4d80733ea572e013fda791d04a3b44b0">decode_map</a>(std::string bytes) {</div>
+<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>        std::map&lt;K, V&gt; map;</div>
+<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>        boost::iostreams::basic_array_source&lt;char&gt; device(bytes.data(), bytes.size());</div>
+<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>        boost::iostreams::stream&lt;boost::iostreams::basic_array_source&lt;char&gt;&gt; istr(device);</div>
+<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>        boost::archive::binary_iarchive ia(istr);</div>
+<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>        ia &gt;&gt; map;</div>
+<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>        <span class="keywordflow">return</span> map;</div>
+<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>    }</div>
+<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>}</div>
+<div class="ttc" id="anamespacespic_1_1internal_1_1networking_html"><div class="ttname"><a href="namespacespic_1_1internal_1_1networking.html">spic::internal::networking</a></div><div class="ttdoc">contains methods which can encode an vector to bytes which can be send over the internet</div><div class="ttdef"><b>Definition:</b> ConvertListToBytes.hpp:14</div></div>
+<div class="ttc" id="anamespacespic_1_1internal_1_1networking_html_a4d80733ea572e013fda791d04a3b44b0"><div class="ttname"><a href="namespacespic_1_1internal_1_1networking.html#a4d80733ea572e013fda791d04a3b44b0">spic::internal::networking::decode_map</a></div><div class="ttdeci">std::map&lt; K, V &gt; decode_map(std::string bytes)</div><div class="ttdoc">Decodes an map to an string.</div><div class="ttdef"><b>Definition:</b> ConvertListToBytes.hpp:41</div></div>
+<div class="ttc" id="anamespacespic_1_1internal_1_1networking_html_acdcb80698c25659bf1a86b54ed0d567a"><div class="ttname"><a href="namespacespic_1_1internal_1_1networking.html#acdcb80698c25659bf1a86b54ed0d567a">spic::internal::networking::encode_map</a></div><div class="ttdeci">std::string encode_map(std::map&lt; K, V &gt; data)</div><div class="ttdoc">Encodes an map to an string.</div><div class="ttdef"><b>Definition:</b> ConvertListToBytes.hpp:23</div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
