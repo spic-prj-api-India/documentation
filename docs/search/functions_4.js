@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['datasystem_0',['DataSystem',['../classspic_1_1internal_1_1systems_1_1DataSystem.html#aa1b18ff1fd930c3b421e3dbe3d00a3d5',1,'spic::internal::systems::DataSystem']]],
+  ['datahandler_0',['DataHandler',['../classspic_1_1DataHandler.html#a895398bc5010908c52d6243a8bbc002a',1,'spic::DataHandler::DataHandler(const std::string &amp;fileName)'],['../classspic_1_1DataHandler.html#a33246abc06c69f1346c5ffb62d6b652f',1,'spic::DataHandler::DataHandler(const DataHandler &amp;other)=delete'],['../classspic_1_1DataHandler.html#a969df135c5acca887c07fa70f9a9c7e8',1,'spic::DataHandler::DataHandler(DataHandler &amp;&amp;other)=delete']]],
   ['decode_5fmap_1',['decode_map',['../namespacespic_1_1internal_1_1networking.html#a4d80733ea572e013fda791d04a3b44b0',1,'spic::internal::networking']]],
   ['deg2rad_2',['DEG2RAD',['../namespacespic_1_1helper__functions_1_1general__helper.html#a8c6179ad7103b48f8e365489005cccf0',1,'spic::helper_functions::general_helper']]],
   ['delay_3',['Delay',['../structspic_1_1internal_1_1time_1_1InternalTime.html#a640198108b9511fee210ab98607b98ba',1,'spic::internal::time::InternalTime']]],
@@ -9,10 +9,10 @@ var searchData=
   ['destroy_6',['Destroy',['../classspic_1_1GameObject.html#a08ecaa790f7dc9218bbced44eb9c5165',1,'spic::GameObject::Destroy(std::shared_ptr&lt; GameObject &gt; obj)'],['../classspic_1_1GameObject.html#a0a166569cfb874eef8ee7ff21a49560c',1,'spic::GameObject::Destroy(Component *obj)']]],
   ['destroyaudio_7',['DestroyAudio',['../structspic_1_1internal_1_1audio_1_1AudioFacade.html#a607ed07f88502d1e8765d64a99ce3969',1,'spic::internal::audio::AudioFacade']]],
   ['destroyentity_8',['DestroyEntity',['../classspic_1_1SocketScript.html#aa1b88da861e34d7c12fd6a166f700340',1,'spic::SocketScript']]],
-  ['destroyscene_9',['DestroyScene',['../classspic_1_1internal_1_1EntityManager.html#ae50969606f065de053d0d033e43dd24a',1,'spic::internal::EntityManager::DestroyScene()'],['../classspic_1_1GameEngine.html#af88327c5e3059aad573f4677f1e87a69',1,'spic::GameEngine::DestroyScene()']]],
-  ['disable_10',['Disable',['../classspic_1_1Collider.html#a3c679bfba1e999e5693bedeefddf94db',1,'spic::Collider']]],
-  ['distance_11',['Distance',['../structspic_1_1Point.html#a866ddad0fe00b8d365c8dc567e5ecb52',1,'spic::Point']]],
-  ['dontdestroyonload_12',['DontDestroyOnLoad',['../classspic_1_1GameObject.html#ad422b44b0a95b3c27456f7cf1ca99eb4',1,'spic::GameObject::DontDestroyOnLoad()'],['../classspic_1_1GameObject.html#aefb4a2509f1c58aaf464507ba5b1e23c',1,'spic::GameObject::DontDestroyOnLoad(bool destroyOnLoad)']]],
+  ['destroyonload_9',['DestroyOnLoad',['../classspic_1_1GameObject.html#a22eddf58645445a6be0c74ea14b02372',1,'spic::GameObject::DestroyOnLoad() const'],['../classspic_1_1GameObject.html#a7a8eb39cc0ce769287f89c8556cda585',1,'spic::GameObject::DestroyOnLoad(bool destroyOnLoad)']]],
+  ['destroyscene_10',['DestroyScene',['../classspic_1_1internal_1_1EntityManager.html#ae50969606f065de053d0d033e43dd24a',1,'spic::internal::EntityManager::DestroyScene()'],['../classspic_1_1GameEngine.html#af88327c5e3059aad573f4677f1e87a69',1,'spic::GameEngine::DestroyScene()']]],
+  ['disable_11',['Disable',['../classspic_1_1Collider.html#a3c679bfba1e999e5693bedeefddf94db',1,'spic::Collider']]],
+  ['distance_12',['Distance',['../structspic_1_1Point.html#a866ddad0fe00b8d365c8dc567e5ecb52',1,'spic::Point']]],
   ['dotproduct_13',['DotProduct',['../structspic_1_1Point.html#a9cebe31f61aeaf2cfa21519cb614657b',1,'spic::Point']]],
   ['draw_14',['Draw',['../structspic_1_1internal_1_1Rendering.html#ab318e142cd03ace0eb6f69eb5e74de6d',1,'spic::internal::Rendering']]],
   ['drawcircle_15',['DrawCircle',['../structspic_1_1internal_1_1Rendering.html#a252ce9ac5309092342a3eb55712fc063',1,'spic::internal::Rendering::DrawCircle()'],['../classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a94bbd612e0ddf59c69407c1371f7e338',1,'spic::internal::rendering::RendererImpl::DrawCircle()']]],

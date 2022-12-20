@@ -1,10 +1,9 @@
 <map id="spic::systems::ISystem" name="spic::systems::ISystem">
-<area shape="rect" id="node1" title="The ISystem interface needs to be included before running the start method in game engine." alt="" coords="5,205,167,230"/>
+<area shape="rect" id="node1" title="The ISystem interface needs to be included before running the start method in game engine." alt="" coords="5,173,167,198"/>
 <area shape="rect" id="node2" href="$classspic_1_1internal_1_1systems_1_1AISystem.html" title=" " alt="" coords="231,5,385,45"/>
-<area shape="rect" id="node3" href="$classspic_1_1internal_1_1systems_1_1DataSystem.html" title=" " alt="" coords="231,69,385,109"/>
-<area shape="rect" id="node4" href="$classspic_1_1internal_1_1systems_1_1InputSystem.html" title="The internal input system." alt="" coords="231,133,385,173"/>
-<area shape="rect" id="node5" href="$classspic_1_1internal_1_1systems_1_1NetworkingReceiveSystem.html" title=" " alt="" coords="215,197,401,237"/>
-<area shape="rect" id="node6" href="$classspic_1_1internal_1_1systems_1_1NetworkingSendSystem.html" title=" " alt="" coords="223,261,393,301"/>
-<area shape="rect" id="node7" href="$classspic_1_1internal_1_1systems_1_1PhysicsSystem.html" title=" " alt="" coords="231,325,385,365"/>
-<area shape="rect" id="node8" href="$classspic_1_1internal_1_1systems_1_1RenderingSystem.html" title=" " alt="" coords="231,389,385,429"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1systems_1_1InputSystem.html" title="The internal input system." alt="" coords="231,69,385,109"/>
+<area shape="rect" id="node4" href="$classspic_1_1internal_1_1systems_1_1NetworkingReceiveSystem.html" title=" " alt="" coords="215,133,401,173"/>
+<area shape="rect" id="node5" href="$classspic_1_1internal_1_1systems_1_1NetworkingSendSystem.html" title=" " alt="" coords="223,197,393,237"/>
+<area shape="rect" id="node6" href="$classspic_1_1internal_1_1systems_1_1PhysicsSystem.html" title=" " alt="" coords="231,261,385,301"/>
+<area shape="rect" id="node7" href="$classspic_1_1internal_1_1systems_1_1RenderingSystem.html" title=" " alt="" coords="231,325,385,365"/>
 </map>

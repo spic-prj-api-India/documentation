@@ -9,7 +9,7 @@ var searchData=
   ['getactivescene_6',['GetActiveScene',['../classspic_1_1GameEngine.html#a6d4cc4a0b20bc89e8b5225f6d15016e2',1,'spic::GameEngine']]],
   ['getallscripts_7',['GetAllScripts',['../classspic_1_1internal_1_1systems_1_1InputSystem.html#a5b6f9f4fc3021b6301895595140d22b3',1,'spic::internal::systems::InputSystem']]],
   ['getaspects_8',['GetAspects',['../structspic_1_1internal_1_1Rendering.html#a96acc43cb7224d43038cc19e8e1d6e43',1,'spic::internal::Rendering']]],
-  ['getaxis_9',['GetAxis',['../namespacespic_1_1internal_1_1InputImpl.html#a25a834e6507f4cd33b42ebae35577fef',1,'spic::internal::InputImpl::GetAxis()'],['../namespacespic_1_1input.html#a1a3b5ceb4617cd548bede2bf548139e7',1,'spic::input::GetAxis()']]],
+  ['getaxis_9',['GetAxis',['../namespacespic_1_1input.html#a1a3b5ceb4617cd548bede2bf548139e7',1,'spic::input::GetAxis()'],['../namespacespic_1_1internal_1_1InputImpl.html#a25a834e6507f4cd33b42ebae35577fef',1,'spic::internal::InputImpl::GetAxis()']]],
   ['getbasepath_10',['GetBasePath',['../namespacespic_1_1helper__functions_1_1string__helper.html#ad43455de9044a2d716063f94fb5af0e8',1,'spic::helper_functions::string_helper']]],
   ['getbuttons_11',['GetButtons',['../classspic_1_1internal_1_1systems_1_1InputSystem.html#acc65f82e80ea692c468ff07a3786b42f',1,'spic::internal::systems::InputSystem']]],
   ['getcenter_12',['GetCenter',['../namespacespic_1_1helper__functions_1_1general__helper.html#a3f723c104d97b3238798b8d832fd58ff',1,'spic::helper_functions::general_helper']]],
@@ -32,7 +32,7 @@ var searchData=
   ['getkeys_29',['GetKeys',['../namespacespic_1_1helper__functions_1_1container.html#a1b1f698f951d383900eb668320043315',1,'spic::helper_functions::container']]],
   ['getkeyup_30',['GetKeyUp',['../namespacespic_1_1input.html#aee4d5cc85a2081cec07e2c6b1a0f96ac',1,'spic::input::GetKeyUp()'],['../namespacespic_1_1internal_1_1InputImpl.html#a229e0afd1845d8bf706a325123f79a64',1,'spic::internal::InputImpl::GetKeyUp()']]],
   ['getlayer_31',['GetLayer',['../classspic_1_1tiled_1_1TileMap.html#a4762ab884b6155befb33663e8b828680',1,'spic::tiled::TileMap']]],
-  ['getlinearvelocity_32',['GetLinearVelocity',['../classspic_1_1extensions_1_1PhysicsExtension1.html#a28daf9ec5ad5e213a3259a9cf10ea442',1,'spic::extensions::PhysicsExtension1::GetLinearVelocity()'],['../classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#a7c5ae8a4803ec9f22ba406d6605854b2',1,'spic::extensions::PhysicsExtensionImpl1::GetLinearVelocity()'],['../classspic_1_1extensions_1_1IPhysicsExtension.html#a93f661be9b72b2a2045b3e2ce639a3e0',1,'spic::extensions::IPhysicsExtension::GetLinearVelocity()']]],
+  ['getlinearvelocity_32',['GetLinearVelocity',['../classspic_1_1extensions_1_1IPhysicsExtension.html#a93f661be9b72b2a2045b3e2ce639a3e0',1,'spic::extensions::IPhysicsExtension::GetLinearVelocity()'],['../classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#a7c5ae8a4803ec9f22ba406d6605854b2',1,'spic::extensions::PhysicsExtensionImpl1::GetLinearVelocity()'],['../classspic_1_1extensions_1_1PhysicsExtension1.html#a28daf9ec5ad5e213a3259a9cf10ea442',1,'spic::extensions::PhysicsExtension1::GetLinearVelocity()']]],
   ['getmatrix_33',['GetMatrix',['../classspic_1_1tiled_1_1TileLayer.html#a92470594539c711b8f8cded3078159d7',1,'spic::tiled::TileLayer']]],
   ['getmousebutton_34',['GetMouseButton',['../namespacespic_1_1input.html#aba3c81e2439fc59631870f83a91a3d91',1,'spic::input::GetMouseButton()'],['../namespacespic_1_1internal_1_1InputImpl.html#afd28ad42e192fc602f848be57b51e651',1,'spic::internal::InputImpl::GetMouseButton()']]],
   ['getmousebuttondown_35',['GetMouseButtonDown',['../namespacespic_1_1input.html#a19823bf6b7b4682099ec63075f8e743f',1,'spic::input::GetMouseButtonDown()'],['../namespacespic_1_1internal_1_1InputImpl.html#a974cc800d6ed8fad614bbce0bab7d7d8',1,'spic::internal::InputImpl::GetMouseButtonDown()']]],
@@ -46,9 +46,8 @@ var searchData=
   ['getsize_43',['GetSize',['../classspic_1_1tiled_1_1TileLayer.html#a56208be9492413a83edd5a12bb71c1d1',1,'spic::tiled::TileLayer']]],
   ['gettilesize_44',['GetTileSize',['../classspic_1_1tiled_1_1TileLayer.html#ad423489c10558bdc114a01ce6040e707',1,'spic::tiled::TileLayer']]],
   ['gettypename_45',['GetTypeName',['../namespacespic_1_1helper__functions_1_1type__helper.html#ae63b65ee21b797dacd3f71ea3a53db9e',1,'spic::helper_functions::type_helper::GetTypeName()'],['../namespacespic_1_1helper__functions_1_1type__helper.html#aaeeea60f55683f34fa14983c21088c77',1,'spic::helper_functions::type_helper::GetTypeName(T object)']]],
-  ['getvalues_46',['GetValues',['../namespacespic_1_1helper__functions_1_1container.html#a3b2fd0b692cd5d0f113872d1aeea72ee',1,'spic::helper_functions::container']]],
-  ['grave_5faccent_5fand_5ftilde_47',['GRAVE_ACCENT_AND_TILDE',['../namespacespic_1_1input.html#a274f6bbd5b1b0d75d59451b6d24f997fa85d96861c533b803fadc36d0db7e144b',1,'spic::input']]],
-  ['gravity_48',['GRAVITY',['../namespacespic_1_1settings.html#a35dea2ca60e4c201e8c2f081dd44177a',1,'spic::settings']]],
-  ['gravityscale_49',['GravityScale',['../classspic_1_1RigidBody.html#ad6692a5d28ba98f707019b0c158da91b',1,'spic::RigidBody::GravityScale() const'],['../classspic_1_1RigidBody.html#a6bc6c6014d406617d99fd756eeaad70d',1,'spic::RigidBody::GravityScale(const float newGravityScale)']]],
-  ['green_50',['green',['../classspic_1_1Color.html#a2aeaad5a555b6a1140a5efa65bd2e1e5',1,'spic::Color']]]
+  ['grave_5faccent_5fand_5ftilde_46',['GRAVE_ACCENT_AND_TILDE',['../namespacespic_1_1input.html#a274f6bbd5b1b0d75d59451b6d24f997fa85d96861c533b803fadc36d0db7e144b',1,'spic::input']]],
+  ['gravity_47',['GRAVITY',['../namespacespic_1_1settings.html#a35dea2ca60e4c201e8c2f081dd44177a',1,'spic::settings']]],
+  ['gravityscale_48',['GravityScale',['../classspic_1_1RigidBody.html#ad6692a5d28ba98f707019b0c158da91b',1,'spic::RigidBody::GravityScale() const'],['../classspic_1_1RigidBody.html#a6bc6c6014d406617d99fd756eeaad70d',1,'spic::RigidBody::GravityScale(const float newGravityScale)']]],
+  ['green_49',['green',['../classspic_1_1Color.html#a2aeaad5a555b6a1140a5efa65bd2e1e5',1,'spic::Color']]]
 ];

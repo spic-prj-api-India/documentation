@@ -145,6 +145,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:acdd464c65316fe083a0e89374442109f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a57a0163c6d51fcc3b445784214eb55e7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1GameEngine.html#a57a0163c6d51fcc3b445784214eb55e7">LoadSceneByName</a> (const std::string &amp;sceneName)</td></tr>
 <tr class="separator:a57a0163c6d51fcc3b445784214eb55e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab786d70b4a31e293615d6fd7e89f4a8c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1GameEngine.html#ab786d70b4a31e293615d6fd7e89f4a8c">SaveScene</a> (const std::string &amp;fileName)</td></tr>
+<tr class="separator:ab786d70b4a31e293615d6fd7e89f4a8c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4124ece9dbd154b33578f1f4106143f9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1GameEngine.html#a4124ece9dbd154b33578f1f4106143f9">LoadSceneBySaveFile</a> (std::shared_ptr&lt; <a class="el" href="classspic_1_1Scene.html">Scene</a> &gt; scene, const std::string &amp;fileName)</td></tr>
+<tr class="separator:a4124ece9dbd154b33578f1f4106143f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af88327c5e3059aad573f4677f1e87a69"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1GameEngine.html#af88327c5e3059aad573f4677f1e87a69">DestroyScene</a> (bool forceDelete)</td></tr>
 <tr class="separator:af88327c5e3059aad573f4677f1e87a69"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6d4cc4a0b20bc89e8b5225f6d15016e2"><td class="memItemLeft" align="right" valign="top">std::shared_ptr&lt; <a class="el" href="classspic_1_1Scene.html">Scene</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1GameEngine.html#a6d4cc4a0b20bc89e8b5225f6d15016e2">GetActiveScene</a> ()</td></tr>
@@ -505,6 +509,34 @@ template&lt;typename T &gt; </div>
 
 </div>
 </div>
+<a id="a4124ece9dbd154b33578f1f4106143f9" name="a4124ece9dbd154b33578f1f4106143f9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4124ece9dbd154b33578f1f4106143f9">&#9670;&#160;</a></span>LoadSceneBySaveFile()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void spic::GameEngine::LoadSceneBySaveFile </td>
+          <td>(</td>
+          <td class="paramtype">std::shared_ptr&lt; <a class="el" href="classspic_1_1Scene.html">Scene</a> &gt;&#160;</td>
+          <td class="paramname"><em>scene</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>fileName</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a27b2694a07864883e232ff38c5230a3f" name="a27b2694a07864883e232ff38c5230a3f"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a27b2694a07864883e232ff38c5230a3f">&#9670;&#160;</a></span>operator=() <span class="overload">[1/2]</span></h2>
 
@@ -646,6 +678,24 @@ template&lt;typename T &gt; </div>
 <p>removes extension from engine. </p>
 <dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
 </dd></dl>
+
+</div>
+</div>
+<a id="ab786d70b4a31e293615d6fd7e89f4a8c" name="ab786d70b4a31e293615d6fd7e89f4a8c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab786d70b4a31e293615d6fd7e89f4a8c">&#9670;&#160;</a></span>SaveScene()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void spic::GameEngine::SaveScene </td>
+          <td>(</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>fileName</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
 
 </div>
 </div>

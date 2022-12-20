@@ -1,8 +1,9 @@
 var namespacespic_1_1helper__functions =
 [
     [ "container", "namespacespic_1_1helper__functions_1_1container.html", [
+      [ "Find", "namespacespic_1_1helper__functions_1_1container.html#a8e54d3913c8706bde6a525986dab120e", null ],
       [ "GetKeys", "namespacespic_1_1helper__functions_1_1container.html#a1b1f698f951d383900eb668320043315", null ],
-      [ "GetValues", "namespacespic_1_1helper__functions_1_1container.html#a3b2fd0b692cd5d0f113872d1aeea72ee", null ]
+      [ "Values", "namespacespic_1_1helper__functions_1_1container.html#a7394d02380bc89b92446cb6ce9b93bf7", null ]
     ] ],
     [ "general_helper", "namespacespic_1_1helper__functions_1_1general__helper.html", [
       [ "CalculateWithinSquare", "namespacespic_1_1helper__functions_1_1general__helper.html#a6f2108b39cf4efe03eaf293e4c5b9002", null ],

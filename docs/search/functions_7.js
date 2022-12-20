@@ -43,7 +43,6 @@ var searchData=
   ['getsize_40',['GetSize',['../classspic_1_1tiled_1_1TileLayer.html#a56208be9492413a83edd5a12bb71c1d1',1,'spic::tiled::TileLayer']]],
   ['gettilesize_41',['GetTileSize',['../classspic_1_1tiled_1_1TileLayer.html#ad423489c10558bdc114a01ce6040e707',1,'spic::tiled::TileLayer']]],
   ['gettypename_42',['GetTypeName',['../namespacespic_1_1helper__functions_1_1type__helper.html#ae63b65ee21b797dacd3f71ea3a53db9e',1,'spic::helper_functions::type_helper::GetTypeName()'],['../namespacespic_1_1helper__functions_1_1type__helper.html#aaeeea60f55683f34fa14983c21088c77',1,'spic::helper_functions::type_helper::GetTypeName(T object)']]],
-  ['getvalues_43',['GetValues',['../namespacespic_1_1helper__functions_1_1container.html#a3b2fd0b692cd5d0f113872d1aeea72ee',1,'spic::helper_functions::container']]],
-  ['gravityscale_44',['GravityScale',['../classspic_1_1RigidBody.html#ad6692a5d28ba98f707019b0c158da91b',1,'spic::RigidBody::GravityScale() const'],['../classspic_1_1RigidBody.html#a6bc6c6014d406617d99fd756eeaad70d',1,'spic::RigidBody::GravityScale(const float newGravityScale)']]],
-  ['green_45',['green',['../classspic_1_1Color.html#a2aeaad5a555b6a1140a5efa65bd2e1e5',1,'spic::Color']]]
+  ['gravityscale_43',['GravityScale',['../classspic_1_1RigidBody.html#ad6692a5d28ba98f707019b0c158da91b',1,'spic::RigidBody::GravityScale() const'],['../classspic_1_1RigidBody.html#a6bc6c6014d406617d99fd756eeaad70d',1,'spic::RigidBody::GravityScale(const float newGravityScale)']]],
+  ['green_44',['green',['../classspic_1_1Color.html#a2aeaad5a555b6a1140a5efa65bd2e1e5',1,'spic::Color']]]
 ];

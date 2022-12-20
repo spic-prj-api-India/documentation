@@ -106,13 +106,12 @@ Inheritance diagram for spic::GameObject:</div>
 <div class="dyncontent">
 <div class="center"><img src="classspic_1_1GameObject__inherit__graph.png" border="0" usemap="#aspic_1_1GameObject_inherit__map" alt="Inheritance graph"/></div>
 <map name="aspic_1_1GameObject_inherit__map" id="aspic_1_1GameObject_inherit__map">
-<area shape="rect" title="Any object which should be represented on screen." alt="" coords="199,5,326,31"/>
+<area shape="rect" title="Any object which should be represented on screen." alt="" coords="127,5,254,31"/>
 <area shape="rect" href="classspic_1_1Camera.html" title="Class representing a point of view towards the game scene." alt="" coords="5,79,104,104"/>
 <area shape="rect" href="classspic_1_1ForceDriven.html" title="Force driven entity only moves with force." alt="" coords="129,79,253,104"/>
-<area shape="rect" href="classspic_1_1Persistable.html" title=" " alt="" coords="277,79,395,104"/>
-<area shape="rect" href="classspic_1_1UIObject.html" title="Base class for a user interface object like Button or Text." alt="" coords="419,79,525,104"/>
-<area shape="rect" href="classspic_1_1Button.html" title="Instances of this class are clickable user interface items." alt="" coords="371,152,463,177"/>
-<area shape="rect" href="classspic_1_1Text.html" title="Class representing a piece of text which can be rendered." alt="" coords="487,152,566,177"/>
+<area shape="rect" href="classspic_1_1UIObject.html" title="Base class for a user interface object like Button or Text." alt="" coords="277,79,382,104"/>
+<area shape="rect" href="classspic_1_1Button.html" title="Instances of this class are clickable user interface items." alt="" coords="229,152,321,177"/>
+<area shape="rect" href="classspic_1_1Text.html" title="Class representing a piece of text which can be rendered." alt="" coords="345,152,423,177"/>
 </map>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -176,10 +175,10 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:acdf929ac744158d019a0428c1a822b59"><td class="memItemLeft" align="right" valign="top">const float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1GameObject.html#acdf929ac744158d019a0428c1a822b59">Scale</a> () const</td></tr>
 <tr class="memdesc:acdf929ac744158d019a0428c1a822b59"><td class="mdescLeft">&#160;</td><td class="mdescRight">Const version of scale.  <a href="classspic_1_1GameObject.html#acdf929ac744158d019a0428c1a822b59">More...</a><br /></td></tr>
 <tr class="separator:acdf929ac744158d019a0428c1a822b59"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad422b44b0a95b3c27456f7cf1ca99eb4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1GameObject.html#ad422b44b0a95b3c27456f7cf1ca99eb4">DontDestroyOnLoad</a> ()</td></tr>
-<tr class="separator:ad422b44b0a95b3c27456f7cf1ca99eb4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aefb4a2509f1c58aaf464507ba5b1e23c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1GameObject.html#aefb4a2509f1c58aaf464507ba5b1e23c">DontDestroyOnLoad</a> (bool destroyOnLoad)</td></tr>
-<tr class="separator:aefb4a2509f1c58aaf464507ba5b1e23c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a22eddf58645445a6be0c74ea14b02372"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1GameObject.html#a22eddf58645445a6be0c74ea14b02372">DestroyOnLoad</a> () const</td></tr>
+<tr class="separator:a22eddf58645445a6be0c74ea14b02372"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7a8eb39cc0ce769287f89c8556cda585"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1GameObject.html#a7a8eb39cc0ce769287f89c8556cda585">DestroyOnLoad</a> (bool destroyOnLoad)</td></tr>
+<tr class="separator:a7a8eb39cc0ce769287f89c8556cda585"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a155cb2e2f87e48dc762d2c47c00ec197"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1GameObject.html#a155cb2e2f87e48dc762d2c47c00ec197">IsActiveInWorld</a> () const</td></tr>
 <tr class="memdesc:a155cb2e2f87e48dc762d2c47c00ec197"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns whether this game component is active, taking its parents into consideration as well.  <a href="classspic_1_1GameObject.html#a155cb2e2f87e48dc762d2c47c00ec197">More...</a><br /></td></tr>
 <tr class="separator:a155cb2e2f87e48dc762d2c47c00ec197"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -708,31 +707,31 @@ template&lt;typename T &gt; </div>
 
 </div>
 </div>
-<a id="ad422b44b0a95b3c27456f7cf1ca99eb4" name="ad422b44b0a95b3c27456f7cf1ca99eb4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad422b44b0a95b3c27456f7cf1ca99eb4">&#9670;&#160;</a></span>DontDestroyOnLoad() <span class="overload">[1/2]</span></h2>
+<a id="a22eddf58645445a6be0c74ea14b02372" name="a22eddf58645445a6be0c74ea14b02372"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a22eddf58645445a6be0c74ea14b02372">&#9670;&#160;</a></span>DestroyOnLoad() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool spic::GameObject::DontDestroyOnLoad </td>
+          <td class="memname">bool spic::GameObject::DestroyOnLoad </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td> const</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a id="aefb4a2509f1c58aaf464507ba5b1e23c" name="aefb4a2509f1c58aaf464507ba5b1e23c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aefb4a2509f1c58aaf464507ba5b1e23c">&#9670;&#160;</a></span>DontDestroyOnLoad() <span class="overload">[2/2]</span></h2>
+<a id="a7a8eb39cc0ce769287f89c8556cda585" name="a7a8eb39cc0ce769287f89c8556cda585"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7a8eb39cc0ce769287f89c8556cda585">&#9670;&#160;</a></span>DestroyOnLoad() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void spic::GameObject::DontDestroyOnLoad </td>
+          <td class="memname">void spic::GameObject::DestroyOnLoad </td>
           <td>(</td>
           <td class="paramtype">bool&#160;</td>
           <td class="paramname"><em>destroyOnLoad</em></td><td>)</td>
