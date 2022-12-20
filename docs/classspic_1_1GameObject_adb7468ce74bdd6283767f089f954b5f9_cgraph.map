@@ -1,0 +1,8 @@
+<map id="spic::GameObject::Destroy" name="spic::GameObject::Destroy">
+<area shape="rect" id="node1" title="Removes a GameObject from the administration." alt="" coords="5,45,185,70"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1EntityManager.html#a29cfad81ba4f0123ed80b95ebd6cf2b5" title=" " alt="" coords="233,5,421,45"/>
+<area shape="rect" id="node6" href="$classspic_1_1internal_1_1EntityManager.html#ab2885bfa5bc7ac7aaff1225c1e821ebe" title=" " alt="" coords="233,69,421,109"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1EntityManager.html#a7555637657d090171be6ceee8451de0a" title="Calls the init method." alt="" coords="469,5,657,45"/>
+<area shape="rect" id="node4" href="$classspic_1_1internal_1_1EntityManager.html#abddae91d3605e8fcdc55640ecb5d463d" title=" " alt="" coords="705,5,893,45"/>
+<area shape="rect" id="node5" href="$structspic_1_1internal_1_1audio_1_1AudioFacade.html#a689fd9c815151a819f325c11f7587d83" title="Creates an new AudioSystem and puts it on the heap. The current audioImplementation has an bug that i..." alt="" coords="941,5,1127,45"/>
+</map>

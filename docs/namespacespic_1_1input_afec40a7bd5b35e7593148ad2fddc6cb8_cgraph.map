@@ -1,0 +1,4 @@
+<map id="spic::input::AnyKeyDown" name="spic::input::AnyKeyDown">
+<area shape="rect" id="node1" title="Returns true the first frame the user hits any key or mouse button. (Read Only)" alt="" coords="5,13,173,38"/>
+<area shape="rect" id="node2" href="$namespacespic_1_1internal_1_1input_1_1impl.html#ad37c5c3aed771bc16ff7c2025073e217" title="Returns true the first frame the user hits any key or mouse button. (Read Only)" alt="" coords="221,5,361,45"/>
+</map>

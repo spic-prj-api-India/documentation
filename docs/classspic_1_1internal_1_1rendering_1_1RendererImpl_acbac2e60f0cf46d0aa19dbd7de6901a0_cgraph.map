@@ -1,0 +1,6 @@
+<map id="spic::internal::rendering::RendererImpl::UpdateCamera" name="spic::internal::rendering::RendererImpl::UpdateCamera">
+<area shape="rect" id="node1" title="Updates internal parameters width parameters in camera." alt="" coords="5,69,207,109"/>
+<area shape="rect" id="node2" href="$classspic_1_1Camera.html#ae559dd716a4aad718080cf04052a8093" title="Sets background color of Camera." alt="" coords="264,5,440,45"/>
+<area shape="rect" id="node3" href="$classspic_1_1Camera.html#a8da6648a78c32611befb6bf59531f178" title="Sets background image path of Camera." alt="" coords="264,69,440,109"/>
+<area shape="rect" id="node4" href="$classspic_1_1GameObject.html#a1585c2489e79a1628aa0920a1e2b8c41" title="Returns transform of GameObject." alt="" coords="255,134,449,159"/>
+</map>

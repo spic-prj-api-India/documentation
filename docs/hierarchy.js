@@ -7,6 +7,7 @@ var hierarchy =
     ] ],
     [ "spic::Bounds", "classspic_1_1Bounds.html", null ],
     [ "spic::internal::audio::impl::Chunk", "classspic_1_1internal_1_1audio_1_1impl_1_1Chunk.html", null ],
+    [ "spic::Circle", "structspic_1_1Circle.html", null ],
     [ "Client", "structClient.html", null ],
     [ "spic::Color", "classspic_1_1Color.html", null ],
     [ "spic::Component", "classspic_1_1Component.html", [
@@ -17,9 +18,11 @@ var hierarchy =
         [ "spic::BoxCollider", "classspic_1_1BoxCollider.html", null ],
         [ "spic::CircleCollider", "classspic_1_1CircleCollider.html", null ]
       ] ],
+      [ "spic::Flocking", "classspic_1_1Flocking.html", null ],
       [ "spic::RigidBody", "classspic_1_1RigidBody.html", null ],
       [ "spic::SocketScript", "classspic_1_1SocketScript.html", null ],
-      [ "spic::Sprite", "classspic_1_1Sprite.html", null ]
+      [ "spic::Sprite", "classspic_1_1Sprite.html", null ],
+      [ "spic::Steering", "classspic_1_1Steering.html", null ]
     ] ],
     [ "spic::DataHandler", "classspic_1_1DataHandler.html", null ],
     [ "spic::internal::EntityManager", "classspic_1_1internal_1_1EntityManager.html", null ],
@@ -66,8 +69,10 @@ var hierarchy =
       [ "spic::internal::systems::PhysicsSystem", "classspic_1_1internal_1_1systems_1_1PhysicsSystem.html", null ],
       [ "spic::internal::systems::RenderingSystem", "classspic_1_1internal_1_1systems_1_1RenderingSystem.html", null ]
     ] ],
+    [ "spic::Line", "structspic_1_1Line.html", null ],
     [ "spic::internal::MapParser", "classspic_1_1internal_1_1MapParser.html", null ],
     [ "spic::NetworkPacket", "structspic_1_1NetworkPacket.html", null ],
+    [ "spic::Obstacle", "classspic_1_1Obstacle.html", null ],
     [ "spic::Persistable", "classspic_1_1Persistable.html", null ],
     [ "spic::extensions::PhysicsExtensionImpl1", "classspic_1_1extensions_1_1PhysicsExtensionImpl1.html", null ],
     [ "spic::Point", "structspic_1_1Point.html", null ],
@@ -76,7 +81,7 @@ var hierarchy =
     [ "spic::internal::Rendering", "structspic_1_1internal_1_1Rendering.html", null ],
     [ "spic::internal::math::S2DMatrix", "classspic_1_1internal_1_1math_1_1S2DMatrix.html", null ],
     [ "spic::internal::audio::impl::Sample", "classspic_1_1internal_1_1audio_1_1impl_1_1Sample.html", null ],
-    [ "spic::SaveDocument", "classspic_1_1SaveDocument.html", null ],
+    [ "spic::internal::SaveDocument", "classspic_1_1internal_1_1SaveDocument.html", null ],
     [ "spic::Scene", "classspic_1_1Scene.html", null ],
     [ "spic::internal::rendering::SDL_Deleter", "structspic_1_1internal_1_1rendering_1_1SDL__Deleter.html", null ],
     [ "spic::Serializer", "structspic_1_1Serializer.html", null ],

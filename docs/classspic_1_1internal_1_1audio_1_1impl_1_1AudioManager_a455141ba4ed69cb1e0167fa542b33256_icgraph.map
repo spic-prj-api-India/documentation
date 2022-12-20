@@ -1,0 +1,4 @@
+<map id="spic::internal::audio::impl::AudioManager::StopAllSamples" name="spic::internal::audio::impl::AudioManager::StopAllSamples">
+<area shape="rect" id="node1" title="Stops samples if they are playing." alt="" coords="260,5,405,60"/>
+<area shape="rect" id="node2" href="$structspic_1_1internal_1_1audio_1_1AudioFacade.html#a6c482b6e7c4c3a009413721a0e5f41aa" title="Stops samples if they are playing." alt="" coords="5,13,212,53"/>
+</map>

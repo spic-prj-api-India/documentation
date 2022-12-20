@@ -1,0 +1,11 @@
+<map id="spic::internal::math::PointToLocalSpace" name="spic::internal::math::PointToLocalSpace">
+<area shape="rect" id="node1" title="Transforms a point from the agent&#39;s to local space." alt="" coords="5,229,148,269"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1math_1_1S2DMatrix.html#aa2f7b409e0453a377a452aaf15dc88c7" title=" " alt="" coords="227,5,360,45"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1math_1_1S2DMatrix.html#ac122229f8fb2e4a76629737325a545f8" title=" " alt="" coords="227,69,360,109"/>
+<area shape="rect" id="node4" href="$classspic_1_1internal_1_1math_1_1S2DMatrix.html#ac8ca85a7bc0c80ded23ae94ffa9b2768" title=" " alt="" coords="227,133,360,173"/>
+<area shape="rect" id="node5" href="$classspic_1_1internal_1_1math_1_1S2DMatrix.html#a0e3fdf4ab232f5bfe904467714788afc" title=" " alt="" coords="227,197,360,237"/>
+<area shape="rect" id="node6" href="$classspic_1_1internal_1_1math_1_1S2DMatrix.html#adb6d9fed22e20425acbab1ea8dc1ff47" title=" " alt="" coords="227,261,360,301"/>
+<area shape="rect" id="node7" href="$classspic_1_1internal_1_1math_1_1S2DMatrix.html#ac3f9c6ce0c679d40a5b0e6581d5895ad" title=" " alt="" coords="227,325,360,365"/>
+<area shape="rect" id="node8" href="$structspic_1_1Point.html#aa0d811066ee3a414ccdc1a664501ac33" title="operator for multipling Point" alt="" coords="237,390,349,415"/>
+<area shape="rect" id="node9" href="$classspic_1_1internal_1_1math_1_1S2DMatrix.html#a3c29e4b0ff67660837cfa0c1a8f79235" title="Applies a transformation matrix to a point." alt="" coords="196,440,391,480"/>
+</map>

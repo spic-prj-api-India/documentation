@@ -1,0 +1,5 @@
+<map id="spic::tiled::TileLayer::Render" name="spic::tiled::TileLayer::Render">
+<area shape="rect" id="node1" title="Renders the tile layer." alt="" coords="5,37,144,77"/>
+<area shape="rect" id="node2" href="$structspic_1_1internal_1_1Rendering.html#a4b124ebe5b62d1d71c1d8ed43e6930d2" title="Draws a sprite as an ui object." alt="" coords="192,5,355,45"/>
+<area shape="rect" id="node3" href="$classspic_1_1tiled_1_1TileLayer.html#a56208be9492413a83edd5a12bb71c1d1" title="Getter." alt="" coords="204,69,343,109"/>
+</map>

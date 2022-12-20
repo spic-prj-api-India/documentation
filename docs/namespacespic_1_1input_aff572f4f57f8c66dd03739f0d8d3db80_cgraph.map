@@ -1,0 +1,6 @@
+<map id="spic::input::Subscribe" name="spic::input::Subscribe">
+<area shape="rect" id="node1" title="Subscribes a mouse listener for a specific mouse event." alt="" coords="5,45,153,70"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1InputManager.html#a0581e2ffd3539fb358142cb6527cf73d" title=" " alt="" coords="201,5,384,45"/>
+<area shape="rect" id="node4" href="$classspic_1_1internal_1_1InputManager.html#a3e5533076335d5448fd037eda0a0d95d" title="Subscribes a key listener for a specific key event." alt="" coords="201,69,384,109"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1InputManager.html#a4babbf178d73139836a1f1d89eaabd29" title=" " alt="" coords="432,5,615,45"/>
+</map>

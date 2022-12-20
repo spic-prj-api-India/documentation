@@ -1,0 +1,5 @@
+<map id="spic::Sprite::_Sprite" name="spic::Sprite::_Sprite">
+<area shape="rect" id="node1" title="Gets texture path of Sprite." alt="" coords="244,45,381,70"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a526e653597b7811bb856ce25ea98dc2d" title="Draws an sprite." alt="" coords="11,5,190,45"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a02264da176dbd91aa02553ac1a698be4" title="Draws an ui sprite." alt="" coords="5,69,196,109"/>
+</map>

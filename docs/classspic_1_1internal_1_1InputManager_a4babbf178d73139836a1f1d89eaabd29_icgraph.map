@@ -1,0 +1,11 @@
+<map id="spic::internal::InputManager::InputManager" name="spic::internal::InputManager::InputManager">
+<area shape="rect" id="node1" title=" " alt="" coords="691,112,873,152"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1InputManager.html#a0581e2ffd3539fb358142cb6527cf73d" title=" " alt="" coords="460,112,643,152"/>
+<area shape="rect" id="node3" href="$namespacespic_1_1input.html#ae15fcf1c7a5fa0233fa6dd9873d478eb" title="Unsubscribes all key and mouse events." alt="" coords="223,5,412,45"/>
+<area shape="rect" id="node4" href="$namespacespic_1_1input.html#aa12c210a5b3363c410958cd8ec5a745f" title="Subscribes a key listener for a specific key event." alt="" coords="243,70,391,95"/>
+<area shape="rect" id="node7" href="$namespacespic_1_1input.html#a1b5c2f2417ba11ef35a456a0957c50b1" title="Unsubscribes a key listener for a specific key event." alt="" coords="235,119,399,145"/>
+<area shape="rect" id="node8" href="$namespacespic_1_1input.html#a0a9bc78388e40a3e9b73e31a7e4b8eff" title="Unsubscribes all listeners (only call this when loading a new scene)" alt="" coords="228,169,407,194"/>
+<area shape="rect" id="node9" href="$classspic_1_1internal_1_1systems_1_1InputSystem.html#a650977f1776132a3117c7ec0919489d5" title="Calls Listen method in InputManager." alt="" coords="240,219,395,259"/>
+<area shape="rect" id="node5" href="$classspic_1_1internal_1_1systems_1_1InputSystem.html#ad356610a086a17ccd654adae08c064bf" title="Initiliazes system." alt="" coords="13,31,167,71"/>
+<area shape="rect" id="node6" href="$classspic_1_1internal_1_1systems_1_1RenderingSystem.html#af8ee9bb2717e293f041f45e854310ce8" title="Initiliazes system." alt="" coords="5,95,175,135"/>
+</map>

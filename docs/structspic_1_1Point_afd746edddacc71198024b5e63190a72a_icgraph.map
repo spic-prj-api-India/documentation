@@ -1,0 +1,4 @@
+<map id="spic::Point::Normalize" name="spic::Point::Normalize">
+<area shape="rect" id="node1" title="Normalizes 2D Vector." alt="" coords="215,5,365,31"/>
+<area shape="rect" id="node2" href="$structspic_1_1Point.html#a502c272464ad132ffefbf12a77441488" title="Checks if force can be added. If force added to current force is higher than maxForce,..." alt="" coords="5,5,167,31"/>
+</map>

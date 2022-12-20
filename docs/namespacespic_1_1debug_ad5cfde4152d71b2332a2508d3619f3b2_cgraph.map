@@ -1,0 +1,4 @@
+<map id="spic::debug::DrawLine" name="spic::debug::DrawLine">
+<area shape="rect" id="node1" title="Draws a colored line between specified start and end points in world space." alt="" coords="5,13,156,38"/>
+<area shape="rect" id="node2" href="$structspic_1_1internal_1_1Rendering.html#a6ee8d1a681a2788fd0580b7f97bd8f01" title="Add debug line to renderer, line will be drawn at the end of the render in world space." alt="" coords="204,5,367,45"/>
+</map>

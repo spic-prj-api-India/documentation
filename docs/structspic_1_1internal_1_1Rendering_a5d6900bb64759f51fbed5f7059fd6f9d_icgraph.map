@@ -1,0 +1,4 @@
+<map id="spic::internal::Rendering::AddDebugCircle" name="spic::internal::Rendering::AddDebugCircle">
+<area shape="rect" id="node1" title="Add debug circle to renderer, circle will be drawn at the end of the render in world space." alt="" coords="212,5,375,45"/>
+<area shape="rect" id="node2" href="$namespacespic_1_1debug.html#aed6faebe318877f9ac3a5ae8116343d4" title="Draws a colored circle in world space." alt="" coords="5,13,164,38"/>
+</map>

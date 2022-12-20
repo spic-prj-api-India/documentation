@@ -1,0 +1,9 @@
+<map id="spic::GameEngine::SaveScene" name="spic::GameEngine::SaveScene">
+<area shape="rect" id="node1" title=" " alt="" coords="5,77,209,102"/>
+<area shape="rect" id="node2" href="$classspic_1_1DataHandler.html#a848a7cf82a9a53d28deb2347e6441086" title="Creates the scene elements of the save file and passes the scene entities to the methods for adding e..." alt="" coords="285,5,418,45"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1EntityManager.html#a29cfad81ba4f0123ed80b95ebd6cf2b5" title=" " alt="" coords="257,69,445,109"/>
+<area shape="rect" id="node7" href="$classspic_1_1DataHandler.html#aaca1ad18d8c37a657254e6bd72011d89" title="Saves a local save file." alt="" coords="270,134,433,159"/>
+<area shape="rect" id="node4" href="$classspic_1_1internal_1_1EntityManager.html#a7555637657d090171be6ceee8451de0a" title="Calls the init method." alt="" coords="493,69,681,109"/>
+<area shape="rect" id="node5" href="$classspic_1_1internal_1_1EntityManager.html#abddae91d3605e8fcdc55640ecb5d463d" title=" " alt="" coords="729,69,917,109"/>
+<area shape="rect" id="node6" href="$structspic_1_1internal_1_1audio_1_1AudioFacade.html#a689fd9c815151a819f325c11f7587d83" title="Creates an new AudioSystem and puts it on the heap. The current audioImplementation has an bug that i..." alt="" coords="965,69,1151,109"/>
+</map>

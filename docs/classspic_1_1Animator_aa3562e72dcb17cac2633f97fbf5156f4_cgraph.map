@@ -1,0 +1,4 @@
+<map id="spic::Animator::AddSprite" name="spic::Animator::AddSprite">
+<area shape="rect" id="node1" title="Adds a sprite to the sprite list and resort the list The last orderlayer is amount of sprite frames s..." alt="" coords="5,13,176,38"/>
+<area shape="rect" id="node2" href="$namespacespic_1_1helper__functions_1_1general__helper.html#aeca704f2fa59947ce4b58031121167ed" title="Sorts sprite based on order layer first and sorting layer second." alt="" coords="224,5,421,45"/>
+</map>

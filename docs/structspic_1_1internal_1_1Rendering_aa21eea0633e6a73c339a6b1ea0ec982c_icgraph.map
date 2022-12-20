@@ -1,0 +1,4 @@
+<map id="spic::internal::Rendering::UpdateCamera" name="spic::internal::Rendering::UpdateCamera">
+<area shape="rect" id="node1" title="Updates the internal rendering camera and the internal background color." alt="" coords="236,5,399,45"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1systems_1_1RenderingSystem.html#a273d1136b2a4d49269f578689570a93d" title="Renders all entities in current scene." alt="" coords="5,5,188,45"/>
+</map>

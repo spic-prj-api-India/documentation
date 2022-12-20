@@ -1,0 +1,5 @@
+<map id="spic::Color::R" name="spic::Color::R">
+<area shape="rect" id="node1" title=" " alt="" coords="211,45,312,70"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a7f33c2bc9317ddd567e256a43a4ecff8" title="Cleans the render class before drawing it." alt="" coords="5,5,163,45"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1rendering_1_1RendererImpl.html#af4cee530cd6ac2e14dd2e5f18a7e597f" title="Renders everything in internal buffer to screen." alt="" coords="5,69,163,109"/>
+</map>

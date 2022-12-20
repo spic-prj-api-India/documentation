@@ -1,0 +1,4 @@
+<map id="spic::helper_functions::general_helper::GetPoints" name="spic::helper_functions::general_helper::GetPoints">
+<area shape="rect" id="node1" title="Gets all corner rectangle points (with rotation based on center of rectangle)" alt="" coords="5,5,185,45"/>
+<area shape="rect" id="node2" href="$namespacespic_1_1helper__functions_1_1general__helper.html#af56147c5b27e611c469c5d740920fa72" title="Rotats point p on point org by the radians contained in angle." alt="" coords="233,5,424,45"/>
+</map>

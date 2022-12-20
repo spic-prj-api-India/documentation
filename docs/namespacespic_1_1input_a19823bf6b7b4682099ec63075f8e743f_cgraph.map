@@ -1,0 +1,4 @@
+<map id="spic::input::GetMouseButtonDown" name="spic::input::GetMouseButtonDown">
+<area shape="rect" id="node1" title="Returns true during the frame the user pressed the given mouse button." alt="" coords="5,13,225,38"/>
+<area shape="rect" id="node2" href="$namespacespic_1_1internal_1_1input_1_1impl.html#acc86fe8354991f081949676ee844f595" title="Returns true during the frame the user pressed the given mouse button." alt="" coords="273,5,465,45"/>
+</map>

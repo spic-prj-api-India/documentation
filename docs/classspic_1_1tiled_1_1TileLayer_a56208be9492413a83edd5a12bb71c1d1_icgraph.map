@@ -1,0 +1,5 @@
+<map id="spic::tiled::TileLayer::GetSize" name="spic::tiled::TileLayer::GetSize">
+<area shape="rect" id="node1" title="Getter." alt="" coords="277,37,416,77"/>
+<area shape="rect" id="node2" href="$classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#a6ebc3bdfd2bed8cf3157c5be05965f9c" title="Add collision layer to physic world." alt="" coords="5,5,229,45"/>
+<area shape="rect" id="node3" href="$classspic_1_1tiled_1_1TileLayer.html#a3f368381dab569ca8038f71341792cf0" title="Renders the tile layer." alt="" coords="48,69,187,109"/>
+</map>

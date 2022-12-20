@@ -1,0 +1,4 @@
+<map id="spic::internal::math::S2DMatrix::Translate" name="spic::internal::math::S2DMatrix::Translate">
+<area shape="rect" id="node1" title="Creates a transformation matrix." alt="" coords="197,5,351,45"/>
+<area shape="rect" id="node2" href="$namespacespic_1_1internal_1_1math.html#a0e90991056cc11cfe95c9c635572b559" title="Transforms a point from the agent&#39;s local space into world space." alt="" coords="5,5,149,45"/>
+</map>

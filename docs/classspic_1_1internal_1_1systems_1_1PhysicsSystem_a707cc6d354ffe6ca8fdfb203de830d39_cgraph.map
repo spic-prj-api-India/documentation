@@ -1,0 +1,6 @@
+<map id="spic::internal::systems::PhysicsSystem::Update" name="spic::internal::systems::PhysicsSystem::Update">
+<area shape="rect" id="node1" title="Calls update method of physics extensions." alt="" coords="5,23,176,63"/>
+<area shape="rect" id="node2" href="$classspic_1_1GameEngine.html#a3eaffd73131e447d0a138f429783f4ca" title="Gets extensions of type IEngineExtension." alt="" coords="224,5,447,31"/>
+<area shape="rect" id="node3" href="$classspic_1_1GameEngine.html#ab5798545559d7772a548fc6603cdff6d" title=" " alt="" coords="231,55,439,80"/>
+<area shape="rect" id="node4" href="$classspic_1_1GameEngine.html#a99f1ce7467074848feaa9689f87cc6f4" title=" " alt="" coords="495,55,707,80"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="spic::internal::math::S2DMatrix::TransformPoints" name="spic::internal::math::S2DMatrix::TransformPoints">
+<area shape="rect" id="node1" title="Applies a transformation matrix to a point." alt="" coords="204,133,399,173"/>
+<area shape="rect" id="node2" href="$namespacespic_1_1internal_1_1math.html#a7518d69ee6ad5866400fce26f0bb2e00" title="Transforms a point from the agent&#39;s to local space." alt="" coords="9,5,152,45"/>
+<area shape="rect" id="node3" href="$namespacespic_1_1internal_1_1math.html#a0e90991056cc11cfe95c9c635572b559" title="Transforms a point from the agent&#39;s local space into world space." alt="" coords="9,69,153,109"/>
+<area shape="rect" id="node4" href="$namespacespic_1_1internal_1_1math.html#abc21b61594a828121e86a2e7148b23f8" title="Rotates a vector ang rads around the origin." alt="" coords="9,133,152,173"/>
+<area shape="rect" id="node5" href="$namespacespic_1_1internal_1_1math.html#a83db76526ac41afea989479a08c66f2b" title="Transforms a vector to local space." alt="" coords="6,197,155,237"/>
+<area shape="rect" id="node6" href="$namespacespic_1_1internal_1_1math.html#ae9e7832c7e05d70e0caf20e187cfe721" title="Transforms a vector from the agent&#39;s local space into world space." alt="" coords="5,261,156,301"/>
+</map>

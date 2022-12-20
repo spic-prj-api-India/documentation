@@ -1,0 +1,13 @@
+<map id="spic::internal::EntityManager::SetScene" name="spic::internal::EntityManager::SetScene">
+<area shape="rect" id="node1" title=" " alt="" coords="5,152,193,192"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1EntityManager.html#ae50969606f065de053d0d033e43dd24a" title=" " alt="" coords="259,5,447,45"/>
+<area shape="rect" id="node3" href="$classspic_1_1tiled_1_1TileMap.html#adbe8b6e904dcf32a6996a82e1bf7d5f0" title="Returns an collision layer based on the current collisionLayerIndex." alt="" coords="287,69,419,109"/>
+<area shape="rect" id="node5" href="$classspic_1_1GameEngine.html#a3eaffd73131e447d0a138f429783f4ca" title="Gets extensions of type IEngineExtension." alt="" coords="241,134,464,159"/>
+<area shape="rect" id="node6" href="$classspic_1_1GameEngine.html#ab5798545559d7772a548fc6603cdff6d" title=" " alt="" coords="249,183,457,209"/>
+<area shape="rect" id="node8" href="$structspic_1_1internal_1_1Rendering.html#a0512157ebc1597b448ca296d7043c5d9" title="Cleans all stored values." alt="" coords="271,233,434,273"/>
+<area shape="rect" id="node9" href="$structspic_1_1internal_1_1audio_1_1AudioFacade.html#aff903990ec2ab650db8d60769db05f9d" title="Clears all buffer audio related stuff when a new scene is loaded." alt="" coords="279,297,427,337"/>
+<area shape="rect" id="node4" href="$classspic_1_1tiled_1_1TileMap.html#a4762ab884b6155befb33663e8b828680" title="Returns an collision layer based on the index." alt="" coords="552,69,684,109"/>
+<area shape="rect" id="node7" href="$classspic_1_1GameEngine.html#a99f1ce7467074848feaa9689f87cc6f4" title=" " alt="" coords="512,183,724,209"/>
+<area shape="rect" id="node10" href="$structspic_1_1internal_1_1audio_1_1AudioFacade.html#a689fd9c815151a819f325c11f7587d83" title="Creates an new AudioSystem and puts it on the heap. The current audioImplementation has an bug that i..." alt="" coords="525,265,711,305"/>
+<area shape="rect" id="node11" href="$classspic_1_1internal_1_1audio_1_1impl_1_1AudioManager.html#aa738298b312ffaab2718d3647e0103dc" title="Clears the vector list samples and chunks." alt="" coords="545,330,691,385"/>
+</map>

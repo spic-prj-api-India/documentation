@@ -1,0 +1,7 @@
+<map id="spic::internal::input::impl::MousePosition" name="spic::internal::input::impl::MousePosition">
+<area shape="rect" id="node1" title="The current mouse position in pixel coordinates. (Read Only)" alt="" coords="663,41,811,81"/>
+<area shape="rect" id="node2" href="$namespacespic_1_1input.html#afdd13c5cbbae9a4224f872d293efdc0f" title="The current mouse position in pixel coordinates. (Read Only)" alt="" coords="439,49,615,74"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1InputManager.html#a7da847ebe66390a0a6c7b25e7b50c7c2" title="Listen to key and mouse listeners." alt="" coords="208,5,391,45"/>
+<area shape="rect" id="node5" href="$classspic_1_1internal_1_1input_1_1ButtonClickListener.html#afe8c12960b91fc290b9223349633d5c8" title="Called whenever a mouse button is clicked." alt="" coords="228,70,371,125"/>
+<area shape="rect" id="node4" href="$classspic_1_1internal_1_1systems_1_1InputSystem.html#a650977f1776132a3117c7ec0919489d5" title="Calls Listen method in InputManager." alt="" coords="5,5,160,45"/>
+</map>

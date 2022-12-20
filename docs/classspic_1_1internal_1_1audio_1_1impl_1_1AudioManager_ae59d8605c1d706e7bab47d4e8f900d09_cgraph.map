@@ -1,0 +1,5 @@
+<map id="spic::internal::audio::impl::AudioManager::AudioManager" name="spic::internal::audio::impl::AudioManager::AudioManager">
+<area shape="rect" id="node1" title="Sets up the audio devices." alt="" coords="5,5,151,60"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1audio_1_1impl_1_1Sample.html#a096850527c3149edc4fe5b3907e05f69" title="Static method which triggers after a channel is done playing." alt="" coords="199,13,424,53"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1audio_1_1impl_1_1Sample.html#aaef4df1c5b2293a53a72a018da013581" title="After a song is done playing it calls this method." alt="" coords="472,13,633,53"/>
+</map>

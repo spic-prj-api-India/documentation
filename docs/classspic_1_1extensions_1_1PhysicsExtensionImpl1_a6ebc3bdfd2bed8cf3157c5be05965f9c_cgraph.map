@@ -1,0 +1,6 @@
+<map id="spic::extensions::PhysicsExtensionImpl1::AddCollisionLayer" name="spic::extensions::PhysicsExtensionImpl1::AddCollisionLayer">
+<area shape="rect" id="node1" title="Add collision layer to physic world." alt="" coords="5,69,229,109"/>
+<area shape="rect" id="node2" href="$classspic_1_1tiled_1_1TileLayer.html#a92470594539c711b8f8cded3078159d7" title="Getter." alt="" coords="277,5,416,45"/>
+<area shape="rect" id="node3" href="$classspic_1_1tiled_1_1TileLayer.html#a56208be9492413a83edd5a12bb71c1d1" title="Getter." alt="" coords="277,69,416,109"/>
+<area shape="rect" id="node4" href="$classspic_1_1tiled_1_1TileLayer.html#ad423489c10558bdc114a01ce6040e707" title="Getter." alt="" coords="277,133,416,173"/>
+</map>

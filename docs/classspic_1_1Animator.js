@@ -14,6 +14,7 @@ var classspic_1_1Animator =
     [ "LastUpdate", "classspic_1_1Animator.html#a1b16ae73d25a27180e390f8c94b40ffa", null ],
     [ "LastUpdate", "classspic_1_1Animator.html#ac99dd540f5f8fe7e978717c2353a7cbb", null ],
     [ "Looping", "classspic_1_1Animator.html#a120dbb8d7dbec010e8b4f821e4ceee13", null ],
+    [ "Looping", "classspic_1_1Animator.html#ad10c91cde18bbfafcb07d89487027038", null ],
     [ "Play", "classspic_1_1Animator.html#a1568a4800f79b98bdd8ce3f485810fe2", null ],
     [ "Sprites", "classspic_1_1Animator.html#a78dbd07751daa1af3619b2f256b5e7b2", null ],
     [ "Stop", "classspic_1_1Animator.html#a061b63d83ceb2dceec94d6ec0c0f73b4", null ]

@@ -1,0 +1,6 @@
+<map id="spic::input::UnSubscribeAll" name="spic::input::UnSubscribeAll">
+<area shape="rect" id="node1" title="Unsubscribes all listeners (only call this when loading a new scene)" alt="" coords="5,45,184,70"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1InputManager.html#a0581e2ffd3539fb358142cb6527cf73d" title=" " alt="" coords="232,5,415,45"/>
+<area shape="rect" id="node4" href="$classspic_1_1internal_1_1InputManager.html#abc6cd4272ae38e735ef1c67fa9830411" title="Unsubscribes all listeners." alt="" coords="232,69,415,109"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1InputManager.html#a4babbf178d73139836a1f1d89eaabd29" title=" " alt="" coords="463,5,645,45"/>
+</map>

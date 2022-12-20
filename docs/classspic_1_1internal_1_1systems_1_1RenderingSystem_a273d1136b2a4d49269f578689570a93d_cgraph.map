@@ -1,0 +1,12 @@
+<map id="spic::internal::systems::RenderingSystem::Update" name="spic::internal::systems::RenderingSystem::Update">
+<area shape="rect" id="node1" title="Renders all entities in current scene." alt="" coords="5,247,188,287"/>
+<area shape="rect" id="node2" href="$classspic_1_1Scene.html#ac012b72eaeb5c040b3184c8a7dd5a025" title="The scene&#39;s camera." alt="" coords="245,5,389,31"/>
+<area shape="rect" id="node3" href="$structspic_1_1internal_1_1Rendering.html#a6a0ad2b59a952833982add723583a707" title="Cleans the frame." alt="" coords="236,55,399,95"/>
+<area shape="rect" id="node4" href="$structspic_1_1internal_1_1Rendering.html#ab318e142cd03ace0eb6f69eb5e74de6d" title="Draws an gameobject." alt="" coords="236,119,399,159"/>
+<area shape="rect" id="node5" href="$structspic_1_1internal_1_1Rendering.html#ac05d7c5f535ee9952f64bbb9552d76ef" title="Draws all added debug shapes." alt="" coords="236,183,399,223"/>
+<area shape="rect" id="node6" href="$structspic_1_1internal_1_1Rendering.html#aed2a8b09328ddb04a7149310b14e3446" title="Draws the fps counter." alt="" coords="236,247,399,287"/>
+<area shape="rect" id="node7" href="$structspic_1_1internal_1_1Rendering.html#a80007f42e3d8a699a5995ab0da863957" title="Renders all buffered entities." alt="" coords="236,311,399,351"/>
+<area shape="rect" id="node8" href="$classspic_1_1tiled_1_1TileMap.html#ac8d2b9f2e3ef779d6cc5cb8bf1d6ac32" title="Renders all tile layers." alt="" coords="251,375,383,415"/>
+<area shape="rect" id="node9" href="$classspic_1_1Scene.html#ab84530072e6e27e079d4680b1fd64982" title="The scene&#39;s tile map." alt="" coords="245,440,390,465"/>
+<area shape="rect" id="node10" href="$structspic_1_1internal_1_1Rendering.html#aa21eea0633e6a73c339a6b1ea0ec982c" title="Updates the internal rendering camera and the internal background color." alt="" coords="236,490,399,530"/>
+</map>

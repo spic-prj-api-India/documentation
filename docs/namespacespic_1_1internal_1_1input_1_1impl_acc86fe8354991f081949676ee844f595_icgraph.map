@@ -1,0 +1,6 @@
+<map id="spic::internal::input::impl::GetMouseButtonDown" name="spic::internal::input::impl::GetMouseButtonDown">
+<area shape="rect" id="node1" title="Returns true during the frame the user pressed the given mouse button." alt="" coords="707,5,899,45"/>
+<area shape="rect" id="node2" href="$namespacespic_1_1input.html#a19823bf6b7b4682099ec63075f8e743f" title="Returns true during the frame the user pressed the given mouse button." alt="" coords="439,13,659,38"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1InputManager.html#a7da847ebe66390a0a6c7b25e7b50c7c2" title="Listen to key and mouse listeners." alt="" coords="208,5,391,45"/>
+<area shape="rect" id="node4" href="$classspic_1_1internal_1_1systems_1_1InputSystem.html#a650977f1776132a3117c7ec0919489d5" title="Calls Listen method in InputManager." alt="" coords="5,5,160,45"/>
+</map>

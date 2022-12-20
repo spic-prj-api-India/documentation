@@ -1,0 +1,5 @@
+<map id="spic::input::GetKey" name="spic::input::GetKey">
+<area shape="rect" id="node1" title="Returns true while the user holds down the key identified by keycode." alt="" coords="5,13,140,38"/>
+<area shape="rect" id="node2" href="$namespacespic_1_1internal_1_1input_1_1impl.html#a7d58c63a0dce0f4861c80ab3b50a8f3a" title="Returns true while the user holds down the key identified by keycode." alt="" coords="188,5,320,45"/>
+<area shape="rect" id="node3" href="$namespacespic_1_1internal_1_1input_1_1impl.html#a2e80ff31330cfb3421677add05973b01" title=" " alt="" coords="368,5,529,45"/>
+</map>

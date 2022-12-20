@@ -1,4 +1,4 @@
 <map id="spic::internal::InputManager" name="spic::internal::InputManager">
-<area shape="rect" id="node1" title=" " alt="" coords="5,93,188,119"/>
-<area shape="rect" id="node2" href="$structspic_1_1Point.html" title="Struct representing both a 2D point and a 2D vector." alt="" coords="55,5,139,31"/>
+<area shape="rect" id="node1" title="Manages all events related to keys and mouses." alt="" coords="5,108,192,148"/>
+<area shape="rect" id="node2" href="$structspic_1_1Point.html" title="Struct representing both a 2D point and a 2D vector." alt="" coords="55,5,143,45"/>
 </map>

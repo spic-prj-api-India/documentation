@@ -1,0 +1,7 @@
+<map id="spic::GameObject::GetComponent" name="spic::GameObject::GetComponent">
+<area shape="rect" id="node1" title="Get the first component of the specified type. Must be a valid subclass of Component." alt="" coords="276,135,499,160"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1extensions_1_1Box2DCollisionListener.html#a2e6e8fd3cadbafb487b00eaabc470f58" title="Is called when body collides with another body." alt="" coords="33,5,200,60"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1extensions_1_1Box2DCollisionListener.html#a7af07584350574cdb4238157ce193617" title="Is called when body is not colliding with another body anymore." alt="" coords="33,84,200,139"/>
+<area shape="rect" id="node4" href="$classspic_1_1GameObject.html#ac12871fe3bd1867fed70e329289145cc" title="Get the first component of the specified type from the parent game object. Must be a valid subclass o..." alt="" coords="5,163,228,203"/>
+<area shape="rect" id="node5" href="$classspic_1_1internal_1_1extensions_1_1Box2DCollisionListener.html#a6dfbe982818975bc03f704c0d4a4d6ba" title="Is called when body is still colliding with another body." alt="" coords="33,228,200,283"/>
+</map>

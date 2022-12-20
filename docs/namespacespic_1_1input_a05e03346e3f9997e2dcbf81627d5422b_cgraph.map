@@ -1,0 +1,4 @@
+<map id="spic::input::GetMouseButtonUp" name="spic::input::GetMouseButtonUp">
+<area shape="rect" id="node1" title="Returns true during the frame the user releases the given mouse button." alt="" coords="5,13,209,38"/>
+<area shape="rect" id="node2" href="$namespacespic_1_1internal_1_1input_1_1impl.html#a5fc9bc6e87b7e70a993ce26f3902aca9" title="Returns true during the frame the user releases the given mouse button." alt="" coords="257,5,433,45"/>
+</map>

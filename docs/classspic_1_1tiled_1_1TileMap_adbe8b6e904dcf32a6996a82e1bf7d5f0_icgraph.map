@@ -1,0 +1,4 @@
+<map id="spic::tiled::TileMap::GetCollisionLayer" name="spic::tiled::TileMap::GetCollisionLayer">
+<area shape="rect" id="node1" title="Returns an collision layer based on the current collisionLayerIndex." alt="" coords="241,5,373,45"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1EntityManager.html#a6860c5a3735ede0322101cc6c23eacbb" title=" " alt="" coords="5,5,193,45"/>
+</map>

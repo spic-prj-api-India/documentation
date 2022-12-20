@@ -106,14 +106,22 @@ Inheritance diagram for spic::GameObject:</div>
 <div class="dyncontent">
 <div class="center"><img src="classspic_1_1GameObject__inherit__graph.png" border="0" usemap="#aspic_1_1GameObject_inherit__map" alt="Inheritance graph"/></div>
 <map name="aspic_1_1GameObject_inherit__map" id="aspic_1_1GameObject_inherit__map">
-<area shape="rect" title="Any object which should be represented on screen." alt="" coords="127,5,254,31"/>
-<area shape="rect" href="classspic_1_1Camera.html" title="Class representing a point of view towards the game scene." alt="" coords="5,79,104,104"/>
-<area shape="rect" href="classspic_1_1ForceDriven.html" title="Force driven entity only moves with force." alt="" coords="129,79,253,104"/>
-<area shape="rect" href="classspic_1_1UIObject.html" title="Base class for a user interface object like Button or Text." alt="" coords="277,79,382,104"/>
-<area shape="rect" href="classspic_1_1Button.html" title="Instances of this class are clickable user interface items." alt="" coords="229,152,321,177"/>
-<area shape="rect" href="classspic_1_1Text.html" title="Class representing a piece of text which can be rendered." alt="" coords="345,152,423,177"/>
+<area shape="rect" title="Any object which should be represented on screen." alt="" coords="131,5,262,45"/>
+<area shape="rect" href="classspic_1_1Camera.html" title="Class representing a point of view towards the game scene." alt="" coords="5,93,108,133"/>
+<area shape="rect" href="classspic_1_1ForceDriven.html" title="Force driven entity only moves with force." alt="" coords="133,93,261,133"/>
+<area shape="rect" href="classspic_1_1UIObject.html" title="Base class for a user interface object like Button or Text." alt="" coords="285,93,394,133"/>
+<area shape="rect" href="classspic_1_1Button.html" title="Instances of this class are clickable user interface items." alt="" coords="234,181,330,221"/>
+<area shape="rect" href="classspic_1_1Text.html" title="Class representing a piece of text which can be rendered." alt="" coords="354,181,437,221"/>
 </map>
-<center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
+</div>
+<div class="dynheader">
+Collaboration diagram for spic::GameObject:</div>
+<div class="dyncontent">
+<div class="center"><img src="classspic_1_1GameObject__coll__graph.png" border="0" usemap="#aspic_1_1GameObject_coll__map" alt="Collaboration graph"/></div>
+<map name="aspic_1_1GameObject_coll__map" id="aspic_1_1GameObject_coll__map">
+<area shape="rect" title="Any object which should be represented on screen." alt="" coords="5,5,136,45"/>
+</map>
+</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
@@ -266,9 +274,9 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memitem:a1980a2e1005b3e62a63c9b9e3535cf92"><td class="memTemplItemLeft" align="right" valign="top">static std::vector&lt; std::shared_ptr&lt; T &gt; &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classspic_1_1GameObject.html#a1980a2e1005b3e62a63c9b9e3535cf92">FindObjectsOfType</a> (bool includeInactive=false)</td></tr>
 <tr class="memdesc:a1980a2e1005b3e62a63c9b9e3535cf92"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets a list of all loaded objects of type T.  <a href="classspic_1_1GameObject.html#a1980a2e1005b3e62a63c9b9e3535cf92">More...</a><br /></td></tr>
 <tr class="separator:a1980a2e1005b3e62a63c9b9e3535cf92"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a08ecaa790f7dc9218bbced44eb9c5165"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1GameObject.html#a08ecaa790f7dc9218bbced44eb9c5165">Destroy</a> (std::shared_ptr&lt; <a class="el" href="classspic_1_1GameObject.html">GameObject</a> &gt; obj)</td></tr>
-<tr class="memdesc:a08ecaa790f7dc9218bbced44eb9c5165"><td class="mdescLeft">&#160;</td><td class="mdescRight">Removes a <a class="el" href="classspic_1_1GameObject.html" title="Any object which should be represented on screen.">GameObject</a> from the administration.  <a href="classspic_1_1GameObject.html#a08ecaa790f7dc9218bbced44eb9c5165">More...</a><br /></td></tr>
-<tr class="separator:a08ecaa790f7dc9218bbced44eb9c5165"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adb7468ce74bdd6283767f089f954b5f9"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1GameObject.html#adb7468ce74bdd6283767f089f954b5f9">Destroy</a> (const std::string &amp;name)</td></tr>
+<tr class="memdesc:adb7468ce74bdd6283767f089f954b5f9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Removes a <a class="el" href="classspic_1_1GameObject.html" title="Any object which should be represented on screen.">GameObject</a> from the administration.  <a href="classspic_1_1GameObject.html#adb7468ce74bdd6283767f089f954b5f9">More...</a><br /></td></tr>
+<tr class="separator:adb7468ce74bdd6283767f089f954b5f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0a166569cfb874eef8ee7ff21a49560c"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1GameObject.html#a0a166569cfb874eef8ee7ff21a49560c">Destroy</a> (<a class="el" href="classspic_1_1Component.html">Component</a> *obj)</td></tr>
 <tr class="memdesc:a0a166569cfb874eef8ee7ff21a49560c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Removes a <a class="el" href="classspic_1_1Component.html" title="Base class for all components.">Component</a>.  <a href="classspic_1_1GameObject.html#a0a166569cfb874eef8ee7ff21a49560c">More...</a><br /></td></tr>
 <tr class="separator:a0a166569cfb874eef8ee7ff21a49560c"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -656,7 +664,7 @@ template&lt;typename T &gt; </div>
 <p>Removes a <a class="el" href="classspic_1_1Component.html" title="Base class for all components.">Component</a>. </p>
 <p >Will search for the <a class="el" href="classspic_1_1Component.html" title="Base class for all components.">Component</a> among the GameObjects. </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">obj</td><td>The <a class="el" href="classspic_1_1Component.html" title="Base class for all components.">Component</a> to be removed. If obj == nullptr, <a class="el" href="classspic_1_1GameObject.html#a08ecaa790f7dc9218bbced44eb9c5165" title="Removes a GameObject from the administration.">Destroy()</a> does nothing.</td></tr>
+    <tr><td class="paramname">obj</td><td>The <a class="el" href="classspic_1_1Component.html" title="Base class for all components.">Component</a> to be removed. If obj == nullptr, <a class="el" href="classspic_1_1GameObject.html#adb7468ce74bdd6283767f089f954b5f9" title="Removes a GameObject from the administration.">Destroy()</a> does nothing.</td></tr>
   </table>
   </dd>
 </dl>
@@ -665,8 +673,8 @@ template&lt;typename T &gt; </div>
 
 </div>
 </div>
-<a id="a08ecaa790f7dc9218bbced44eb9c5165" name="a08ecaa790f7dc9218bbced44eb9c5165"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a08ecaa790f7dc9218bbced44eb9c5165">&#9670;&#160;</a></span>Destroy() <span class="overload">[2/2]</span></h2>
+<a id="adb7468ce74bdd6283767f089f954b5f9" name="adb7468ce74bdd6283767f089f954b5f9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adb7468ce74bdd6283767f089f954b5f9">&#9670;&#160;</a></span>Destroy() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -677,8 +685,8 @@ template&lt;typename T &gt; </div>
         <tr>
           <td class="memname">void spic::GameObject::Destroy </td>
           <td>(</td>
-          <td class="paramtype">std::shared_ptr&lt; <a class="el" href="classspic_1_1GameObject.html">GameObject</a> &gt;&#160;</td>
-          <td class="paramname"><em>obj</em></td><td>)</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>name</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -692,17 +700,11 @@ template&lt;typename T &gt; </div>
 <p>Removes a <a class="el" href="classspic_1_1GameObject.html" title="Any object which should be represented on screen.">GameObject</a> from the administration. </p>
 <p >Child GameObjects will be destroyed, too, as well as Components owned by the <a class="el" href="classspic_1_1GameObject.html" title="Any object which should be represented on screen.">GameObject</a>. </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">obj</td><td>The <a class="el" href="classspic_1_1GameObject.html" title="Any object which should be represented on screen.">GameObject</a> to be destroyed. Must be a valid pointer to existing Game Object. </td></tr>
+    <tr><td class="paramname">name</td><td>The name of the <a class="el" href="classspic_1_1GameObject.html" title="Any object which should be represented on screen.">GameObject</a> to be destroyed. </td></tr>
   </table>
   </dd>
 </dl>
-<dl class="exception"><dt>Exceptions</dt><dd>
-  <table class="exception">
-    <tr><td class="paramname">A</td><td>std::runtime_exception is thrown when the pointer is not valid. </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
+<dl class="section attention"><dt>Attention</dt><dd>This is a symbol shared with the partner group and any changes should be communicated.<br  />
 </dd></dl>
 
 </div>

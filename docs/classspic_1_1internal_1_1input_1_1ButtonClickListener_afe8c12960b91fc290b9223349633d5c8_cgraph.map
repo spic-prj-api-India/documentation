@@ -1,0 +1,6 @@
+<map id="spic::internal::input::ButtonClickListener::OnMouseClicked" name="spic::internal::input::ButtonClickListener::OnMouseClicked">
+<area shape="rect" id="node1" title="Called whenever a mouse button is clicked." alt="" coords="5,27,148,82"/>
+<area shape="rect" id="node2" href="$namespacespic_1_1input.html#afdd13c5cbbae9a4224f872d293efdc0f" title="The current mouse position in pixel coordinates. (Read Only)" alt="" coords="217,13,393,38"/>
+<area shape="rect" id="node4" href="$namespacespic_1_1helper__functions_1_1general__helper.html#a62b085c0f79f1da3e6766cb48f94d15f" title="Calculates if two rects intersect with eachother." alt="" coords="196,63,413,103"/>
+<area shape="rect" id="node3" href="$namespacespic_1_1internal_1_1input_1_1impl.html#ab376f8c81646abcf86519f2d8f091c8a" title="The current mouse position in pixel coordinates. (Read Only)" alt="" coords="461,5,609,45"/>
+</map>

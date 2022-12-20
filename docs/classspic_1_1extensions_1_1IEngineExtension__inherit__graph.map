@@ -1,7 +1,7 @@
 <map id="spic::extensions::IEngineExtension" name="spic::extensions::IEngineExtension">
-<area shape="rect" id="node1" title="A interface for the engine extensions." alt="" coords="109,5,278,45"/>
-<area shape="rect" id="node2" href="$classspic_1_1extensions_1_1INetworkExtension.html" title="An interface for all networkextensions." alt="" coords="5,93,181,133"/>
-<area shape="rect" id="node4" href="$classspic_1_1extensions_1_1IPhysicsExtension.html" title="An interface for the physics extensions." alt="" coords="205,93,381,133"/>
-<area shape="rect" id="node3" href="$classspic_1_1extensions_1_1SocketUDPExtension.html" title="An basic udp send/recieve client." alt="" coords="10,181,177,221"/>
-<area shape="rect" id="node5" href="$classspic_1_1extensions_1_1PhysicsExtension1.html" title="A extension that handles standard physics." alt="" coords="207,181,379,221"/>
+<area shape="rect" id="node1" title="A interface for the engine extensions." alt="" coords="110,5,283,60"/>
+<area shape="rect" id="node2" href="$classspic_1_1extensions_1_1INetworkExtension.html" title="An interface for all networkextensions." alt="" coords="5,108,185,163"/>
+<area shape="rect" id="node4" href="$classspic_1_1extensions_1_1IPhysicsExtension.html" title="An interface for the physics extensions." alt="" coords="209,108,389,163"/>
+<area shape="rect" id="node3" href="$classspic_1_1extensions_1_1SocketUDPExtension.html" title="An basic udp send/recieve client." alt="" coords="10,211,181,265"/>
+<area shape="rect" id="node5" href="$classspic_1_1extensions_1_1PhysicsExtension1.html" title="A extension that handles standard physics." alt="" coords="211,211,387,265"/>
 </map>

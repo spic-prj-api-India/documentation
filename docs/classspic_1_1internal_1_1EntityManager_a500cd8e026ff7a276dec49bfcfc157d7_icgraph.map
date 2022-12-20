@@ -1,0 +1,6 @@
+<map id="spic::internal::EntityManager::AddEntity" name="spic::internal::EntityManager::AddEntity">
+<area shape="rect" id="node1" title=" " alt="" coords="477,27,665,67"/>
+<area shape="rect" id="node2" href="$classspic_1_1GameObject.html#a5764249e16474e7af88221f01ef7a5b8" title="Create function." alt="" coords="256,5,429,31"/>
+<area shape="rect" id="node3" href="$classspic_1_1DataHandler.html#ac769cb85c4b9e2bacb0ac780986416f5" title="Gets the latest saved scene, loads xml data, updates and creates entities with the xml data." alt="" coords="276,55,409,95"/>
+<area shape="rect" id="node4" href="$classspic_1_1GameEngine.html#a4124ece9dbd154b33578f1f4106143f9" title=" " alt="" coords="5,55,208,95"/>
+</map>

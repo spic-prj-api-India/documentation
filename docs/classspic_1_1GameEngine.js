@@ -23,7 +23,7 @@ var classspic_1_1GameEngine =
     [ "RemoveExtension", "classspic_1_1GameEngine.html#a12f1d606ffb0bf1ce4f33aa58b661644", null ],
     [ "SaveScene", "classspic_1_1GameEngine.html#ab786d70b4a31e293615d6fd7e89f4a8c", null ],
     [ "Start", "classspic_1_1GameEngine.html#a933929a02eb3e37fb7666663048b4772", null ],
-    [ "_extensions", "classspic_1_1GameEngine.html#aaaa6685de326a8205d6f95dd61f5377a", null ],
+    [ "_extensions", "classspic_1_1GameEngine.html#a37567419fe0f663cb2c2ba09c111321f", null ],
     [ "_types", "classspic_1_1GameEngine.html#ab66b5ea5fc188b372af4968836f701a5", null ],
     [ "quit", "classspic_1_1GameEngine.html#a3d87160a476292183a87843c157dfb20", null ]
 ];

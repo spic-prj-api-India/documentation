@@ -1,0 +1,4 @@
+<map id="spic::internal::math::ClampedRandomFloat" name="spic::internal::math::ClampedRandomFloat">
+<area shape="rect" id="node1" title="Returns a random float in the range &#45;1 &lt; n &lt; 1." alt="" coords="5,5,164,45"/>
+<area shape="rect" id="node2" href="$namespacespic_1_1internal_1_1math.html#aa3324b4b0a3aec036909f065a87380f2" title="Returns a random float between zero and 1." alt="" coords="212,5,345,45"/>
+</map>

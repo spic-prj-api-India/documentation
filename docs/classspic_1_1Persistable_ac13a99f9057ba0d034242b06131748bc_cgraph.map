@@ -1,0 +1,8 @@
+<map id="spic::Persistable::LoadProperties" name="spic::Persistable::LoadProperties">
+<area shape="rect" id="node1" title="Loads the properties of the GameObject." alt="" coords="5,113,132,153"/>
+<area shape="rect" id="node2" href="$classspic_1_1GameObject.html#a5cdc1f8129fab046e58e1eb71ab86b50" title="Returns whether this game object is itself active." alt="" coords="191,5,363,31"/>
+<area shape="rect" id="node3" href="$classspic_1_1GameObject.html#a22eddf58645445a6be0c74ea14b02372" title=" " alt="" coords="187,55,367,95"/>
+<area shape="rect" id="node4" href="$classspic_1_1GameObject.html#ab8bea5d873e207bacb7268c3e37d46bd" title="Returns layer of GameObject." alt="" coords="194,120,361,145"/>
+<area shape="rect" id="node5" href="$classspic_1_1GameObject.html#a1dfa25c7e06dfa0e21b96fc38594595e" title="Returns tag of GameObject." alt="" coords="199,169,355,195"/>
+<area shape="rect" id="node6" href="$classspic_1_1GameObject.html#a1585c2489e79a1628aa0920a1e2b8c41" title="Returns transform of GameObject." alt="" coords="180,219,375,244"/>
+</map>

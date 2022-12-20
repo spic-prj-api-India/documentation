@@ -1,0 +1,11 @@
+<map id="spic::internal::input::impl::ToSDLKeyCodes" name="spic::internal::input::impl::ToSDLKeyCodes">
+<area shape="rect" id="node1" title=" " alt="" coords="840,69,1001,109"/>
+<area shape="rect" id="node2" href="$namespacespic_1_1internal_1_1input_1_1impl.html#a7d58c63a0dce0f4861c80ab3b50a8f3a" title="Returns true while the user holds down the key identified by keycode." alt="" coords="657,5,789,45"/>
+<area shape="rect" id="node4" href="$namespacespic_1_1internal_1_1input_1_1impl.html#a482a54eb1d8c9d5ba637d6339cabe536" title="Returns true during the frame the user starts pressing down the key identified by keycode." alt="" coords="653,69,792,109"/>
+<area shape="rect" id="node8" href="$namespacespic_1_1internal_1_1input_1_1impl.html#af6b026df33e0e5b1da5e923b297c6e6e" title="Returns true during the frame the user releases the key identified by keycode." alt="" coords="657,133,789,173"/>
+<area shape="rect" id="node3" href="$namespacespic_1_1input.html#abec2cd9974962b710b957c340bd6c430" title="Returns true while the user holds down the key identified by keycode." alt="" coords="455,13,589,38"/>
+<area shape="rect" id="node5" href="$namespacespic_1_1input.html#a5948cae55160295fdf73657d169dd228" title="Returns true during the frame the user starts pressing down the key identified by keycode." alt="" coords="439,83,605,109"/>
+<area shape="rect" id="node6" href="$classspic_1_1internal_1_1InputManager.html#a7da847ebe66390a0a6c7b25e7b50c7c2" title="Listen to key and mouse listeners." alt="" coords="208,105,391,145"/>
+<area shape="rect" id="node7" href="$classspic_1_1internal_1_1systems_1_1InputSystem.html#a650977f1776132a3117c7ec0919489d5" title="Calls Listen method in InputManager." alt="" coords="5,105,160,145"/>
+<area shape="rect" id="node9" href="$namespacespic_1_1input.html#aee4d5cc85a2081cec07e2c6b1a0f96ac" title="Returns true during the frame the user releases the key identified by keycode." alt="" coords="447,137,597,162"/>
+</map>

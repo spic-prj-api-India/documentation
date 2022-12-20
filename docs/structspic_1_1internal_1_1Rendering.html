@@ -96,7 +96,18 @@ $(document).ready(function(){initNavTree('structspic_1_1internal_1_1Rendering.ht
 </div><!--header-->
 <div class="contents">
 
+<p>Facade for the rendering interface.  
+ <a href="structspic_1_1internal_1_1Rendering.html#details">More...</a></p>
+
 <p><code>#include &lt;<a class="el" href="Renderer_8hpp_source.html">Renderer.hpp</a>&gt;</code></p>
+<div class="dynheader">
+Collaboration diagram for spic::internal::Rendering:</div>
+<div class="dyncontent">
+<div class="center"><img src="structspic_1_1internal_1_1Rendering__coll__graph.png" border="0" usemap="#aspic_1_1internal_1_1Rendering_coll__map" alt="Collaboration graph"/></div>
+<map name="aspic_1_1internal_1_1Rendering_coll__map" id="aspic_1_1internal_1_1Rendering_coll__map">
+<area shape="rect" title="Facade for the rendering interface." alt="" coords="5,5,172,45"/>
+</map>
+</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
@@ -112,18 +123,21 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memitem:aa21eea0633e6a73c339a6b1ea0ec982c"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structspic_1_1internal_1_1Rendering.html#aa21eea0633e6a73c339a6b1ea0ec982c">UpdateCamera</a> (<a class="el" href="classspic_1_1Camera.html">Camera</a> *camera)</td></tr>
 <tr class="memdesc:aa21eea0633e6a73c339a6b1ea0ec982c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Updates the internal rendering camera and the internal background color.  <a href="structspic_1_1internal_1_1Rendering.html#aa21eea0633e6a73c339a6b1ea0ec982c">More...</a><br /></td></tr>
 <tr class="separator:aa21eea0633e6a73c339a6b1ea0ec982c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2f6d11bd66958bcd772976c6d2f0c6eb"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structspic_1_1internal_1_1Rendering.html#a2f6d11bd66958bcd772976c6d2f0c6eb">DrawRect</a> (const <a class="el" href="structspic_1_1Rect.html">spic::Rect</a> &amp;rect, const double angle, const <a class="el" href="classspic_1_1Color.html">spic::Color</a> &amp;color)</td></tr>
-<tr class="memdesc:a2f6d11bd66958bcd772976c6d2f0c6eb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Draws an rectangle in window space.  <a href="structspic_1_1internal_1_1Rendering.html#a2f6d11bd66958bcd772976c6d2f0c6eb">More...</a><br /></td></tr>
-<tr class="separator:a2f6d11bd66958bcd772976c6d2f0c6eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a252ce9ac5309092342a3eb55712fc063"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structspic_1_1internal_1_1Rendering.html#a252ce9ac5309092342a3eb55712fc063">DrawCircle</a> (const <a class="el" href="structspic_1_1Point.html">spic::Point</a> &amp;center, const float radius, const <a class="el" href="classspic_1_1Color.html">spic::Color</a> &amp;color, const float pixelGap=1.0f)</td></tr>
-<tr class="memdesc:a252ce9ac5309092342a3eb55712fc063"><td class="mdescLeft">&#160;</td><td class="mdescRight">Draws an circle in window space using the mid point circle algorithm <a href="https://en.wikipedia.org/w/index.php?title=Midpoint_circle_algorithm">https://en.wikipedia.org/w/index.php?title=Midpoint_circle_algorithm</a>.  <a href="structspic_1_1internal_1_1Rendering.html#a252ce9ac5309092342a3eb55712fc063">More...</a><br /></td></tr>
-<tr class="separator:a252ce9ac5309092342a3eb55712fc063"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac63244e8cd2f71b7638136a9027a9ed2"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structspic_1_1internal_1_1Rendering.html#ac63244e8cd2f71b7638136a9027a9ed2">DrawPoint</a> (const <a class="el" href="structspic_1_1Point.html">spic::Point</a> &amp;point, const <a class="el" href="classspic_1_1Color.html">spic::Color</a> &amp;color)</td></tr>
-<tr class="memdesc:ac63244e8cd2f71b7638136a9027a9ed2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Draws a point in window space.  <a href="structspic_1_1internal_1_1Rendering.html#ac63244e8cd2f71b7638136a9027a9ed2">More...</a><br /></td></tr>
-<tr class="separator:ac63244e8cd2f71b7638136a9027a9ed2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3c497832e0a961d2a8e3b64839b67b86"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structspic_1_1internal_1_1Rendering.html#a3c497832e0a961d2a8e3b64839b67b86">DrawLine</a> (const <a class="el" href="structspic_1_1Point.html">spic::Point</a> &amp;start, const <a class="el" href="structspic_1_1Point.html">spic::Point</a> &amp;end, const <a class="el" href="classspic_1_1Color.html">spic::Color</a> &amp;color)</td></tr>
-<tr class="memdesc:a3c497832e0a961d2a8e3b64839b67b86"><td class="mdescLeft">&#160;</td><td class="mdescRight">Draws a line from start to end.  <a href="structspic_1_1internal_1_1Rendering.html#a3c497832e0a961d2a8e3b64839b67b86">More...</a><br /></td></tr>
-<tr class="separator:a3c497832e0a961d2a8e3b64839b67b86"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6ee8d1a681a2788fd0580b7f97bd8f01"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structspic_1_1internal_1_1Rendering.html#a6ee8d1a681a2788fd0580b7f97bd8f01">AddDebugLine</a> (const <a class="el" href="structspic_1_1Line.html">spic::Line</a> &amp;line, const <a class="el" href="classspic_1_1Color.html">spic::Color</a> &amp;color)</td></tr>
+<tr class="memdesc:a6ee8d1a681a2788fd0580b7f97bd8f01"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add debug line to renderer, line will be drawn at the end of the render in world space.  <a href="structspic_1_1internal_1_1Rendering.html#a6ee8d1a681a2788fd0580b7f97bd8f01">More...</a><br /></td></tr>
+<tr class="separator:a6ee8d1a681a2788fd0580b7f97bd8f01"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad73c0ed6f23461da79f3039c99a61093"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structspic_1_1internal_1_1Rendering.html#ad73c0ed6f23461da79f3039c99a61093">AddDebugRect</a> (const <a class="el" href="structspic_1_1Rect.html">spic::Rect</a> &amp;rect, const double angle, const <a class="el" href="classspic_1_1Color.html">spic::Color</a> &amp;color)</td></tr>
+<tr class="memdesc:ad73c0ed6f23461da79f3039c99a61093"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add debug rectangle to renderer, rectangle will be drawn at the end of the render in world space.  <a href="structspic_1_1internal_1_1Rendering.html#ad73c0ed6f23461da79f3039c99a61093">More...</a><br /></td></tr>
+<tr class="separator:ad73c0ed6f23461da79f3039c99a61093"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5d6900bb64759f51fbed5f7059fd6f9d"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structspic_1_1internal_1_1Rendering.html#a5d6900bb64759f51fbed5f7059fd6f9d">AddDebugCircle</a> (const <a class="el" href="structspic_1_1Circle.html">spic::Circle</a> &amp;circle, const <a class="el" href="classspic_1_1Color.html">spic::Color</a> &amp;color, const float pixelGap=1.0f)</td></tr>
+<tr class="memdesc:a5d6900bb64759f51fbed5f7059fd6f9d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add debug circle to renderer, circle will be drawn at the end of the render in world space.  <a href="structspic_1_1internal_1_1Rendering.html#a5d6900bb64759f51fbed5f7059fd6f9d">More...</a><br /></td></tr>
+<tr class="separator:a5d6900bb64759f51fbed5f7059fd6f9d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a41858ed9c5df232ad0634181cd38ab84"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structspic_1_1internal_1_1Rendering.html#a41858ed9c5df232ad0634181cd38ab84">AddDebugPoint</a> (const <a class="el" href="structspic_1_1Point.html">spic::Point</a> &amp;point, const <a class="el" href="classspic_1_1Color.html">spic::Color</a> &amp;color)</td></tr>
+<tr class="memdesc:a41858ed9c5df232ad0634181cd38ab84"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add debug point to renderer, point will be drawn at the end of the render in world space.  <a href="structspic_1_1internal_1_1Rendering.html#a41858ed9c5df232ad0634181cd38ab84">More...</a><br /></td></tr>
+<tr class="separator:a41858ed9c5df232ad0634181cd38ab84"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac05d7c5f535ee9952f64bbb9552d76ef"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structspic_1_1internal_1_1Rendering.html#ac05d7c5f535ee9952f64bbb9552d76ef">DrawDebugShapes</a> ()</td></tr>
+<tr class="memdesc:ac05d7c5f535ee9952f64bbb9552d76ef"><td class="mdescLeft">&#160;</td><td class="mdescRight">Draws all added debug shapes.  <a href="structspic_1_1internal_1_1Rendering.html#ac05d7c5f535ee9952f64bbb9552d76ef">More...</a><br /></td></tr>
+<tr class="separator:ac05d7c5f535ee9952f64bbb9552d76ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4b124ebe5b62d1d71c1d8ed43e6930d2"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structspic_1_1internal_1_1Rendering.html#a4b124ebe5b62d1d71c1d8ed43e6930d2">DrawSprite</a> (const <a class="el" href="structspic_1_1Transform.html">Transform</a> *position, <a class="el" href="classspic_1_1Sprite.html">Sprite</a> *sprite)</td></tr>
 <tr class="memdesc:a4b124ebe5b62d1d71c1d8ed43e6930d2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Draws a sprite as an ui object.  <a href="structspic_1_1internal_1_1Rendering.html#a4b124ebe5b62d1d71c1d8ed43e6930d2">More...</a><br /></td></tr>
 <tr class="separator:a4b124ebe5b62d1d71c1d8ed43e6930d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -134,7 +148,7 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memdesc:a0512157ebc1597b448ca296d7043c5d9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Cleans all stored values.  <a href="structspic_1_1internal_1_1Rendering.html#a0512157ebc1597b448ca296d7043c5d9">More...</a><br /></td></tr>
 <tr class="separator:a0512157ebc1597b448ca296d7043c5d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a80007f42e3d8a699a5995ab0da863957"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structspic_1_1internal_1_1Rendering.html#a80007f42e3d8a699a5995ab0da863957">Render</a> ()</td></tr>
-<tr class="memdesc:a80007f42e3d8a699a5995ab0da863957"><td class="mdescLeft">&#160;</td><td class="mdescRight">Renders all bufferd entities.  <a href="structspic_1_1internal_1_1Rendering.html#a80007f42e3d8a699a5995ab0da863957">More...</a><br /></td></tr>
+<tr class="memdesc:a80007f42e3d8a699a5995ab0da863957"><td class="mdescLeft">&#160;</td><td class="mdescRight">Renders all buffered entities.  <a href="structspic_1_1internal_1_1Rendering.html#a80007f42e3d8a699a5995ab0da863957">More...</a><br /></td></tr>
 <tr class="separator:a80007f42e3d8a699a5995ab0da863957"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a96acc43cb7224d43038cc19e8e1d6e43"><td class="memItemLeft" align="right" valign="top">static std::pair&lt; float, float &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structspic_1_1internal_1_1Rendering.html#a96acc43cb7224d43038cc19e8e1d6e43">GetAspects</a> ()</td></tr>
 <tr class="memdesc:a96acc43cb7224d43038cc19e8e1d6e43"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the aspect values from the window.  <a href="structspic_1_1internal_1_1Rendering.html#a96acc43cb7224d43038cc19e8e1d6e43">More...</a><br /></td></tr>
@@ -143,7 +157,202 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memdesc:aed2a8b09328ddb04a7149310b14e3446"><td class="mdescLeft">&#160;</td><td class="mdescRight">Draws the fps counter.  <a href="structspic_1_1internal_1_1Rendering.html#aed2a8b09328ddb04a7149310b14e3446">More...</a><br /></td></tr>
 <tr class="separator:aed2a8b09328ddb04a7149310b14e3446"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Member Function Documentation</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p >Facade for the rendering interface. </p>
+</div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a5d6900bb64759f51fbed5f7059fd6f9d" name="a5d6900bb64759f51fbed5f7059fd6f9d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5d6900bb64759f51fbed5f7059fd6f9d">&#9670;&#160;</a></span>AddDebugCircle()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void spic::internal::Rendering::AddDebugCircle </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="structspic_1_1Circle.html">spic::Circle</a> &amp;&#160;</td>
+          <td class="paramname"><em>circle</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="classspic_1_1Color.html">spic::Color</a> &amp;&#160;</td>
+          <td class="paramname"><em>color</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const float&#160;</td>
+          <td class="paramname"><em>pixelGap</em> = <code>1.0f</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Add debug circle to renderer, circle will be drawn at the end of the render in world space. </p>
+<p ><a class="el" href="structspic_1_1Circle.html" title="Circle model, is used for drawing debug circles.">Circle</a> is not drawn when circle is not in camera view. </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">circle</td><td><a class="el" href="structspic_1_1Circle.html" title="Circle model, is used for drawing debug circles.">Circle</a> that will be drawn </td></tr>
+    <tr><td class="paramname">pixelGap</td><td>The gap (in pixels) between each point in the circle </td></tr>
+    <tr><td class="paramname">color</td><td><a class="el" href="classspic_1_1Color.html" title="Color represents a red-green-blue color with alpha.">Color</a> of this line </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a6ee8d1a681a2788fd0580b7f97bd8f01" name="a6ee8d1a681a2788fd0580b7f97bd8f01"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6ee8d1a681a2788fd0580b7f97bd8f01">&#9670;&#160;</a></span>AddDebugLine()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void spic::internal::Rendering::AddDebugLine </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="structspic_1_1Line.html">spic::Line</a> &amp;&#160;</td>
+          <td class="paramname"><em>line</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="classspic_1_1Color.html">spic::Color</a> &amp;&#160;</td>
+          <td class="paramname"><em>color</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Add debug line to renderer, line will be drawn at the end of the render in world space. </p>
+<p ><a class="el" href="structspic_1_1Line.html" title="Line model, is used for drawing debug lines.">Line</a> is not drawn when line is not in camera view. </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">line</td><td><a class="el" href="structspic_1_1Line.html" title="Line model, is used for drawing debug lines.">Line</a> that will be drawn </td></tr>
+    <tr><td class="paramname">color</td><td><a class="el" href="classspic_1_1Color.html" title="Color represents a red-green-blue color with alpha.">Color</a> of this line </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a41858ed9c5df232ad0634181cd38ab84" name="a41858ed9c5df232ad0634181cd38ab84"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a41858ed9c5df232ad0634181cd38ab84">&#9670;&#160;</a></span>AddDebugPoint()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void spic::internal::Rendering::AddDebugPoint </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="structspic_1_1Point.html">spic::Point</a> &amp;&#160;</td>
+          <td class="paramname"><em>point</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="classspic_1_1Color.html">spic::Color</a> &amp;&#160;</td>
+          <td class="paramname"><em>color</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Add debug point to renderer, point will be drawn at the end of the render in world space. </p>
+<p ><a class="el" href="structspic_1_1Point.html" title="Struct representing both a 2D point and a 2D vector.">Point</a> is not drawn when point is not in camera view. </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">point</td><td><a class="el" href="structspic_1_1Point.html" title="Struct representing both a 2D point and a 2D vector.">Point</a> that will be drawn </td></tr>
+    <tr><td class="paramname">color</td><td><a class="el" href="classspic_1_1Color.html" title="Color represents a red-green-blue color with alpha.">Color</a> of this line </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="ad73c0ed6f23461da79f3039c99a61093" name="ad73c0ed6f23461da79f3039c99a61093"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad73c0ed6f23461da79f3039c99a61093">&#9670;&#160;</a></span>AddDebugRect()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void spic::internal::Rendering::AddDebugRect </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="structspic_1_1Rect.html">spic::Rect</a> &amp;&#160;</td>
+          <td class="paramname"><em>rect</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const double&#160;</td>
+          <td class="paramname"><em>angle</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="classspic_1_1Color.html">spic::Color</a> &amp;&#160;</td>
+          <td class="paramname"><em>color</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Add debug rectangle to renderer, rectangle will be drawn at the end of the render in world space. </p>
+<p >Rectangle is not drawn when rectangle is not in camera view. </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">rect</td><td>Rectangle that will be drawn </td></tr>
+    <tr><td class="paramname">color</td><td><a class="el" href="classspic_1_1Color.html" title="Color represents a red-green-blue color with alpha.">Color</a> of this line </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
 <a id="a6a0ad2b59a952833982add723583a707" name="a6a0ad2b59a952833982add723583a707"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a6a0ad2b59a952833982add723583a707">&#9670;&#160;</a></span>Clean()</h2>
 
@@ -206,8 +415,8 @@ Static Public Member Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="a252ce9ac5309092342a3eb55712fc063" name="a252ce9ac5309092342a3eb55712fc063"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a252ce9ac5309092342a3eb55712fc063">&#9670;&#160;</a></span>DrawCircle()</h2>
+<a id="ac05d7c5f535ee9952f64bbb9552d76ef" name="ac05d7c5f535ee9952f64bbb9552d76ef"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac05d7c5f535ee9952f64bbb9552d76ef">&#9670;&#160;</a></span>DrawDebugShapes()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -216,33 +425,10 @@ Static Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void spic::internal::Rendering::DrawCircle </td>
+          <td class="memname">void spic::internal::Rendering::DrawDebugShapes </td>
           <td>(</td>
-          <td class="paramtype">const <a class="el" href="structspic_1_1Point.html">spic::Point</a> &amp;&#160;</td>
-          <td class="paramname"><em>center</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
-          <td class="paramtype">const float&#160;</td>
-          <td class="paramname"><em>radius</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const <a class="el" href="classspic_1_1Color.html">spic::Color</a> &amp;&#160;</td>
-          <td class="paramname"><em>color</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const float&#160;</td>
-          <td class="paramname"><em>pixelGap</em> = <code>1.0f</code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -252,16 +438,8 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Draws an circle in window space using the mid point circle algorithm <a href="https://en.wikipedia.org/w/index.php?title=Midpoint_circle_algorithm">https://en.wikipedia.org/w/index.php?title=Midpoint_circle_algorithm</a>. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">center</td><td>The center of the circle </td></tr>
-    <tr><td class="paramname">angle</td><td>The radius of the circle </td></tr>
-    <tr><td class="paramname">pixelGap</td><td>The gap (in pixels) between each point in the circle </td></tr>
-    <tr><td class="paramname">color</td><td>The color of the circle </td></tr>
-  </table>
-  </dd>
-</dl>
+<p>Draws all added debug shapes. </p>
+<p >Shapes are not drawn when rectangle is not in camera view. </p>
 
 </div>
 </div>
@@ -289,155 +467,6 @@ Static Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Draws the fps counter. </p>
-
-</div>
-</div>
-<a id="a3c497832e0a961d2a8e3b64839b67b86" name="a3c497832e0a961d2a8e3b64839b67b86"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3c497832e0a961d2a8e3b64839b67b86">&#9670;&#160;</a></span>DrawLine()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void spic::internal::Rendering::DrawLine </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="structspic_1_1Point.html">spic::Point</a> &amp;&#160;</td>
-          <td class="paramname"><em>start</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const <a class="el" href="structspic_1_1Point.html">spic::Point</a> &amp;&#160;</td>
-          <td class="paramname"><em>end</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const <a class="el" href="classspic_1_1Color.html">spic::Color</a> &amp;&#160;</td>
-          <td class="paramname"><em>color</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Draws a line from start to end. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">start</td><td>Start point of the line </td></tr>
-    <tr><td class="paramname">end</td><td>End point of the line </td></tr>
-    <tr><td class="paramname">color</td><td><a class="el" href="classspic_1_1Color.html" title="Color represents a red-green-blue color with alpha.">Color</a> of this line </td></tr>
-  </table>
-  </dd>
-</dl>
-
-</div>
-</div>
-<a id="ac63244e8cd2f71b7638136a9027a9ed2" name="ac63244e8cd2f71b7638136a9027a9ed2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac63244e8cd2f71b7638136a9027a9ed2">&#9670;&#160;</a></span>DrawPoint()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void spic::internal::Rendering::DrawPoint </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="structspic_1_1Point.html">spic::Point</a> &amp;&#160;</td>
-          <td class="paramname"><em>point</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const <a class="el" href="classspic_1_1Color.html">spic::Color</a> &amp;&#160;</td>
-          <td class="paramname"><em>color</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Draws a point in window space. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">point</td><td><a class="el" href="structspic_1_1Point.html" title="Struct representing both a 2D point and a 2D vector.">Point</a> to be drawn </td></tr>
-    <tr><td class="paramname">color</td><td>The color of the point </td></tr>
-  </table>
-  </dd>
-</dl>
-
-</div>
-</div>
-<a id="a2f6d11bd66958bcd772976c6d2f0c6eb" name="a2f6d11bd66958bcd772976c6d2f0c6eb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2f6d11bd66958bcd772976c6d2f0c6eb">&#9670;&#160;</a></span>DrawRect()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void spic::internal::Rendering::DrawRect </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="structspic_1_1Rect.html">spic::Rect</a> &amp;&#160;</td>
-          <td class="paramname"><em>rect</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const double&#160;</td>
-          <td class="paramname"><em>angle</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const <a class="el" href="classspic_1_1Color.html">spic::Color</a> &amp;&#160;</td>
-          <td class="paramname"><em>color</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Draws an rectangle in window space. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">rect</td><td>The x, y, width, height of rectangle </td></tr>
-    <tr><td class="paramname">angle</td><td>The angle of the square </td></tr>
-    <tr><td class="paramname">colour</td><td>The colour of the square </td></tr>
-  </table>
-  </dd>
-</dl>
 
 </div>
 </div>
@@ -592,7 +621,8 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Renders all bufferd entities. </p>
+<p>Renders all buffered entities. </p>
+<p >Debug shapes will be reset in this function </p>
 
 </div>
 </div>

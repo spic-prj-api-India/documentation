@@ -98,6 +98,14 @@ $(document).ready(function(){initNavTree('classspic_1_1extensions_1_1PhysicsExte
 
 <p>Contains the box2d implementation.  
  <a href="classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#details">More...</a></p>
+<div class="dynheader">
+Collaboration diagram for spic::extensions::PhysicsExtensionImpl1:</div>
+<div class="dyncontent">
+<div class="center"><img src="classspic_1_1extensions_1_1PhysicsExtensionImpl1__coll__graph.png" border="0" usemap="#aspic_1_1extensions_1_1PhysicsExtensionImpl1_coll__map" alt="Collaboration graph"/></div>
+<map name="aspic_1_1extensions_1_1PhysicsExtensionImpl1_coll__map" id="aspic_1_1extensions_1_1PhysicsExtensionImpl1_coll__map">
+<area shape="rect" title="Contains the box2d implementation." alt="" coords="5,5,181,60"/>
+</map>
+</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
@@ -117,10 +125,10 @@ Public Member Functions</h2></td></tr>
 <tr class="memdesc:a1681cad38f0d04ca9680d2f6ae099503"><td class="mdescLeft">&#160;</td><td class="mdescRight">Resets all physic bodies in world.  <a href="classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#a1681cad38f0d04ca9680d2f6ae099503">More...</a><br /></td></tr>
 <tr class="separator:a1681cad38f0d04ca9680d2f6ae099503"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6ebc3bdfd2bed8cf3157c5be05965f9c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#a6ebc3bdfd2bed8cf3157c5be05965f9c">AddCollisionLayer</a> (const <a class="el" href="classspic_1_1tiled_1_1TileLayer.html">TileLayer</a> &amp;collisionLayer)</td></tr>
-<tr class="memdesc:a6ebc3bdfd2bed8cf3157c5be05965f9c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add collision layer in world.  <a href="classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#a6ebc3bdfd2bed8cf3157c5be05965f9c">More...</a><br /></td></tr>
+<tr class="memdesc:a6ebc3bdfd2bed8cf3157c5be05965f9c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add collision layer to physic world.  <a href="classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#a6ebc3bdfd2bed8cf3157c5be05965f9c">More...</a><br /></td></tr>
 <tr class="separator:a6ebc3bdfd2bed8cf3157c5be05965f9c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acc3df5368d897b12cdd5fe36c2838863"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#acc3df5368d897b12cdd5fe36c2838863">Update</a> (std::vector&lt; std::shared_ptr&lt; <a class="el" href="classspic_1_1GameObject.html">spic::GameObject</a> &gt; &gt; &amp;entities)</td></tr>
-<tr class="memdesc:acc3df5368d897b12cdd5fe36c2838863"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add and updates physic bodies in world.  <a href="classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#acc3df5368d897b12cdd5fe36c2838863">More...</a><br /></td></tr>
+<tr class="memdesc:acc3df5368d897b12cdd5fe36c2838863"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add and updates physic bodies in world and entities.  <a href="classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#acc3df5368d897b12cdd5fe36c2838863">More...</a><br /></td></tr>
 <tr class="separator:acc3df5368d897b12cdd5fe36c2838863"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a544f3cdca7521492b287e97009ff4727"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#a544f3cdca7521492b287e97009ff4727">RegisterListener</a> (std::unique_ptr&lt; <a class="el" href="classspic_1_1extensions_1_1ICollisionListener.html">ICollisionListener</a> &gt; listener)</td></tr>
 <tr class="memdesc:a544f3cdca7521492b287e97009ff4727"><td class="mdescLeft">&#160;</td><td class="mdescRight">Registers collision listener in world.  <a href="classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#a544f3cdca7521492b287e97009ff4727">More...</a><br /></td></tr>
@@ -128,14 +136,21 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a1b8e7748e0c13623631c7243b9605a1c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#a1b8e7748e0c13623631c7243b9605a1c">AddForce</a> (const std::shared_ptr&lt; <a class="el" href="classspic_1_1GameObject.html">GameObject</a> &gt; &amp;entity, const <a class="el" href="structspic_1_1Point.html">spic::Point</a> &amp;forceDirection)</td></tr>
 <tr class="memdesc:a1b8e7748e0c13623631c7243b9605a1c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Adds force to an entity.  <a href="classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#a1b8e7748e0c13623631c7243b9605a1c">More...</a><br /></td></tr>
 <tr class="separator:a1b8e7748e0c13623631c7243b9605a1c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7737fba6f9e174b2d1a85de0c37e79e8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#a7737fba6f9e174b2d1a85de0c37e79e8">RemoveEntity</a> (const std::string &amp;name)</td></tr>
+<tr class="memdesc:a7737fba6f9e174b2d1a85de0c37e79e8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Removes entity from box2d world.  <a href="classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#a7737fba6f9e174b2d1a85de0c37e79e8">More...</a><br /></td></tr>
+<tr class="separator:a7737fba6f9e174b2d1a85de0c37e79e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7c5ae8a4803ec9f22ba406d6605854b2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structspic_1_1Point.html">Point</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#a7c5ae8a4803ec9f22ba406d6605854b2">GetLinearVelocity</a> (const std::string &amp;name)</td></tr>
-<tr class="memdesc:a7c5ae8a4803ec9f22ba406d6605854b2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets linear velocty of entity.  <a href="classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#a7c5ae8a4803ec9f22ba406d6605854b2">More...</a><br /></td></tr>
+<tr class="memdesc:a7c5ae8a4803ec9f22ba406d6605854b2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets linear velocity of entity with name.  <a href="classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#a7c5ae8a4803ec9f22ba406d6605854b2">More...</a><br /></td></tr>
 <tr class="separator:a7c5ae8a4803ec9f22ba406d6605854b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8275e96bea5bef5fa2b4b3cd383e6609"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#a8275e96bea5bef5fa2b4b3cd383e6609">DrawColliders</a> ()</td></tr>
-<tr class="memdesc:a8275e96bea5bef5fa2b4b3cd383e6609"><td class="mdescLeft">&#160;</td><td class="mdescRight">Draw all colliders in world.  <a href="classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#a8275e96bea5bef5fa2b4b3cd383e6609">More...</a><br /></td></tr>
+<tr class="memdesc:a8275e96bea5bef5fa2b4b3cd383e6609"><td class="mdescLeft">&#160;</td><td class="mdescRight">Draw all colliders in world space.  <a href="classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#a8275e96bea5bef5fa2b4b3cd383e6609">More...</a><br /></td></tr>
 <tr class="separator:a8275e96bea5bef5fa2b4b3cd383e6609"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae2df0a4d29961f5f6bef4f9569720e05"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#ae2df0a4d29961f5f6bef4f9569720e05">CanRun</a> ()</td></tr>
+<tr class="memdesc:ae2df0a4d29961f5f6bef4f9569720e05"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns amount of steps.  <a href="classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#ae2df0a4d29961f5f6bef4f9569720e05">More...</a><br /></td></tr>
 <tr class="separator:ae2df0a4d29961f5f6bef4f9569720e05"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6c7212627e3d369f9b73c361fa56d7f6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#a6c7212627e3d369f9b73c361fa56d7f6">ClearForces</a> () noexcept</td></tr>
+<tr class="memdesc:a6c7212627e3d369f9b73c361fa56d7f6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Clears all forces from box2d.  <a href="classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#a6c7212627e3d369f9b73c361fa56d7f6">More...</a><br /></td></tr>
+<tr class="separator:a6c7212627e3d369f9b73c361fa56d7f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p >Contains the box2d implementation. </p>
@@ -290,9 +305,13 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Add collision layer in world. </p>
-<dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
-</dd></dl>
+<p>Add collision layer to physic world. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">collisionLayer</td><td>Tiled layer that is used for collision </td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>
@@ -331,6 +350,13 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Adds force to an entity. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">entity</td><td>Entity were force will be added to </td></tr>
+    <tr><td class="paramname">forceDirection</td><td>Force that will be applied </td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>
@@ -357,6 +383,36 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>Returns amount of steps. </p>
+<dl class="section return"><dt>Returns</dt><dd>int </dd></dl>
+
+</div>
+</div>
+<a id="a6c7212627e3d369f9b73c361fa56d7f6" name="a6c7212627e3d369f9b73c361fa56d7f6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6c7212627e3d369f9b73c361fa56d7f6">&#9670;&#160;</a></span>ClearForces()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void spic::extensions::PhysicsExtensionImpl1::ClearForces </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">noexcept</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Clears all forces from box2d. </p>
+
 </div>
 </div>
 <a id="a8275e96bea5bef5fa2b4b3cd383e6609" name="a8275e96bea5bef5fa2b4b3cd383e6609"></a>
@@ -382,7 +438,7 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Draw all colliders in world. </p>
+<p>Draw all colliders in world space. </p>
 
 </div>
 </div>
@@ -410,7 +466,8 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Gets linear velocty of entity. </p>
+<p>Gets linear velocity of entity with name. </p>
+<dl class="section return"><dt>Returns</dt><dd><a class="el" href="structspic_1_1Point.html" title="Struct representing both a 2D point and a 2D vector.">Point</a> Returns Linear velocity </dd></dl>
 
 </div>
 </div>
@@ -491,6 +548,46 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Registers collision listener in world. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">listener</td><td>Collision listener, is called when two bodies collide </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a7737fba6f9e174b2d1a85de0c37e79e8" name="a7737fba6f9e174b2d1a85de0c37e79e8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7737fba6f9e174b2d1a85de0c37e79e8">&#9670;&#160;</a></span>RemoveEntity()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void spic::extensions::PhysicsExtensionImpl1::RemoveEntity </td>
+          <td>(</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>name</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Removes entity from box2d world. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">name</td><td>Name of entity that will be removed </td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>
@@ -518,8 +615,6 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Resets all physic bodies in world. </p>
-<dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
-</dd></dl>
 
 </div>
 </div>
@@ -547,9 +642,13 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Add and updates physic bodies in world. </p>
-<dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
-</dd></dl>
+<p>Add and updates physic bodies in world and entities. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">entities</td><td>Entities to update </td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>

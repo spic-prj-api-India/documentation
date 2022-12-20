@@ -1,0 +1,3 @@
+<map id="spic::GameObject::IsActiveInWorld" name="spic::GameObject::IsActiveInWorld">
+<area shape="rect" id="node1" title="Returns whether this game component is active, taking its parents into consideration as well." alt="" coords="5,29,188,69"/>
+</map>

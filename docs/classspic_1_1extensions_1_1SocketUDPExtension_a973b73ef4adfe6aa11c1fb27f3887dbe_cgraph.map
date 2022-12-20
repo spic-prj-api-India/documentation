@@ -1,0 +1,5 @@
+<map id="spic::extensions::SocketUDPExtension::RetrieveData" name="spic::extensions::SocketUDPExtension::RetrieveData">
+<area shape="rect" id="node1" title="See INetworkExtension interface." alt="" coords="5,35,196,75"/>
+<area shape="rect" id="node2" href="$structspic_1_1NetworkPacket.html#aa75c3294d310b603992511a4e451a7d8" title=" " alt="" coords="246,5,389,45"/>
+<area shape="rect" id="node3" href="$namespacespic_1_1debug.html#adfde69e384e02f2c7c12c63fb308be89" title="A variant of Debug.Log that logs an error message to the console." alt="" coords="244,70,391,95"/>
+</map>

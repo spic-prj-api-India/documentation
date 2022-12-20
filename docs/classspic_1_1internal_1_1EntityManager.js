@@ -16,7 +16,7 @@ var classspic_1_1internal_1_1EntityManager =
     [ "operator=", "classspic_1_1internal_1_1EntityManager.html#ada82076f4c6c93f38a6a5e92710be870", null ],
     [ "operator=", "classspic_1_1internal_1_1EntityManager.html#a90c5c5f2be09f170b0adae5a4e15111f", null ],
     [ "RegisterScene", "classspic_1_1internal_1_1EntityManager.html#a8b2700b9bbc328d77e1d02b88af24776", null ],
-    [ "RemoveEntity", "classspic_1_1internal_1_1EntityManager.html#ae88876596f1033c8fe47f69d18aa2c9c", null ],
+    [ "RemoveEntity", "classspic_1_1internal_1_1EntityManager.html#ab2885bfa5bc7ac7aaff1225c1e821ebe", null ],
     [ "RemoveSystem", "classspic_1_1internal_1_1EntityManager.html#ab9ba2c0d8ed209bd853567ce765c75c3", null ],
     [ "Reset", "classspic_1_1internal_1_1EntityManager.html#a211c14a79f5304406f4f815e083d8a56", null ],
     [ "SetScene", "classspic_1_1internal_1_1EntityManager.html#a8293fc08d8b533c6102ef8e813b3ccda", null ],

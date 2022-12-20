@@ -1,0 +1,5 @@
+<map id="spic::GameObject::Name" name="spic::GameObject::Name">
+<area shape="rect" id="node1" title="Returns name of GameObject." alt="" coords="231,35,400,60"/>
+<area shape="rect" id="node2" href="$classspic_1_1RigidBody.html#ab97cfa653ee725ea97574dca9469acc1" title="Apply force to this rigid body." alt="" coords="5,5,183,31"/>
+<area shape="rect" id="node3" href="$classspic_1_1SocketScript.html#a450614171e574f4f776ab685afb64899" title="Gets update packet with only an update of the transform of a gameobject." alt="" coords="29,55,159,95"/>
+</map>

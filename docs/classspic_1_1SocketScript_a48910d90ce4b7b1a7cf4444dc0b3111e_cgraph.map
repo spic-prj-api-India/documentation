@@ -1,0 +1,7 @@
+<map id="spic::SocketScript::RegisterNewEntity" name="spic::SocketScript::RegisterNewEntity">
+<area shape="rect" id="node1" title="Adds new gameobject to the registration." alt="" coords="5,5,143,45"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1EntityManager.html#a29cfad81ba4f0123ed80b95ebd6cf2b5" title=" " alt="" coords="191,5,379,45"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1EntityManager.html#a7555637657d090171be6ceee8451de0a" title="Calls the init method." alt="" coords="427,5,615,45"/>
+<area shape="rect" id="node4" href="$classspic_1_1internal_1_1EntityManager.html#abddae91d3605e8fcdc55640ecb5d463d" title=" " alt="" coords="663,5,851,45"/>
+<area shape="rect" id="node5" href="$structspic_1_1internal_1_1audio_1_1AudioFacade.html#a689fd9c815151a819f325c11f7587d83" title="Creates an new AudioSystem and puts it on the heap. The current audioImplementation has an bug that i..." alt="" coords="899,5,1084,45"/>
+</map>

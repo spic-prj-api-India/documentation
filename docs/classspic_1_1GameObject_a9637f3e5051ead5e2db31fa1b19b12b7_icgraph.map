@@ -1,0 +1,6 @@
+<map id="spic::GameObject::CheckIfNameExists" name="spic::GameObject::CheckIfNameExists">
+<area shape="rect" id="node1" title="Checks if name exists in colection." alt="" coords="241,55,421,95"/>
+<area shape="rect" id="node2" href="$classspic_1_1Scene.html#abd2395d720acc9db01a02dc6b61dd844" title="Add a Game object." alt="" coords="16,5,183,31"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1EntityManager.html#acbcb43ba302a7aff216c471efee764e9" title="Calls an condition relating to the current entities list." alt="" coords="5,55,193,95"/>
+<area shape="rect" id="node4" href="$classspic_1_1GameObject.html#a5e58b1eb78499b27cd3cc43dc05be063" title="Sets name of GameObject." alt="" coords="15,120,184,145"/>
+</map>

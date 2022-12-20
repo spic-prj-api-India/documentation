@@ -1,0 +1,4 @@
+<map id="spic::Point::Distance" name="spic::Point::Distance">
+<area shape="rect" id="node1" title="Returns distance between to points." alt="" coords="268,13,411,38"/>
+<area shape="rect" id="node2" href="$namespacespic_1_1helper__functions_1_1general__helper.html#a9f197d26763aa06e4e829f70e09f2d05" title="Calculates if a line intersects with another line. Sets intersection point and distance to intersecti..." alt="" coords="5,5,220,45"/>
+</map>

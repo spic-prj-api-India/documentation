@@ -1,0 +1,9 @@
+<map id="spic::Scene::AddContent" name="spic::Scene::AddContent">
+<area shape="rect" id="node1" title="Add a Game object." alt="" coords="5,101,172,126"/>
+<area shape="rect" id="node2" href="$classspic_1_1GameObject.html#a9637f3e5051ead5e2db31fa1b19b12b7" title="Checks if name exists in colection." alt="" coords="224,29,404,69"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1EntityManager.html#a29cfad81ba4f0123ed80b95ebd6cf2b5" title=" " alt="" coords="220,93,408,133"/>
+<area shape="rect" id="node7" href="$namespacespic_1_1debug.html#adfde69e384e02f2c7c12c63fb308be89" title="A variant of Debug.Log that logs an error message to the console." alt="" coords="241,158,387,183"/>
+<area shape="rect" id="node4" href="$classspic_1_1internal_1_1EntityManager.html#a7555637657d090171be6ceee8451de0a" title="Calls the init method." alt="" coords="456,93,644,133"/>
+<area shape="rect" id="node5" href="$classspic_1_1internal_1_1EntityManager.html#abddae91d3605e8fcdc55640ecb5d463d" title=" " alt="" coords="692,93,880,133"/>
+<area shape="rect" id="node6" href="$structspic_1_1internal_1_1audio_1_1AudioFacade.html#a689fd9c815151a819f325c11f7587d83" title="Creates an new AudioSystem and puts it on the heap. The current audioImplementation has an bug that i..." alt="" coords="928,93,1113,133"/>
+</map>

@@ -96,10 +96,18 @@ $(document).ready(function(){initNavTree('classspic_1_1Bounds.html',''); initRes
 </div><!--header-->
 <div class="contents">
 
-<p><a class="el" href="classspic_1_1Bounds.html" title="Bounds is a defined area with a width, height, top, bottom, right and left. Which can used to define ...">Bounds</a> is a defined area with a width, height, top, bottom, right and left. Which can used to define an area where an entity must stay in.  
+<p><a class="el" href="classspic_1_1Bounds.html" title="Bounds is a defined area with a width, height, top, bottom, right and left. Which can used to define ...">Bounds</a> is a defined area with a width, height, top, bottom, right and left. Which can used to define an area where an entity must stay in. This is used for wall avoidance.  
  <a href="classspic_1_1Bounds.html#details">More...</a></p>
 
 <p><code>#include &lt;<a class="el" href="Bounds_8hpp_source.html">Bounds.hpp</a>&gt;</code></p>
+<div class="dynheader">
+Collaboration diagram for spic::Bounds:</div>
+<div class="dyncontent">
+<div class="center"><img src="classspic_1_1Bounds__coll__graph.png" border="0" usemap="#aspic_1_1Bounds_coll__map" alt="Collaboration graph"/></div>
+<map name="aspic_1_1Bounds_coll__map" id="aspic_1_1Bounds_coll__map">
+<area shape="rect" title="Bounds is a defined area with a width, height, top, bottom, right and left. Which can used to define ..." alt="" coords="5,5,108,45"/>
+</map>
+</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
@@ -135,7 +143,7 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a7a633c5f05efc4beddaf14d97fb4519c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p ><a class="el" href="classspic_1_1Bounds.html" title="Bounds is a defined area with a width, height, top, bottom, right and left. Which can used to define ...">Bounds</a> is a defined area with a width, height, top, bottom, right and left. Which can used to define an area where an entity must stay in. </p>
+<div class="textblock"><p ><a class="el" href="classspic_1_1Bounds.html" title="Bounds is a defined area with a width, height, top, bottom, right and left. Which can used to define ...">Bounds</a> is a defined area with a width, height, top, bottom, right and left. Which can used to define an area where an entity must stay in. This is used for wall avoidance. </p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a0c3b3c16d669d15ec0e9dea609d15d48" name="a0c3b3c16d669d15ec0e9dea609d15d48"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a0c3b3c16d669d15ec0e9dea609d15d48">&#9670;&#160;</a></span>Bounds() <span class="overload">[1/3]</span></h2>
@@ -153,8 +161,6 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Set all variables to 0.0f. </p>
-<dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
-</dd></dl>
 
 </div>
 </div>
@@ -175,8 +181,6 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Sets bounds from { 0.0f, 0.0f } to { v.x, v.y }. </p>
-<dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
-</dd></dl>
 
 </div>
 </div>
@@ -228,8 +232,6 @@ Public Member Functions</h2></td></tr>
   </table>
   </dd>
 </dl>
-<dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
-</dd></dl>
 
 </div>
 </div>
@@ -251,8 +253,6 @@ Public Member Functions</h2></td></tr>
 
 <p>Returns bottom of <a class="el" href="classspic_1_1Bounds.html" title="Bounds is a defined area with a width, height, top, bottom, right and left. Which can used to define ...">Bounds</a>. </p>
 <dl class="section return"><dt>Returns</dt><dd>float. </dd></dl>
-<dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
-</dd></dl>
 
 </div>
 </div>
@@ -273,8 +273,6 @@ Public Member Functions</h2></td></tr>
 
 <p>Returns height of <a class="el" href="classspic_1_1Bounds.html" title="Bounds is a defined area with a width, height, top, bottom, right and left. Which can used to define ...">Bounds</a>. </p>
 <dl class="section return"><dt>Returns</dt><dd>float. </dd></dl>
-<dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
-</dd></dl>
 
 </div>
 </div>
@@ -302,8 +300,6 @@ Public Member Functions</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>bool. </dd></dl>
-<dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
-</dd></dl>
 
 </div>
 </div>
@@ -324,8 +320,6 @@ Public Member Functions</h2></td></tr>
 
 <p>Returns left of <a class="el" href="classspic_1_1Bounds.html" title="Bounds is a defined area with a width, height, top, bottom, right and left. Which can used to define ...">Bounds</a>. </p>
 <dl class="section return"><dt>Returns</dt><dd>float. </dd></dl>
-<dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
-</dd></dl>
 
 </div>
 </div>
@@ -346,8 +340,6 @@ Public Member Functions</h2></td></tr>
 
 <p>Returns right of <a class="el" href="classspic_1_1Bounds.html" title="Bounds is a defined area with a width, height, top, bottom, right and left. Which can used to define ...">Bounds</a>. </p>
 <dl class="section return"><dt>Returns</dt><dd>float. </dd></dl>
-<dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
-</dd></dl>
 
 </div>
 </div>
@@ -368,8 +360,6 @@ Public Member Functions</h2></td></tr>
 
 <p>Returns top of <a class="el" href="classspic_1_1Bounds.html" title="Bounds is a defined area with a width, height, top, bottom, right and left. Which can used to define ...">Bounds</a>. </p>
 <dl class="section return"><dt>Returns</dt><dd>float. </dd></dl>
-<dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
-</dd></dl>
 
 </div>
 </div>
@@ -390,8 +380,6 @@ Public Member Functions</h2></td></tr>
 
 <p>Returns width of <a class="el" href="classspic_1_1Bounds.html" title="Bounds is a defined area with a width, height, top, bottom, right and left. Which can used to define ...">Bounds</a>. </p>
 <dl class="section return"><dt>Returns</dt><dd>float. </dd></dl>
-<dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
-</dd></dl>
 
 </div>
 </div>

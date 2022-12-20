@@ -1,0 +1,7 @@
+<map id="spic::GameObject::operator bool" name="spic::GameObject::operator bool">
+<area shape="rect" id="node1" title="Does the object exist? TODO wat wordt hiermee bedoeld?" alt="" coords="5,13,216,38"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1EntityManager.html#a29cfad81ba4f0123ed80b95ebd6cf2b5" title=" " alt="" coords="264,5,452,45"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1EntityManager.html#a7555637657d090171be6ceee8451de0a" title="Calls the init method." alt="" coords="500,5,688,45"/>
+<area shape="rect" id="node4" href="$classspic_1_1internal_1_1EntityManager.html#abddae91d3605e8fcdc55640ecb5d463d" title=" " alt="" coords="736,5,924,45"/>
+<area shape="rect" id="node5" href="$structspic_1_1internal_1_1audio_1_1AudioFacade.html#a689fd9c815151a819f325c11f7587d83" title="Creates an new AudioSystem and puts it on the heap. The current audioImplementation has an bug that i..." alt="" coords="972,5,1157,45"/>
+</map>

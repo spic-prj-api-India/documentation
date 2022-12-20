@@ -1,0 +1,4 @@
+<map id="spic::input::GetMouseButton" name="spic::input::GetMouseButton">
+<area shape="rect" id="node1" title="Returns whether the given mouse button is held down." alt="" coords="5,13,193,38"/>
+<area shape="rect" id="node2" href="$namespacespic_1_1internal_1_1input_1_1impl.html#a1ec89c8f4b6b5cc3b24f31d3906354fc" title="Returns whether the given mouse button is held down." alt="" coords="241,5,401,45"/>
+</map>

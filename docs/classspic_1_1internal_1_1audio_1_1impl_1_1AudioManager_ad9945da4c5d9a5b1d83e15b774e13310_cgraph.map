@@ -1,0 +1,6 @@
+<map id="spic::internal::audio::impl::AudioManager::PlaySample" name="spic::internal::audio::impl::AudioManager::PlaySample">
+<area shape="rect" id="node1" title="If the sample does not exists it adds it to the Samples list." alt="" coords="5,55,151,110"/>
+<area shape="rect" id="node2" href="$classspic_1_1AudioSource.html#abbab26cee0e4b9e29bd38fb61718f098" title="Getter." alt="" coords="213,5,349,45"/>
+<area shape="rect" id="node3" href="$classspic_1_1AudioSource.html#a84065c808e939d660697c5bcbec357e2" title="Getter." alt="" coords="199,70,363,95"/>
+<area shape="rect" id="node4" href="$classspic_1_1AudioSource.html#a8a549123d8efef1a2d8a33a86061809e" title="Getter." alt="" coords="213,120,349,160"/>
+</map>

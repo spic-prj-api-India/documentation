@@ -1,0 +1,4 @@
+<map id="spic::internal::audio::impl::Sample::CatchChannelDone" name="spic::internal::audio::impl::Sample::CatchChannelDone">
+<area shape="rect" id="node1" title="Static method which triggers after a channel is done playing." alt="" coords="5,5,231,45"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1audio_1_1impl_1_1Sample.html#aaef4df1c5b2293a53a72a018da013581" title="After a song is done playing it calls this method." alt="" coords="279,5,440,45"/>
+</map>

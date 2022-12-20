@@ -1,0 +1,4 @@
+<map id="spic::GameObject::Active" name="spic::GameObject::Active">
+<area shape="rect" id="node1" title="Activates/Deactivates the GameObject, depending on the given true or false value. If flag is true,..." alt="" coords="5,5,177,31"/>
+<area shape="rect" id="node2" href="$classspic_1_1GameObject.html#abf6fd75a08cc88a6dfe93ee0d6e70421" title="Gets all the children of this object." alt="" coords="225,5,428,31"/>
+</map>

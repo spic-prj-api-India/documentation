@@ -1,0 +1,6 @@
+<map id="spic::internal::audio::AudioFacade::RemoveSample" name="spic::internal::audio::AudioFacade::RemoveSample">
+<area shape="rect" id="node1" title="Removes a Sample from the sample list." alt="" coords="5,41,212,81"/>
+<area shape="rect" id="node2" href="$structspic_1_1internal_1_1audio_1_1AudioFacade.html#a689fd9c815151a819f325c11f7587d83" title="Creates an new AudioSystem and puts it on the heap. The current audioImplementation has an bug that i..." alt="" coords="260,5,445,45"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1audio_1_1impl_1_1AudioManager.html#a0b8c83a4e5640926a4df091ba74e0de7" title="Removes a Sample from the sample list." alt="" coords="280,70,425,125"/>
+<area shape="rect" id="node4" href="$classspic_1_1AudioSource.html#abbab26cee0e4b9e29bd38fb61718f098" title="Getter." alt="" coords="493,77,629,117"/>
+</map>

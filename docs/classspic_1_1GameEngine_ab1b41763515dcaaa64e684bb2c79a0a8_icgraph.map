@@ -1,0 +1,5 @@
+<map id="spic::GameEngine::GetExtension" name="spic::GameEngine::GetExtension">
+<area shape="rect" id="node1" title="Gets extension of type IEngineExtension." alt="" coords="231,31,447,56"/>
+<area shape="rect" id="node2" href="$classspic_1_1RigidBody.html#ab97cfa653ee725ea97574dca9469acc1" title="Apply force to this rigid body." alt="" coords="5,5,183,31"/>
+<area shape="rect" id="node3" href="$classspic_1_1RigidBody.html#a26d6b306772b442aab5b402f01a46814" title="Get rigid body&#39;s velocity." alt="" coords="11,55,177,80"/>
+</map>

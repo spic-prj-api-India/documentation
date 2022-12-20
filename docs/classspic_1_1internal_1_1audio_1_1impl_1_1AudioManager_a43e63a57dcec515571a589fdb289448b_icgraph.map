@@ -1,0 +1,5 @@
+<map id="spic::internal::audio::impl::AudioManager::StopSample" name="spic::internal::audio::impl::AudioManager::StopSample">
+<area shape="rect" id="node1" title="stops all sounds of a sample" alt="" coords="449,5,595,60"/>
+<area shape="rect" id="node2" href="$structspic_1_1internal_1_1audio_1_1AudioFacade.html#a38b5085d6e1b76964c5c5ce5eb5de819" title="stops all sounds of a sample" alt="" coords="216,13,401,53"/>
+<area shape="rect" id="node3" href="$classspic_1_1AudioSource.html#afcfa9a28255f0aac30aa218d4e293123" title="Call this method to stop playing audio." alt="" coords="5,20,168,45"/>
+</map>

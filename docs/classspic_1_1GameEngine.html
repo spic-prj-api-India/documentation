@@ -103,6 +103,14 @@ $(document).ready(function(){initNavTree('classspic_1_1GameEngine.html',''); ini
  <a href="classspic_1_1GameEngine.html#details">More...</a></p>
 
 <p><code>#include &lt;<a class="el" href="GameEngine_8hpp_source.html">GameEngine.hpp</a>&gt;</code></p>
+<div class="dynheader">
+Collaboration diagram for spic::GameEngine:</div>
+<div class="dyncontent">
+<div class="center"><img src="classspic_1_1GameEngine__coll__graph.png" border="0" usemap="#aspic_1_1GameEngine_coll__map" alt="Collaboration graph"/></div>
+<map name="aspic_1_1GameEngine_coll__map" id="aspic_1_1GameEngine_coll__map">
+<area shape="rect" title="The main class of the engine, has multiple functions to configure engine and load scenes...." alt="" coords="5,5,139,45"/>
+</map>
+</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
@@ -174,8 +182,8 @@ Protected Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
 Protected Attributes</h2></td></tr>
-<tr class="memitem:aaaa6685de326a8205d6f95dd61f5377a"><td class="memItemLeft" align="right" valign="top">std::map&lt; std::string, std::shared_ptr&lt; <a class="el" href="classspic_1_1extensions_1_1IEngineExtension.html">spic::extensions::IEngineExtension</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1GameEngine.html#aaaa6685de326a8205d6f95dd61f5377a">_extensions</a></td></tr>
-<tr class="separator:aaaa6685de326a8205d6f95dd61f5377a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a37567419fe0f663cb2c2ba09c111321f"><td class="memItemLeft" align="right" valign="top">std::vector&lt; std::shared_ptr&lt; <a class="el" href="classspic_1_1extensions_1_1IEngineExtension.html">extensions::IEngineExtension</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1GameEngine.html#a37567419fe0f663cb2c2ba09c111321f">_extensions</a></td></tr>
+<tr class="separator:a37567419fe0f663cb2c2ba09c111321f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab66b5ea5fc188b372af4968836f701a5"><td class="memItemLeft" align="right" valign="top">std::map&lt; std::string, std::function&lt; std::shared_ptr&lt; <a class="el" href="classspic_1_1GameObject.html">spic::GameObject</a> &gt;()&gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1GameEngine.html#ab66b5ea5fc188b372af4968836f701a5">_types</a></td></tr>
 <tr class="separator:ab66b5ea5fc188b372af4968836f701a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3d87160a476292183a87843c157dfb20"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1GameEngine.html#a3d87160a476292183a87843c157dfb20">quit</a></td></tr>
@@ -641,22 +649,11 @@ template&lt;typename T &gt; </div>
 <div class="memproto">
 <div class="memtemplate">
 template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void spic::GameEngine::RegisterType </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="memname">void spic::GameEngine::RegisterType</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
 </div>
@@ -717,8 +714,8 @@ template&lt;typename T &gt; </div>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="aaaa6685de326a8205d6f95dd61f5377a" name="aaaa6685de326a8205d6f95dd61f5377a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaaa6685de326a8205d6f95dd61f5377a">&#9670;&#160;</a></span>_extensions</h2>
+<a id="a37567419fe0f663cb2c2ba09c111321f" name="a37567419fe0f663cb2c2ba09c111321f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a37567419fe0f663cb2c2ba09c111321f">&#9670;&#160;</a></span>_extensions</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -727,7 +724,7 @@ template&lt;typename T &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::map&lt;std::string, std::shared_ptr&lt;<a class="el" href="classspic_1_1extensions_1_1IEngineExtension.html">spic::extensions::IEngineExtension</a>&gt; &gt; spic::GameEngine::_extensions</td>
+          <td class="memname">std::vector&lt;std::shared_ptr&lt;<a class="el" href="classspic_1_1extensions_1_1IEngineExtension.html">extensions::IEngineExtension</a>&gt; &gt; spic::GameEngine::_extensions</td>
         </tr>
       </table>
   </td>

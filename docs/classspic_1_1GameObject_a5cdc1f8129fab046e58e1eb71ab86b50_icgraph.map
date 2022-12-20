@@ -1,0 +1,6 @@
+<map id="spic::GameObject::Active" name="spic::GameObject::Active">
+<area shape="rect" id="node1" title="Returns whether this game object is itself active." alt="" coords="271,101,443,126"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1rendering_1_1RendererImpl.html#ad38079aabc697c9ee80464488cbc7c0a" title="Draws all related components of an gameobject." alt="" coords="5,29,223,69"/>
+<area shape="rect" id="node3" href="$classspic_1_1Persistable.html#ac13a99f9057ba0d034242b06131748bc" title="Loads the properties of the GameObject." alt="" coords="51,93,177,133"/>
+<area shape="rect" id="node4" href="$classspic_1_1Persistable.html#a5115d044374adb72d7887302c43f2f46" title="Saves the properties of the GameObject." alt="" coords="51,157,177,197"/>
+</map>

@@ -14,22 +14,6 @@ var namespacespic_1_1internal =
     [ "exceptions", "namespacespic_1_1internal_1_1exceptions.html", "namespacespic_1_1internal_1_1exceptions" ],
     [ "extensions", "namespacespic_1_1internal_1_1extensions.html", "namespacespic_1_1internal_1_1extensions" ],
     [ "input", "namespacespic_1_1internal_1_1input.html", "namespacespic_1_1internal_1_1input" ],
-    [ "InputImpl", "namespacespic_1_1internal_1_1InputImpl.html", [
-      [ "AnyKey", "namespacespic_1_1internal_1_1InputImpl.html#a3ee7f425cbcb27fb20bfbe37dc842a3d", null ],
-      [ "AnyKeyDown", "namespacespic_1_1internal_1_1InputImpl.html#a58045388d2fb33ea68ee5734e7b8a31c", null ],
-      [ "GetAxis", "namespacespic_1_1internal_1_1InputImpl.html#a25a834e6507f4cd33b42ebae35577fef", null ],
-      [ "GetKey", "namespacespic_1_1internal_1_1InputImpl.html#a1a86197bf04cd213cc3a2607c97f0019", null ],
-      [ "GetKeyDown", "namespacespic_1_1internal_1_1InputImpl.html#a7661f915cedae4414022c0a4ccfd4671", null ],
-      [ "GetKeyUp", "namespacespic_1_1internal_1_1InputImpl.html#a229e0afd1845d8bf706a325123f79a64", null ],
-      [ "GetMouseButton", "namespacespic_1_1internal_1_1InputImpl.html#afd28ad42e192fc602f848be57b51e651", null ],
-      [ "GetMouseButtonDown", "namespacespic_1_1internal_1_1InputImpl.html#a974cc800d6ed8fad614bbce0bab7d7d8", null ],
-      [ "GetMouseButtonUp", "namespacespic_1_1internal_1_1InputImpl.html#a4ce9a480d72648a6ec59a8bd79964715", null ],
-      [ "MousePosition", "namespacespic_1_1internal_1_1InputImpl.html#acfcfecfe13f24bb11f4d62d4988a9606", null ],
-      [ "Poll", "namespacespic_1_1internal_1_1InputImpl.html#a9396bf309e17794063954a5c2b3589f2", null ],
-      [ "Quit", "namespacespic_1_1internal_1_1InputImpl.html#a2250bd158b0cc781bea9067065b6a6c6", null ],
-      [ "ToSDLKeyCodes", "namespacespic_1_1internal_1_1InputImpl.html#a7d550b30dabeac06e2497a448a424aab", null ],
-      [ "ev", "namespacespic_1_1internal_1_1InputImpl.html#aedbac30dc6d9e3d23c39c1e772a2f37b", null ]
-    ] ],
     [ "math", "namespacespic_1_1internal_1_1math.html", "namespacespic_1_1internal_1_1math" ],
     [ "networking", "namespacespic_1_1internal_1_1networking.html", [
       [ "decode_map", "namespacespic_1_1internal_1_1networking.html#a4d80733ea572e013fda791d04a3b44b0", null ],
@@ -41,5 +25,6 @@ var namespacespic_1_1internal =
     [ "EntityManager", "classspic_1_1internal_1_1EntityManager.html", "classspic_1_1internal_1_1EntityManager" ],
     [ "InputManager", "classspic_1_1internal_1_1InputManager.html", "classspic_1_1internal_1_1InputManager" ],
     [ "MapParser", "classspic_1_1internal_1_1MapParser.html", "classspic_1_1internal_1_1MapParser" ],
-    [ "Rendering", "structspic_1_1internal_1_1Rendering.html", null ]
+    [ "Rendering", "structspic_1_1internal_1_1Rendering.html", null ],
+    [ "SaveDocument", "classspic_1_1internal_1_1SaveDocument.html", "classspic_1_1internal_1_1SaveDocument" ]
 ];

@@ -1,7 +1,10 @@
 var namespacespic =
 [
     [ "debug", "namespacespic_1_1debug.html", [
+      [ "DrawCircle", "namespacespic_1_1debug.html#aed6faebe318877f9ac3a5ae8116343d4", null ],
       [ "DrawLine", "namespacespic_1_1debug.html#ad5cfde4152d71b2332a2508d3619f3b2", null ],
+      [ "DrawPoint", "namespacespic_1_1debug.html#ae30193a4b8c63f91ba59e646f78ac478", null ],
+      [ "DrawRect", "namespacespic_1_1debug.html#a00ef4eb237d27314e36a9f47c621c554", null ],
       [ "Log", "namespacespic_1_1debug.html#a2de5576578958ef16655d6db11922946", null ],
       [ "LogError", "namespacespic_1_1debug.html#adfde69e384e02f2c7c12c63fb308be89", null ],
       [ "LogWarning", "namespacespic_1_1debug.html#a3f599664dd1ae27d2aa550dad76f7ba9", null ],
@@ -292,6 +295,7 @@ var namespacespic =
       [ "SELECTOR", "namespacespic_1_1settings.html#a1d95b2dd8f4df188d622e91da40f2643", null ],
       [ "SET_ON_TOP", "namespacespic_1_1settings.html#accbc98ede16c2f7366fbd962bd4bf2f1", null ],
       [ "STANDARD_GAME_SPEED", "namespacespic_1_1settings.html#ae556d7f97fd3724f88785a6410cb1850", null ],
+      [ "WALL_AVOIDANCE_FEELERS_VISIBILITY", "namespacespic_1_1settings.html#ac50be7ea7f38455df17c3b19c37aa5b1", null ],
       [ "WINDOW_HEIGHT", "namespacespic_1_1settings.html#a465094c23f75820f1f5daec45a6d36f6", null ],
       [ "WINDOW_NAME", "namespacespic_1_1settings.html#a6895f46850099de871fd8273c2b0af85", null ],
       [ "WINDOW_WIDTH", "namespacespic_1_1settings.html#aa62959da457868f4fe57f483e85c2fcf", null ]
@@ -305,27 +309,31 @@ var namespacespic =
     [ "BoxCollider", "classspic_1_1BoxCollider.html", "classspic_1_1BoxCollider" ],
     [ "Button", "classspic_1_1Button.html", "classspic_1_1Button" ],
     [ "Camera", "classspic_1_1Camera.html", "classspic_1_1Camera" ],
+    [ "Circle", "structspic_1_1Circle.html", "structspic_1_1Circle" ],
     [ "CircleCollider", "classspic_1_1CircleCollider.html", "classspic_1_1CircleCollider" ],
     [ "Collider", "classspic_1_1Collider.html", "classspic_1_1Collider" ],
     [ "Color", "classspic_1_1Color.html", "classspic_1_1Color" ],
     [ "Component", "classspic_1_1Component.html", "classspic_1_1Component" ],
     [ "DataHandler", "classspic_1_1DataHandler.html", "classspic_1_1DataHandler" ],
+    [ "Flocking", "classspic_1_1Flocking.html", "classspic_1_1Flocking" ],
     [ "ForceDriven", "classspic_1_1ForceDriven.html", "classspic_1_1ForceDriven" ],
     [ "GameEngine", "classspic_1_1GameEngine.html", "classspic_1_1GameEngine" ],
     [ "GameObject", "classspic_1_1GameObject.html", "classspic_1_1GameObject" ],
     [ "IKeyListener", "classspic_1_1IKeyListener.html", "classspic_1_1IKeyListener" ],
     [ "IMemento", "structspic_1_1IMemento.html", "structspic_1_1IMemento" ],
     [ "IMouseListener", "classspic_1_1IMouseListener.html", "classspic_1_1IMouseListener" ],
+    [ "Line", "structspic_1_1Line.html", "structspic_1_1Line" ],
     [ "NetworkPacket", "structspic_1_1NetworkPacket.html", "structspic_1_1NetworkPacket" ],
+    [ "Obstacle", "classspic_1_1Obstacle.html", "classspic_1_1Obstacle" ],
     [ "Persistable", "classspic_1_1Persistable.html", "classspic_1_1Persistable" ],
     [ "Point", "structspic_1_1Point.html", "structspic_1_1Point" ],
     [ "Rect", "structspic_1_1Rect.html", "structspic_1_1Rect" ],
     [ "RigidBody", "classspic_1_1RigidBody.html", "classspic_1_1RigidBody" ],
-    [ "SaveDocument", "classspic_1_1SaveDocument.html", "classspic_1_1SaveDocument" ],
     [ "Scene", "classspic_1_1Scene.html", "classspic_1_1Scene" ],
     [ "Serializer", "structspic_1_1Serializer.html", "structspic_1_1Serializer" ],
     [ "SocketScript", "classspic_1_1SocketScript.html", "classspic_1_1SocketScript" ],
     [ "Sprite", "classspic_1_1Sprite.html", "classspic_1_1Sprite" ],
+    [ "Steering", "classspic_1_1Steering.html", "classspic_1_1Steering" ],
     [ "Text", "classspic_1_1Text.html", "classspic_1_1Text" ],
     [ "ThreadWrapper", "classspic_1_1ThreadWrapper.html", "classspic_1_1ThreadWrapper" ],
     [ "Time", "classspic_1_1Time.html", null ],
@@ -352,15 +360,14 @@ var namespacespic =
       [ "DESTROY", "namespacespic.html#abd86f109bdb1991721dc88779b36daeaa791fe3c37ed66242fb7027c575a2e53d", null ],
       [ "SYNC", "namespacespic.html#abd86f109bdb1991721dc88779b36daeaad732225b83e64d2b28c1093afcf9b9b3", null ]
     ] ],
-    [ "SteeringBehaviour", "namespacespic.html#a29139750aa7b80389116bf4d28806ad6", [
-      [ "SEEK", "namespacespic.html#a29139750aa7b80389116bf4d28806ad6a71fa98cecf9e896e77d11325dbe19dc6", null ],
-      [ "FLEE", "namespacespic.html#a29139750aa7b80389116bf4d28806ad6af975a35247c42f95348a25d4dff6bd38", null ],
-      [ "ARRIVAL", "namespacespic.html#a29139750aa7b80389116bf4d28806ad6ad5f52d91ac49fd146727f4710767dd08", null ],
-      [ "WANDER", "namespacespic.html#a29139750aa7b80389116bf4d28806ad6a2c1015fe9a3809459babffd54b7081a6", null ]
-    ] ],
     [ "SumMethod", "namespacespic.html#ae6fa835cd46747a5186631e3c152ca05", [
       [ "WEIGHTED_AVERAGE", "namespacespic.html#ae6fa835cd46747a5186631e3c152ca05a4f51d375a57ade6658e035f335229505", null ],
       [ "PRIORITIZED", "namespacespic.html#ae6fa835cd46747a5186631e3c152ca05acc200afe8e9be5c2a9cdbc37367d6c14", null ]
+    ] ],
+    [ "TargetBehaviour", "namespacespic.html#add9ba5ab735a32a86a6ee10656bb4e0d", [
+      [ "SEEK", "namespacespic.html#add9ba5ab735a32a86a6ee10656bb4e0da71fa98cecf9e896e77d11325dbe19dc6", null ],
+      [ "FLEE", "namespacespic.html#add9ba5ab735a32a86a6ee10656bb4e0daf975a35247c42f95348a25d4dff6bd38", null ],
+      [ "ARRIVAL", "namespacespic.html#add9ba5ab735a32a86a6ee10656bb4e0dad5f52d91ac49fd146727f4710767dd08", null ]
     ] ],
     [ "UpdateSetting", "namespacespic.html#a8464b1b01a828b6b07b2087b6ac3b5d2", [
       [ "ALWAYS", "namespacespic.html#a8464b1b01a828b6b07b2087b6ac3b5d2af3fc827ade4b968e50406496907ef962", null ],

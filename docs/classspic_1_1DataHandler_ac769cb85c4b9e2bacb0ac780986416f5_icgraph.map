@@ -1,0 +1,4 @@
+<map id="spic::DataHandler::LoadScene" name="spic::DataHandler::LoadScene">
+<area shape="rect" id="node1" title="Gets the latest saved scene, loads xml data, updates and creates entities with the xml data." alt="" coords="256,5,389,45"/>
+<area shape="rect" id="node2" href="$classspic_1_1GameEngine.html#a4124ece9dbd154b33578f1f4106143f9" title=" " alt="" coords="5,5,208,45"/>
+</map>

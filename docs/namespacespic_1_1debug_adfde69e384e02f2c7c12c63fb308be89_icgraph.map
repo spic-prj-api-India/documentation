@@ -1,0 +1,11 @@
+<map id="spic::debug::LogError" name="spic::debug::LogError">
+<area shape="rect" id="node1" title="A variant of Debug.Log that logs an error message to the console." alt="" coords="379,176,525,201"/>
+<area shape="rect" id="node2" href="$classspic_1_1Scene.html#abd2395d720acc9db01a02dc6b61dd844" title="Add a Game object." alt="" coords="152,5,319,31"/>
+<area shape="rect" id="node3" href="$structClient.html#ae7b9b46264c6dc01aaf59f01299789d3" title=" " alt="" coords="160,55,311,80"/>
+<area shape="rect" id="node5" href="$classspic_1_1extensions_1_1SocketUDPExtension.html#a973b73ef4adfe6aa11c1fb27f3887dbe" title="See INetworkExtension interface." alt="" coords="140,105,331,145"/>
+<area shape="rect" id="node6" href="$classspic_1_1internal_1_1rendering_1_1RendererImpl.html#ae72fe7dbcc799bb5f0eeaf7928c98204" title="Start up an new window." alt="" coords="157,169,314,209"/>
+<area shape="rect" id="node7" href="$classspic_1_1DataHandler.html#adf049392d11e2c739b5733caf31e5964" title=" " alt="" coords="169,233,302,273"/>
+<area shape="rect" id="node8" href="$classspic_1_1internal_1_1EntityManager.html#a71a36c9fb8d579a1a1ec108e0fccf175" title=" " alt="" coords="141,297,329,337"/>
+<area shape="rect" id="node9" href="$classspic_1_1internal_1_1audio_1_1impl_1_1Sample.html#aea8a48c34d94596f6affbbd28938fb2c" title=" " alt="" coords="152,361,319,401"/>
+<area shape="rect" id="node4" href="$structClient.html#a728a1477ada642c2aac0ab1029e81ddd" title=" " alt="" coords="5,55,92,80"/>
+</map>

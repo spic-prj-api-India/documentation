@@ -1,0 +1,8 @@
+<map id="spic::RigidBody::Velocity" name="spic::RigidBody::Velocity">
+<area shape="rect" id="node1" title="Get rigid body&#39;s velocity." alt="" coords="5,84,172,109"/>
+<area shape="rect" id="node2" href="$classspic_1_1GameEngine.html#ab1b41763515dcaaa64e684bb2c79a0a8" title="Gets extension of type IEngineExtension." alt="" coords="221,5,437,31"/>
+<area shape="rect" id="node3" href="$classspic_1_1GameEngine.html#ab5798545559d7772a548fc6603cdff6d" title=" " alt="" coords="225,55,433,80"/>
+<area shape="rect" id="node5" href="$classspic_1_1extensions_1_1IPhysicsExtension.html#a93f661be9b72b2a2045b3e2ce639a3e0" title="Gets linear velocity of entity with name." alt="" coords="234,105,425,145"/>
+<area shape="rect" id="node6" href="$classspic_1_1GameEngine.html#a40005c404288b784250f1b0acbdfa4bc" title="Checks if extension exists." alt="" coords="220,169,439,195"/>
+<area shape="rect" id="node4" href="$classspic_1_1GameEngine.html#a99f1ce7467074848feaa9689f87cc6f4" title=" " alt="" coords="487,55,699,80"/>
+</map>

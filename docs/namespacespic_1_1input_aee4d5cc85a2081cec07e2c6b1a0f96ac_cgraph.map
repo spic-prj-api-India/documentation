@@ -1,0 +1,5 @@
+<map id="spic::input::GetKeyUp" name="spic::input::GetKeyUp">
+<area shape="rect" id="node1" title="Returns true during the frame the user releases the key identified by keycode." alt="" coords="5,13,156,38"/>
+<area shape="rect" id="node2" href="$namespacespic_1_1internal_1_1input_1_1impl.html#af6b026df33e0e5b1da5e923b297c6e6e" title="Returns true during the frame the user releases the key identified by keycode." alt="" coords="204,5,336,45"/>
+<area shape="rect" id="node3" href="$namespacespic_1_1internal_1_1input_1_1impl.html#a2e80ff31330cfb3421677add05973b01" title=" " alt="" coords="384,5,545,45"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="spic::internal::math::VectorToLocalSpace" name="spic::internal::math::VectorToLocalSpace">
+<area shape="rect" id="node1" title="Transforms a vector to local space." alt="" coords="5,133,155,173"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1math_1_1S2DMatrix.html#aa2f7b409e0453a377a452aaf15dc88c7" title=" " alt="" coords="233,5,367,45"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1math_1_1S2DMatrix.html#ac122229f8fb2e4a76629737325a545f8" title=" " alt="" coords="233,69,367,109"/>
+<area shape="rect" id="node4" href="$classspic_1_1internal_1_1math_1_1S2DMatrix.html#ac8ca85a7bc0c80ded23ae94ffa9b2768" title=" " alt="" coords="233,133,367,173"/>
+<area shape="rect" id="node5" href="$classspic_1_1internal_1_1math_1_1S2DMatrix.html#a0e3fdf4ab232f5bfe904467714788afc" title=" " alt="" coords="233,197,367,237"/>
+<area shape="rect" id="node6" href="$classspic_1_1internal_1_1math_1_1S2DMatrix.html#a3c29e4b0ff67660837cfa0c1a8f79235" title="Applies a transformation matrix to a point." alt="" coords="203,261,397,301"/>
+</map>

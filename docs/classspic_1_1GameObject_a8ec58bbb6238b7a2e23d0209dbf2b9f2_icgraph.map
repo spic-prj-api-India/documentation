@@ -1,0 +1,6 @@
+<map id="spic::GameObject::GetComponents" name="spic::GameObject::GetComponents">
+<area shape="rect" id="node1" title="Get all components of the specified type. Must be a valid subclass of Component." alt="" coords="283,77,512,102"/>
+<area shape="rect" id="node2" href="$classspic_1_1GameObject.html#a388588ced4a1a9a8f46e20e4ebdc046b" title="Get all components op the specified type from the parent game object. Must be a valid subclass of Com..." alt="" coords="5,5,235,45"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1systems_1_1InputSystem.html#ad356610a086a17ccd654adae08c064bf" title="Initiliazes system." alt="" coords="43,69,197,109"/>
+<area shape="rect" id="node4" href="$classspic_1_1internal_1_1systems_1_1InputSystem.html#a650977f1776132a3117c7ec0919489d5" title="Calls Listen method in InputManager." alt="" coords="43,133,197,173"/>
+</map>

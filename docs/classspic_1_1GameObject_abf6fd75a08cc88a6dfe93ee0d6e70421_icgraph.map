@@ -1,0 +1,9 @@
+<map id="spic::GameObject::GetChildren" name="spic::GameObject::GetChildren">
+<area shape="rect" id="node1" title="Gets all the children of this object." alt="" coords="283,173,485,199"/>
+<area shape="rect" id="node2" href="$classspic_1_1GameObject.html#af899a21726583330780d511955e67e6c" title="Activates/Deactivates the GameObject, depending on the given true or false value. If flag is true,..." alt="" coords="34,5,206,31"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1rendering_1_1RendererImpl.html#ad38079aabc697c9ee80464488cbc7c0a" title="Draws all related components of an gameobject." alt="" coords="11,79,229,119"/>
+<area shape="rect" id="node4" href="$classspic_1_1GameObject.html#a17c1a7e9560188b7b06fb475ecbc8ad1" title="Gets first child with given type." alt="" coords="27,144,213,169"/>
+<area shape="rect" id="node5" href="$classspic_1_1GameObject.html#aa86275cdb4c3c038256a6ca55f40ee0b" title="Get the first component of the specified type from contained game objects. Must be a valid subclass o..." alt="" coords="9,194,231,234"/>
+<area shape="rect" id="node6" href="$classspic_1_1GameObject.html#a3d74d203dc750de5d6f61e635e1918d5" title="Get all components of the specified type from contained game objects. Must be a valid subclass of Com..." alt="" coords="5,258,235,298"/>
+<area shape="rect" id="node7" href="$classspic_1_1SocketScript.html#a773188605c0c12ed83504dc723c03745" title="Updates the position of an gameobject with children included." alt="" coords="55,322,185,362"/>
+</map>

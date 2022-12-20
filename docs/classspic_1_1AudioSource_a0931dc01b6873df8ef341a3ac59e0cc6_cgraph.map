@@ -1,0 +1,6 @@
+<map id="spic::AudioSource::ChangeVolume" name="spic::AudioSource::ChangeVolume">
+<area shape="rect" id="node1" title="Call this method to change the playing volumen." alt="" coords="5,49,141,89"/>
+<area shape="rect" id="node2" href="$structspic_1_1internal_1_1audio_1_1AudioFacade.html#a042667489bb8b9df20bb8d35599fd834" title="Change volume of a song with panning." alt="" coords="189,49,391,89"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1audio_1_1impl_1_1AudioManager.html#a4956efc671ad7c3c4745c1c23df647b8" title="Change volume of a song with panning." alt="" coords="459,5,604,60"/>
+<area shape="rect" id="node4" href="$structspic_1_1internal_1_1audio_1_1AudioFacade.html#a689fd9c815151a819f325c11f7587d83" title="Creates an new AudioSystem and puts it on the heap. The current audioImplementation has an bug that i..." alt="" coords="439,85,624,125"/>
+</map>

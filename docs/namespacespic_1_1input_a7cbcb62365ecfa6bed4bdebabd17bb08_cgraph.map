@@ -1,0 +1,4 @@
+<map id="spic::input::Quit" name="spic::input::Quit">
+<area shape="rect" id="node1" title="Has quited? (Read Only)" alt="" coords="5,13,120,38"/>
+<area shape="rect" id="node2" href="$namespacespic_1_1internal_1_1input_1_1impl.html#a92cc49812c08570bc9af5cfcc77df705" title="Has quited? (Read Only)" alt="" coords="168,5,300,45"/>
+</map>

@@ -1,8 +1,6 @@
 var searchData=
 [
-  ['persistable_0',['Persistable',['../classspic_1_1Persistable.html',1,'spic']]],
-  ['physicsextension1_1',['PhysicsExtension1',['../classspic_1_1extensions_1_1PhysicsExtension1.html',1,'spic::extensions']]],
-  ['physicsextensionimpl1_2',['PhysicsExtensionImpl1',['../classspic_1_1extensions_1_1PhysicsExtensionImpl1.html',1,'spic::extensions']]],
-  ['physicssystem_3',['PhysicsSystem',['../classspic_1_1internal_1_1systems_1_1PhysicsSystem.html',1,'spic::internal::systems']]],
-  ['point_4',['Point',['../structspic_1_1Point.html',1,'spic']]]
+  ['networkingreceivesystem_0',['NetworkingReceiveSystem',['../classspic_1_1internal_1_1systems_1_1NetworkingReceiveSystem.html',1,'spic::internal::systems']]],
+  ['networkingsendsystem_1',['NetworkingSendSystem',['../classspic_1_1internal_1_1systems_1_1NetworkingSendSystem.html',1,'spic::internal::systems']]],
+  ['networkpacket_2',['NetworkPacket',['../structspic_1_1NetworkPacket.html',1,'spic']]]
 ];

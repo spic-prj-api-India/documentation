@@ -1,0 +1,4 @@
+<map id="spic::input::AnyKey" name="spic::input::AnyKey">
+<area shape="rect" id="node1" title="Is any key or mouse button currently held down? (Read Only)" alt="" coords="5,13,141,38"/>
+<area shape="rect" id="node2" href="$namespacespic_1_1internal_1_1input_1_1impl.html#a89bc47b0d259fe2007b33f665907d07b" title="Is any key or mouse button currently held down? (Read Only)" alt="" coords="189,5,321,45"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="spic::GameEngine::RegisterScene" name="spic::GameEngine::RegisterScene">
+<area shape="rect" id="node1" title=" " alt="" coords="5,37,191,77"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1EntityManager.html#a29cfad81ba4f0123ed80b95ebd6cf2b5" title=" " alt="" coords="239,5,427,45"/>
+<area shape="rect" id="node6" href="$classspic_1_1internal_1_1EntityManager.html#a8b2700b9bbc328d77e1d02b88af24776" title=" " alt="" coords="239,69,427,109"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1EntityManager.html#a7555637657d090171be6ceee8451de0a" title="Calls the init method." alt="" coords="475,5,663,45"/>
+<area shape="rect" id="node4" href="$classspic_1_1internal_1_1EntityManager.html#abddae91d3605e8fcdc55640ecb5d463d" title=" " alt="" coords="711,5,899,45"/>
+<area shape="rect" id="node5" href="$structspic_1_1internal_1_1audio_1_1AudioFacade.html#a689fd9c815151a819f325c11f7587d83" title="Creates an new AudioSystem and puts it on the heap. The current audioImplementation has an bug that i..." alt="" coords="947,5,1132,45"/>
+</map>

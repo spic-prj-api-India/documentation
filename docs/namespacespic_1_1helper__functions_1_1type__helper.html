@@ -95,7 +95,7 @@ $(document).ready(function(){initNavTree('namespacespic_1_1helper__functions_1_1
 </div><!--header-->
 <div class="contents">
 
-<p>Contains hulpfull type functions.  
+<p>Contains helpfull type functions.  
 <a href="namespacespic_1_1helper__functions_1_1type__helper.html#details">More...</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
@@ -116,13 +116,17 @@ Functions</h2></td></tr>
 <tr class="memitem:a7945bd97da3341365d000ebd15552395"><td class="memTemplItemLeft" align="right" valign="top">std::shared_ptr&lt; T &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespacespic_1_1helper__functions_1_1type__helper.html#a7945bd97da3341365d000ebd15552395">CastSharedPtrToType</a> (std::shared_ptr&lt; P &gt; pointer)</td></tr>
 <tr class="memdesc:a7945bd97da3341365d000ebd15552395"><td class="mdescLeft">&#160;</td><td class="mdescRight">Try's to cast a shared_ptr pointer to another pointer.  <a href="namespacespic_1_1helper__functions_1_1type__helper.html#a7945bd97da3341365d000ebd15552395">More...</a><br /></td></tr>
 <tr class="separator:a7945bd97da3341365d000ebd15552395"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa54389a19dde34578d87f5f06a1b94ce"><td class="memTemplParams" colspan="2">template&lt;typename T , typename P &gt; </td></tr>
+<tr class="memitem:aa54389a19dde34578d87f5f06a1b94ce"><td class="memTemplItemLeft" align="right" valign="top">std::weak_ptr&lt; T &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespacespic_1_1helper__functions_1_1type__helper.html#aa54389a19dde34578d87f5f06a1b94ce">CastSharedPtrToWeakType</a> (std::shared_ptr&lt; P &gt; pointer)</td></tr>
+<tr class="memdesc:aa54389a19dde34578d87f5f06a1b94ce"><td class="mdescLeft">&#160;</td><td class="mdescRight">Try's to cast a pointer to weak pointer.  <a href="namespacespic_1_1helper__functions_1_1type__helper.html#aa54389a19dde34578d87f5f06a1b94ce">More...</a><br /></td></tr>
+<tr class="separator:aa54389a19dde34578d87f5f06a1b94ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5937bfea1dd6cb5d72c5c270d0ab8cc1"><td class="memTemplParams" colspan="2">template&lt;typename T , typename P &gt; </td></tr>
 <tr class="memitem:a5937bfea1dd6cb5d72c5c270d0ab8cc1"><td class="memTemplItemLeft" align="right" valign="top">T *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespacespic_1_1helper__functions_1_1type__helper.html#a5937bfea1dd6cb5d72c5c270d0ab8cc1">CastPtrToType</a> (P *pointer)</td></tr>
-<tr class="memdesc:a5937bfea1dd6cb5d72c5c270d0ab8cc1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Try's to cast a pointer to another pointer.  <a href="namespacespic_1_1helper__functions_1_1type__helper.html#a5937bfea1dd6cb5d72c5c270d0ab8cc1">More...</a><br /></td></tr>
+<tr class="memdesc:a5937bfea1dd6cb5d72c5c270d0ab8cc1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Casts ptr to certain type.  <a href="namespacespic_1_1helper__functions_1_1type__helper.html#a5937bfea1dd6cb5d72c5c270d0ab8cc1">More...</a><br /></td></tr>
 <tr class="separator:a5937bfea1dd6cb5d72c5c270d0ab8cc1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >Contains hulpfull type functions. </p>
+<div class="textblock"><p >Contains helpfull type functions. </p>
 </div><h2 class="groupheader">Function Documentation</h2>
 <a id="a5937bfea1dd6cb5d72c5c270d0ab8cc1" name="a5937bfea1dd6cb5d72c5c270d0ab8cc1"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a5937bfea1dd6cb5d72c5c270d0ab8cc1">&#9670;&#160;</a></span>CastPtrToType()</h2>
@@ -142,7 +146,7 @@ template&lt;typename T , typename P &gt; </div>
       </table>
 </div><div class="memdoc">
 
-<p>Try's to cast a pointer to another pointer. </p>
+<p>Casts ptr to certain type. </p>
 <dl class="tparams"><dt>Template Parameters</dt><dd>
   <table class="tparams">
     <tr><td class="paramname">T</td><td>A Base class </td></tr>
@@ -157,6 +161,8 @@ template&lt;typename T , typename P &gt; </div>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>A pointer of type T or a nullptr </dd></dl>
+<dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
+</dd></dl>
 
 </div>
 </div>
@@ -193,6 +199,44 @@ template&lt;typename T , typename P &gt; </div>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>A shared_ptr of type T or a nullptr </dd></dl>
+
+</div>
+</div>
+<a id="aa54389a19dde34578d87f5f06a1b94ce" name="aa54389a19dde34578d87f5f06a1b94ce"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa54389a19dde34578d87f5f06a1b94ce">&#9670;&#160;</a></span>CastSharedPtrToWeakType()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T , typename P &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">std::weak_ptr&lt; T &gt; spic::helper_functions::type_helper::CastSharedPtrToWeakType </td>
+          <td>(</td>
+          <td class="paramtype">std::shared_ptr&lt; P &gt;&#160;</td>
+          <td class="paramname"><em>pointer</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Try's to cast a pointer to weak pointer. </p>
+<dl class="tparams"><dt>Template Parameters</dt><dd>
+  <table class="tparams">
+    <tr><td class="paramname">T</td><td>A Base class </td></tr>
+    <tr><td class="paramname">P</td><td>A derived or base class </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">pointer</td><td>An pointer </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>A pointer of type T or a nullptr </dd></dl>
+<dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
+</dd></dl>
 
 </div>
 </div>

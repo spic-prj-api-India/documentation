@@ -1,0 +1,4 @@
+<map id="spic::GameObject::AddComponent" name="spic::GameObject::AddComponent">
+<area shape="rect" id="node1" title="Add a Component of the specified type. Must be a valid subclass of Component. The GameObject assumes ..." alt="" coords="192,5,416,31"/>
+<area shape="rect" id="node2" href="$classspic_1_1Button.html#a6ee2ed1e6af202a87d13256f0842e07c" title="The button&#39;s constructor." alt="" coords="5,5,144,31"/>
+</map>

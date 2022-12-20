@@ -1,0 +1,10 @@
+<map id="spic::AudioSource::AudioClip" name="spic::AudioSource::AudioClip">
+<area shape="rect" id="node1" title="Getter." alt="" coords="664,91,800,131"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1audio_1_1impl_1_1AudioManager.html#a63b869b355214223e2448a1a7c7ec861" title="Adds a Sample to the sample list." alt="" coords="471,5,616,60"/>
+<area shape="rect" id="node4" href="$classspic_1_1internal_1_1audio_1_1impl_1_1AudioManager.html#ad9945da4c5d9a5b1d83e15b774e13310" title="If the sample does not exists it adds it to the Samples list." alt="" coords="471,84,616,139"/>
+<area shape="rect" id="node7" href="$classspic_1_1internal_1_1audio_1_1impl_1_1AudioManager.html#a0b8c83a4e5640926a4df091ba74e0de7" title="Removes a Sample from the sample list." alt="" coords="471,163,616,217"/>
+<area shape="rect" id="node3" href="$structspic_1_1internal_1_1audio_1_1AudioFacade.html#a158bf8cbc4992a91530e226b7cdd9371" title="Adds a Sample to the sample list." alt="" coords="229,13,410,53"/>
+<area shape="rect" id="node5" href="$structspic_1_1internal_1_1audio_1_1AudioFacade.html#aacefa67f253e489174e509c5275098ae" title="If the sample does not exists it adds it to the Samples list." alt="" coords="227,91,411,131"/>
+<area shape="rect" id="node6" href="$classspic_1_1AudioSource.html#afc2ea09b57477c34083d937f50e83166" title="Call this method to start playing audio." alt="" coords="5,99,168,124"/>
+<area shape="rect" id="node8" href="$structspic_1_1internal_1_1audio_1_1AudioFacade.html#af250402f2760f9f256efd0854d6576a6" title="Removes a Sample from the sample list." alt="" coords="216,170,423,210"/>
+</map>

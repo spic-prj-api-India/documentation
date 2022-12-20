@@ -1,0 +1,6 @@
+<map id="spic::internal::time::InternalTime::clockToMilliseconds" name="spic::internal::time::InternalTime::clockToMilliseconds">
+<area shape="rect" id="node1" title="Converts clock_t to milliseconds." alt="" coords="492,37,719,77"/>
+<area shape="rect" id="node2" href="$structspic_1_1internal_1_1time_1_1InternalTime.html#a239ae0cbc2a3655650166910f155bb2a" title="Sets the endTime timer." alt="" coords="249,5,420,45"/>
+<area shape="rect" id="node3" href="$structspic_1_1internal_1_1time_1_1InternalTime.html#a632d577286f69db99bee7505db933d18" title="Getter." alt="" coords="225,69,444,109"/>
+<area shape="rect" id="node4" href="$classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#acc3df5368d897b12cdd5fe36c2838863" title="Add and updates physic bodies in world and entities." alt="" coords="5,69,177,109"/>
+</map>

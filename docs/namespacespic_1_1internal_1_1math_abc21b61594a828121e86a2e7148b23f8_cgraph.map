@@ -1,0 +1,5 @@
+<map id="spic::internal::math::RotateAroundOrigin" name="spic::internal::math::RotateAroundOrigin">
+<area shape="rect" id="node1" title="Rotates a vector ang rads around the origin." alt="" coords="5,37,148,77"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1math_1_1S2DMatrix.html#a662ead55847b3d5879d974ca4aae7953" title="Creates a rotation matrix." alt="" coords="225,5,362,45"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1math_1_1S2DMatrix.html#a3c29e4b0ff67660837cfa0c1a8f79235" title="Applies a transformation matrix to a point." alt="" coords="196,69,391,109"/>
+</map>

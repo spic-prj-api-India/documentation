@@ -1,0 +1,9 @@
+<map id="spic::AudioSource::Play" name="spic::AudioSource::Play">
+<area shape="rect" id="node1" title="Call this method to start playing audio." alt="" coords="5,49,168,74"/>
+<area shape="rect" id="node2" href="$structspic_1_1internal_1_1audio_1_1AudioFacade.html#aacefa67f253e489174e509c5275098ae" title="If the sample does not exists it adds it to the Samples list." alt="" coords="216,41,400,81"/>
+<area shape="rect" id="node3" href="$structspic_1_1internal_1_1audio_1_1AudioFacade.html#a689fd9c815151a819f325c11f7587d83" title="Creates an new AudioSystem and puts it on the heap. The current audioImplementation has an bug that i..." alt="" coords="448,5,633,45"/>
+<area shape="rect" id="node4" href="$classspic_1_1internal_1_1audio_1_1impl_1_1AudioManager.html#ad9945da4c5d9a5b1d83e15b774e13310" title="If the sample does not exists it adds it to the Samples list." alt="" coords="468,70,613,125"/>
+<area shape="rect" id="node5" href="$classspic_1_1AudioSource.html#abbab26cee0e4b9e29bd38fb61718f098" title="Getter." alt="" coords="695,20,831,60"/>
+<area shape="rect" id="node6" href="$classspic_1_1AudioSource.html#a84065c808e939d660697c5bcbec357e2" title="Getter." alt="" coords="681,85,845,110"/>
+<area shape="rect" id="node7" href="$classspic_1_1AudioSource.html#a8a549123d8efef1a2d8a33a86061809e" title="Getter." alt="" coords="695,135,831,175"/>
+</map>

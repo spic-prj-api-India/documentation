@@ -1,0 +1,8 @@
+<map id="spic::DataHandler::LoadScene" name="spic::DataHandler::LoadScene">
+<area shape="rect" id="node1" title="Gets the latest saved scene, loads xml data, updates and creates entities with the xml data." alt="" coords="5,37,139,77"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1EntityManager.html#a500cd8e026ff7a276dec49bfcfc157d7" title=" " alt="" coords="187,5,375,45"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1EntityManager.html#a29cfad81ba4f0123ed80b95ebd6cf2b5" title=" " alt="" coords="187,69,375,109"/>
+<area shape="rect" id="node4" href="$classspic_1_1internal_1_1EntityManager.html#a7555637657d090171be6ceee8451de0a" title="Calls the init method." alt="" coords="423,69,611,109"/>
+<area shape="rect" id="node5" href="$classspic_1_1internal_1_1EntityManager.html#abddae91d3605e8fcdc55640ecb5d463d" title=" " alt="" coords="659,69,847,109"/>
+<area shape="rect" id="node6" href="$structspic_1_1internal_1_1audio_1_1AudioFacade.html#a689fd9c815151a819f325c11f7587d83" title="Creates an new AudioSystem and puts it on the heap. The current audioImplementation has an bug that i..." alt="" coords="895,69,1080,109"/>
+</map>

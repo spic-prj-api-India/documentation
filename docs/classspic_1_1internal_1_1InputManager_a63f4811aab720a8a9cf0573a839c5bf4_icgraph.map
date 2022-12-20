@@ -1,0 +1,4 @@
+<map id="spic::internal::InputManager::Reset" name="spic::internal::InputManager::Reset">
+<area shape="rect" id="node1" title="Removes all listeners." alt="" coords="243,5,425,45"/>
+<area shape="rect" id="node2" href="$namespacespic_1_1input.html#ae15fcf1c7a5fa0233fa6dd9873d478eb" title="Unsubscribes all key and mouse events." alt="" coords="5,5,195,45"/>
+</map>

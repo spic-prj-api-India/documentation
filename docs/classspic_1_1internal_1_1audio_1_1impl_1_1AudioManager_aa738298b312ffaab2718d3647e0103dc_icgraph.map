@@ -1,0 +1,5 @@
+<map id="spic::internal::audio::impl::AudioManager::Reset" name="spic::internal::audio::impl::AudioManager::Reset">
+<area shape="rect" id="node1" title="Clears the vector list samples and chunks." alt="" coords="437,5,583,60"/>
+<area shape="rect" id="node2" href="$structspic_1_1internal_1_1audio_1_1AudioFacade.html#aff903990ec2ab650db8d60769db05f9d" title="Clears all buffer audio related stuff when a new scene is loaded." alt="" coords="241,13,389,53"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1EntityManager.html#a6860c5a3735ede0322101cc6c23eacbb" title=" " alt="" coords="5,13,193,53"/>
+</map>

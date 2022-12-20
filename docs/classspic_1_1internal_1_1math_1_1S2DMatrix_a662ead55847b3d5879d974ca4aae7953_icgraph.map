@@ -1,0 +1,6 @@
+<map id="spic::internal::math::S2DMatrix::Rotate" name="spic::internal::math::S2DMatrix::Rotate">
+<area shape="rect" id="node1" title="Creates a rotation matrix." alt="" coords="204,69,341,109"/>
+<area shape="rect" id="node2" href="$namespacespic_1_1internal_1_1math.html#a0e90991056cc11cfe95c9c635572b559" title="Transforms a point from the agent&#39;s local space into world space." alt="" coords="9,5,153,45"/>
+<area shape="rect" id="node3" href="$namespacespic_1_1internal_1_1math.html#abc21b61594a828121e86a2e7148b23f8" title="Rotates a vector ang rads around the origin." alt="" coords="9,69,152,109"/>
+<area shape="rect" id="node4" href="$namespacespic_1_1internal_1_1math.html#ae9e7832c7e05d70e0caf20e187cfe721" title="Transforms a vector from the agent&#39;s local space into world space." alt="" coords="5,133,156,173"/>
+</map>

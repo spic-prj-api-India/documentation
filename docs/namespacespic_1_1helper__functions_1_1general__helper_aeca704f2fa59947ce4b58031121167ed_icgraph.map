@@ -1,0 +1,4 @@
+<map id="spic::helper_functions::general_helper::SpriteSorting" name="spic::helper_functions::general_helper::SpriteSorting">
+<area shape="rect" id="node1" title="Sorts sprite based on order layer first and sorting layer second." alt="" coords="224,5,421,45"/>
+<area shape="rect" id="node2" href="$classspic_1_1Animator.html#aa3562e72dcb17cac2633f97fbf5156f4" title="Adds a sprite to the sprite list and resort the list The last orderlayer is amount of sprite frames s..." alt="" coords="5,13,176,38"/>
+</map>

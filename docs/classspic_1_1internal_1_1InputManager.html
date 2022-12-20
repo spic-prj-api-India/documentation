@@ -99,16 +99,19 @@ $(document).ready(function(){initNavTree('classspic_1_1internal_1_1InputManager.
 </div><!--header-->
 <div class="contents">
 
+<p>Manages all events related to keys and mouses.  
+ <a href="classspic_1_1internal_1_1InputManager.html#details">More...</a></p>
+
 <p><code>#include &lt;<a class="el" href="InputManager_8hpp_source.html">InputManager.hpp</a>&gt;</code></p>
 <div class="dynheader">
 Collaboration diagram for spic::internal::InputManager:</div>
 <div class="dyncontent">
 <div class="center"><img src="classspic_1_1internal_1_1InputManager__coll__graph.png" border="0" usemap="#aspic_1_1internal_1_1InputManager_coll__map" alt="Collaboration graph"/></div>
 <map name="aspic_1_1internal_1_1InputManager_coll__map" id="aspic_1_1internal_1_1InputManager_coll__map">
-<area shape="rect" title=" " alt="" coords="5,93,188,119"/>
-<area shape="rect" href="structspic_1_1Point.html" title="Struct representing both a 2D point and a 2D vector." alt="" coords="55,5,139,31"/>
+<area shape="rect" title="Manages all events related to keys and mouses." alt="" coords="5,108,192,148"/>
+<area shape="rect" href="structspic_1_1Point.html" title="Struct representing both a 2D point and a 2D vector." alt="" coords="55,5,143,45"/>
 </map>
-<center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
+</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
@@ -173,7 +176,9 @@ Protected Attributes</h2></td></tr>
 <tr class="memitem:aefe124f38b5ceacfb067a2d22377585c"><td class="memItemLeft" align="right" valign="top">std::map&lt; <a class="el" href="namespacespic_1_1input.html#a9b2cee935868ca4d5db6851877253248">spic::input::MouseButton</a>, std::vector&lt; std::shared_ptr&lt; <a class="el" href="classspic_1_1IMouseListener.html">spic::IMouseListener</a> &gt; &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1internal_1_1InputManager.html#aefe124f38b5ceacfb067a2d22377585c">mouseListeners</a></td></tr>
 <tr class="separator:aefe124f38b5ceacfb067a2d22377585c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p >Manages all events related to keys and mouses. </p>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a4babbf178d73139836a1f1d89eaabd29" name="a4babbf178d73139836a1f1d89eaabd29"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a4babbf178d73139836a1f1d89eaabd29">&#9670;&#160;</a></span>InputManager() <span class="overload">[1/3]</span></h2>
 
@@ -318,8 +323,6 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Listen to key and mouse listeners. </p>
-<dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
-</dd></dl>
 
 </div>
 </div>
@@ -391,8 +394,6 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Removes all listeners. </p>
-<dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
-</dd></dl>
 
 </div>
 </div>
@@ -423,8 +424,6 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Subscribes a key listener for a specific key event. </p>
-<dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
-</dd></dl>
 
 </div>
 </div>
@@ -455,8 +454,6 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Subscribes a mouse listener for a specific mouse event. </p>
-<dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
-</dd></dl>
 
 </div>
 </div>
@@ -477,8 +474,6 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Unsubscribes all listeners for a specific key event. </p>
-<dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
-</dd></dl>
 
 </div>
 </div>
@@ -509,8 +504,6 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Unsubscribes a key listener for a specific key event. </p>
-<dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
-</dd></dl>
 
 </div>
 </div>
@@ -531,8 +524,6 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Unsubscribes all listeners for a specific mouse event. </p>
-<dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
-</dd></dl>
 
 </div>
 </div>
@@ -563,8 +554,6 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Unsubscribes a mouse listener for a specific mouse event. </p>
-<dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
-</dd></dl>
 
 </div>
 </div>
@@ -584,8 +573,6 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Unsubscribes all listeners. </p>
-<dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
-</dd></dl>
 
 </div>
 </div>

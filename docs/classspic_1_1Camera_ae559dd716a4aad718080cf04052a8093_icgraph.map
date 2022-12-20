@@ -1,0 +1,4 @@
+<map id="spic::Camera::BackgroundColor" name="spic::Camera::BackgroundColor">
+<area shape="rect" id="node1" title="Sets background color of Camera." alt="" coords="255,5,431,45"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1rendering_1_1RendererImpl.html#acbac2e60f0cf46d0aa19dbd7de6901a0" title="Updates internal parameters width parameters in camera." alt="" coords="5,5,207,45"/>
+</map>

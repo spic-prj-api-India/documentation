@@ -1,0 +1,6 @@
+<map id="spic::SocketScript::UpdatePosition" name="spic::SocketScript::UpdatePosition">
+<area shape="rect" id="node1" title="Updates the position of an gameobject with children included." alt="" coords="5,47,135,87"/>
+<area shape="rect" id="node2" href="$structspic_1_1Transform.html#af60ef6c490be7f0c886a628b5226eebf" title="Desserialeze an string into a current transform object." alt="" coords="191,5,377,31"/>
+<area shape="rect" id="node3" href="$classspic_1_1GameObject.html#abf6fd75a08cc88a6dfe93ee0d6e70421" title="Gets all the children of this object." alt="" coords="183,55,385,80"/>
+<area shape="rect" id="node4" href="$classspic_1_1GameObject.html#a1585c2489e79a1628aa0920a1e2b8c41" title="Returns transform of GameObject." alt="" coords="187,104,381,129"/>
+</map>

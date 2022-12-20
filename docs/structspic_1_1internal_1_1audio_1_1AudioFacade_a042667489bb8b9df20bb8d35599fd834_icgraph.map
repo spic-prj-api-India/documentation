@@ -1,0 +1,4 @@
+<map id="spic::internal::audio::AudioFacade::ChangeVolume" name="spic::internal::audio::AudioFacade::ChangeVolume">
+<area shape="rect" id="node1" title="Change volume of a song with panning." alt="" coords="189,5,391,45"/>
+<area shape="rect" id="node2" href="$classspic_1_1AudioSource.html#a0931dc01b6873df8ef341a3ac59e0cc6" title="Call this method to change the playing volumen." alt="" coords="5,5,141,45"/>
+</map>

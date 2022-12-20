@@ -1,0 +1,9 @@
+<map id="spic::GameEngine::GetExtensions" name="spic::GameEngine::GetExtensions">
+<area shape="rect" id="node1" title="Gets extensions of type IEngineExtension." alt="" coords="448,149,671,174"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1systems_1_1PhysicsSystem.html#a9fc5c34e33bf108fe51de1efcfcf6aa2" title="Resets physics extensions and registers new collision listener." alt="" coords="224,5,388,45"/>
+<area shape="rect" id="node4" href="$classspic_1_1internal_1_1EntityManager.html#a6860c5a3735ede0322101cc6c23eacbb" title=" " alt="" coords="212,69,400,109"/>
+<area shape="rect" id="node5" href="$classspic_1_1internal_1_1systems_1_1NetworkingReceiveSystem.html#a84095de17d7dd3a60c933dff8aca9fb6" title="Initiliazes system." alt="" coords="213,134,399,189"/>
+<area shape="rect" id="node6" href="$classspic_1_1internal_1_1systems_1_1NetworkingSendSystem.html#af443933b82135e35e441c7876a117073" title="Initiliazes system." alt="" coords="221,213,391,267"/>
+<area shape="rect" id="node7" href="$classspic_1_1internal_1_1systems_1_1PhysicsSystem.html#a707cc6d354ffe6ca8fdfb203de830d39" title="Calls update method of physics extensions." alt="" coords="221,292,391,332"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1systems_1_1PhysicsSystem.html#a66e6c822d51244b2c633e5c37b2d738c" title="Initiliazes system." alt="" coords="5,5,164,45"/>
+</map>

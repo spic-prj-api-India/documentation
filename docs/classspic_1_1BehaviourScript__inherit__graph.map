@@ -1,4 +1,4 @@
 <map id="spic::BehaviourScript" name="spic::BehaviourScript">
-<area shape="rect" id="node1" title="Contains the beheviours of an object." alt="" coords="5,79,152,104"/>
-<area shape="rect" id="node2" href="$classspic_1_1Component.html" title="Base class for all components." alt="" coords="19,5,139,31"/>
+<area shape="rect" id="node1" title="Contains the beheviours of an object." alt="" coords="5,93,156,133"/>
+<area shape="rect" id="node2" href="$classspic_1_1Component.html" title="Base class for all components." alt="" coords="19,5,143,45"/>
 </map>

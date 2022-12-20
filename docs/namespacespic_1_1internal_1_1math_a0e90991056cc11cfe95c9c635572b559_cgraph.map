@@ -1,0 +1,6 @@
+<map id="spic::internal::math::PointToWorldSpace" name="spic::internal::math::PointToWorldSpace">
+<area shape="rect" id="node1" title="Transforms a point from the agent&#39;s local space into world space." alt="" coords="5,69,149,109"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1math_1_1S2DMatrix.html#a662ead55847b3d5879d974ca4aae7953" title="Creates a rotation matrix." alt="" coords="226,5,363,45"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1math_1_1S2DMatrix.html#a3c29e4b0ff67660837cfa0c1a8f79235" title="Applies a transformation matrix to a point." alt="" coords="197,69,392,109"/>
+<area shape="rect" id="node4" href="$classspic_1_1internal_1_1math_1_1S2DMatrix.html#aab43040a17e70f8454af3d0dcf5b27fb" title="Creates a transformation matrix." alt="" coords="218,133,371,173"/>
+</map>

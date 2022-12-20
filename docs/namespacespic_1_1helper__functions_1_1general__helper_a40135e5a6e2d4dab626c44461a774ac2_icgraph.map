@@ -1,0 +1,6 @@
+<map id="spic::helper_functions::general_helper::PrecisionRoundingoInt" name="spic::helper_functions::general_helper::PrecisionRoundingoInt">
+<area shape="rect" id="node1" title="Precision rounds an floating value to an int." alt="" coords="232,69,484,109"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a7f33c2bc9317ddd567e256a43a4ecff8" title="Cleans the render class before drawing it." alt="" coords="16,5,173,45"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a526e653597b7811bb856ce25ea98dc2d" title="Draws an sprite." alt="" coords="5,69,184,109"/>
+<area shape="rect" id="node4" href="$classspic_1_1internal_1_1rendering_1_1RendererImpl.html#af4cee530cd6ac2e14dd2e5f18a7e597f" title="Renders everything in internal buffer to screen." alt="" coords="16,133,173,173"/>
+</map>

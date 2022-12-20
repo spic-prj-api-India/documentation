@@ -1,0 +1,4 @@
+<map id="spic::debug::Log" name="spic::debug::Log">
+<area shape="rect" id="node1" title="Logs a message to the Console." alt="" coords="220,13,339,38"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1MapParser.html#afb60848389a29d0a0365e0daf9c41c5a" title="Parse tmx file to Tilemap." alt="" coords="5,5,172,45"/>
+</map>

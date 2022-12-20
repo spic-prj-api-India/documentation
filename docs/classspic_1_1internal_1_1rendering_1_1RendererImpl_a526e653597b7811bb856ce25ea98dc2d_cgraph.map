@@ -1,0 +1,9 @@
+<map id="spic::internal::rendering::RendererImpl::DrawSprite" name="spic::internal::rendering::RendererImpl::DrawSprite">
+<area shape="rect" id="node1" title="Draws an sprite." alt="" coords="5,134,184,174"/>
+<area shape="rect" id="node2" href="$classspic_1_1Sprite.html#ac20ecfbfa85c56c037d364954a94276d" title="Gets texture path of Sprite." alt="" coords="289,5,427,31"/>
+<area shape="rect" id="node3" href="$classspic_1_1Sprite.html#a7810a385afe586b066b2a2c007237523" title="Gets height of Sprite in texture." alt="" coords="291,55,425,80"/>
+<area shape="rect" id="node4" href="$namespacespic_1_1helper__functions_1_1general__helper.html#a40135e5a6e2d4dab626c44461a774ac2" title="Precision rounds an floating value to an int." alt="" coords="232,105,484,145"/>
+<area shape="rect" id="node5" href="$classspic_1_1Sprite.html#aa33afeb84943d63332561bc15d692827" title="Gets width of Sprite in texture." alt="" coords="293,169,423,195"/>
+<area shape="rect" id="node6" href="$classspic_1_1Sprite.html#ab99f28947ad31d71db3141ca4d481549" title="Gets x of Sprite in texture." alt="" coords="305,219,411,244"/>
+<area shape="rect" id="node7" href="$classspic_1_1Sprite.html#ab09577406e9fb48ac4c220957dafffa8" title="Gets y of Sprite in texture." alt="" coords="305,268,411,293"/>
+</map>

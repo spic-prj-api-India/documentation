@@ -13,12 +13,13 @@ var searchData=
   ['_7eimouselistener_10',['~IMouseListener',['../classspic_1_1IMouseListener.html#aef8bc0ea7ea80eea6a5faae9b2a99923',1,'spic::IMouseListener']]],
   ['_7einputmanager_11',['~InputManager',['../classspic_1_1internal_1_1InputManager.html#a1be28b938732d4422dc7f43084353830',1,'spic::internal::InputManager']]],
   ['_7eiphysicsextension_12',['~IPhysicsExtension',['../classspic_1_1extensions_1_1IPhysicsExtension.html#af7e4cfe6a6d50e7e6c0817fde2bd7d12',1,'spic::extensions::IPhysicsExtension']]],
-  ['_7epersistable_13',['~Persistable',['../classspic_1_1Persistable.html#ade448fd3d2e5b08dc494521c70415456',1,'spic::Persistable']]],
-  ['_7ephysicsextension1_14',['~PhysicsExtension1',['../classspic_1_1extensions_1_1PhysicsExtension1.html#a60f904d51f0e8f3cf472caab740b513a',1,'spic::extensions::PhysicsExtension1']]],
-  ['_7ephysicsextensionimpl1_15',['~PhysicsExtensionImpl1',['../classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#a8f42fc13209e5cc27854aaf1522a8073',1,'spic::extensions::PhysicsExtensionImpl1']]],
-  ['_7erendererimpl_16',['~RendererImpl',['../classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a49fe2016de4ec3409d2362249c652820',1,'spic::internal::rendering::RendererImpl']]],
-  ['_7erenderingsystem_17',['~RenderingSystem',['../classspic_1_1internal_1_1systems_1_1RenderingSystem.html#a1cef5d05da988893e6a3f8ca55fe7084',1,'spic::internal::systems::RenderingSystem']]],
-  ['_7esample_18',['~Sample',['../classspic_1_1internal_1_1audio_1_1impl_1_1Sample.html#aea8a48c34d94596f6affbbd28938fb2c',1,'spic::internal::audio::impl::Sample']]],
-  ['_7ethreadwrapper_19',['~ThreadWrapper',['../classspic_1_1ThreadWrapper.html#a4cbc69374cabd02d489dd0e40786a574',1,'spic::ThreadWrapper']]],
-  ['_7etilelayer_20',['~TileLayer',['../classspic_1_1tiled_1_1TileLayer.html#a120bf05c38778267bb9e9f7c4e18668a',1,'spic::tiled::TileLayer']]]
+  ['_7eobstacle_13',['~Obstacle',['../classspic_1_1Obstacle.html#aa4e86893211f5f3cc893e589d43f0a68',1,'spic::Obstacle']]],
+  ['_7epersistable_14',['~Persistable',['../classspic_1_1Persistable.html#ade448fd3d2e5b08dc494521c70415456',1,'spic::Persistable']]],
+  ['_7ephysicsextension1_15',['~PhysicsExtension1',['../classspic_1_1extensions_1_1PhysicsExtension1.html#a60f904d51f0e8f3cf472caab740b513a',1,'spic::extensions::PhysicsExtension1']]],
+  ['_7ephysicsextensionimpl1_16',['~PhysicsExtensionImpl1',['../classspic_1_1extensions_1_1PhysicsExtensionImpl1.html#a8f42fc13209e5cc27854aaf1522a8073',1,'spic::extensions::PhysicsExtensionImpl1']]],
+  ['_7erendererimpl_17',['~RendererImpl',['../classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a49fe2016de4ec3409d2362249c652820',1,'spic::internal::rendering::RendererImpl']]],
+  ['_7erenderingsystem_18',['~RenderingSystem',['../classspic_1_1internal_1_1systems_1_1RenderingSystem.html#a1cef5d05da988893e6a3f8ca55fe7084',1,'spic::internal::systems::RenderingSystem']]],
+  ['_7esample_19',['~Sample',['../classspic_1_1internal_1_1audio_1_1impl_1_1Sample.html#aea8a48c34d94596f6affbbd28938fb2c',1,'spic::internal::audio::impl::Sample']]],
+  ['_7ethreadwrapper_20',['~ThreadWrapper',['../classspic_1_1ThreadWrapper.html#a4cbc69374cabd02d489dd0e40786a574',1,'spic::ThreadWrapper']]],
+  ['_7etilelayer_21',['~TileLayer',['../classspic_1_1tiled_1_1TileLayer.html#a120bf05c38778267bb9e9f7c4e18668a',1,'spic::tiled::TileLayer']]]
 ];

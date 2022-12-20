@@ -1,0 +1,5 @@
+<map id="spic::internal::audio::AudioFacade::StopAllSamples" name="spic::internal::audio::AudioFacade::StopAllSamples">
+<area shape="rect" id="node1" title="Stops samples if they are playing." alt="" coords="5,41,212,81"/>
+<area shape="rect" id="node2" href="$structspic_1_1internal_1_1audio_1_1AudioFacade.html#a689fd9c815151a819f325c11f7587d83" title="Creates an new AudioSystem and puts it on the heap. The current audioImplementation has an bug that i..." alt="" coords="260,5,445,45"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1audio_1_1impl_1_1AudioManager.html#a455141ba4ed69cb1e0167fa542b33256" title="Stops samples if they are playing." alt="" coords="280,70,425,125"/>
+</map>

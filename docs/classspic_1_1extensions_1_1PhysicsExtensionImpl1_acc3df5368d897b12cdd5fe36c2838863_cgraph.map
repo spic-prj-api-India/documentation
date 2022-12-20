@@ -1,0 +1,6 @@
+<map id="spic::extensions::PhysicsExtensionImpl1::Update" name="spic::extensions::PhysicsExtensionImpl1::Update">
+<area shape="rect" id="node1" title="Add and updates physic bodies in world and entities." alt="" coords="5,35,177,75"/>
+<area shape="rect" id="node2" href="$structspic_1_1internal_1_1time_1_1InternalTime.html#a632d577286f69db99bee7505db933d18" title="Getter." alt="" coords="225,5,444,45"/>
+<area shape="rect" id="node4" href="$classspic_1_1Time.html#acd696935ed65dbf21bdcb5a78a914822" title="The scale at which time passes." alt="" coords="258,70,411,95"/>
+<area shape="rect" id="node3" href="$structspic_1_1internal_1_1time_1_1InternalTime.html#ad940564d987b3cecba6e92ce39f5b3fe" title="Converts clock_t to milliseconds." alt="" coords="492,5,719,45"/>
+</map>

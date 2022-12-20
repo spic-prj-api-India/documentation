@@ -1,0 +1,4 @@
+<map id="spic::internal::input::impl::Poll" name="spic::internal::input::impl::Poll">
+<area shape="rect" id="node1" title="Polls all input events, needs to be used to update input events." alt="" coords="208,5,340,45"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1systems_1_1InputSystem.html#a650977f1776132a3117c7ec0919489d5" title="Calls Listen method in InputManager." alt="" coords="5,5,160,45"/>
+</map>

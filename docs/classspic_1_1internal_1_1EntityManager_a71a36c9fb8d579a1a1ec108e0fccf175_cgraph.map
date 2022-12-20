@@ -1,0 +1,5 @@
+<map id="spic::internal::EntityManager::~EntityManager" name="spic::internal::EntityManager::~EntityManager">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,193,75"/>
+<area shape="rect" id="node2" href="$structspic_1_1internal_1_1audio_1_1AudioFacade.html#a607ed07f88502d1e8765d64a99ce3969" title="Destroys the current audio system. The current audioImplementation has a bug that if it is placed in ..." alt="" coords="241,5,433,45"/>
+<area shape="rect" id="node3" href="$namespacespic_1_1debug.html#adfde69e384e02f2c7c12c63fb308be89" title="A variant of Debug.Log that logs an error message to the console." alt="" coords="264,70,411,95"/>
+</map>

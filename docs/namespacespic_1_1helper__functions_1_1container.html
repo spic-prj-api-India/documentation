@@ -104,13 +104,18 @@ Functions</h2></td></tr>
 <tr class="memitem:a1b1f698f951d383900eb668320043315"><td class="memTemplItemLeft" align="right" valign="top">std::vector&lt; K &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespacespic_1_1helper__functions_1_1container.html#a1b1f698f951d383900eb668320043315">GetKeys</a> (std::map&lt; K, V &gt; map)</td></tr>
 <tr class="memdesc:a1b1f698f951d383900eb668320043315"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts map to vector with keys.  <a href="namespacespic_1_1helper__functions_1_1container.html#a1b1f698f951d383900eb668320043315">More...</a><br /></td></tr>
 <tr class="separator:a1b1f698f951d383900eb668320043315"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7394d02380bc89b92446cb6ce9b93bf7"><td class="memTemplParams" colspan="2">template&lt;typename K , typename V &gt; </td></tr>
-<tr class="memitem:a7394d02380bc89b92446cb6ce9b93bf7"><td class="memTemplItemLeft" align="right" valign="top">std::vector&lt; V &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespacespic_1_1helper__functions_1_1container.html#a7394d02380bc89b92446cb6ce9b93bf7">Values</a> (std::map&lt; K, V &gt; map)</td></tr>
-<tr class="memdesc:a7394d02380bc89b92446cb6ce9b93bf7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts map to list with values.  <a href="namespacespic_1_1helper__functions_1_1container.html#a7394d02380bc89b92446cb6ce9b93bf7">More...</a><br /></td></tr>
-<tr class="separator:a7394d02380bc89b92446cb6ce9b93bf7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3b2fd0b692cd5d0f113872d1aeea72ee"><td class="memTemplParams" colspan="2">template&lt;typename K , typename V &gt; </td></tr>
+<tr class="memitem:a3b2fd0b692cd5d0f113872d1aeea72ee"><td class="memTemplItemLeft" align="right" valign="top">std::vector&lt; V &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespacespic_1_1helper__functions_1_1container.html#a3b2fd0b692cd5d0f113872d1aeea72ee">GetValues</a> (std::map&lt; K, V &gt; map)</td></tr>
+<tr class="memdesc:a3b2fd0b692cd5d0f113872d1aeea72ee"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts map to list with values.  <a href="namespacespic_1_1helper__functions_1_1container.html#a3b2fd0b692cd5d0f113872d1aeea72ee">More...</a><br /></td></tr>
+<tr class="separator:a3b2fd0b692cd5d0f113872d1aeea72ee"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8e54d3913c8706bde6a525986dab120e"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
 <tr class="memitem:a8e54d3913c8706bde6a525986dab120e"><td class="memTemplItemLeft" align="right" valign="top">std::shared_ptr&lt; T &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespacespic_1_1helper__functions_1_1container.html#a8e54d3913c8706bde6a525986dab120e">Find</a> (const std::vector&lt; std::shared_ptr&lt; T &gt; &gt; &amp;vector, std::function&lt; bool(std::shared_ptr&lt; T &gt;)&gt; findFunction)</td></tr>
+<tr class="memdesc:a8e54d3913c8706bde6a525986dab120e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Finds element in vector with find function.  <a href="namespacespic_1_1helper__functions_1_1container.html#a8e54d3913c8706bde6a525986dab120e">More...</a><br /></td></tr>
 <tr class="separator:a8e54d3913c8706bde6a525986dab120e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8cff3ca8a7ad3035d4b2a0dba518b192"><td class="memTemplParams" colspan="2">template&lt;typename T , typename C &gt; </td></tr>
+<tr class="memitem:a8cff3ca8a7ad3035d4b2a0dba518b192"><td class="memTemplItemLeft" align="right" valign="top">std::shared_ptr&lt; C &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespacespic_1_1helper__functions_1_1container.html#a8cff3ca8a7ad3035d4b2a0dba518b192">FindAndConvert</a> (const std::vector&lt; std::shared_ptr&lt; T &gt; &gt; &amp;vector, std::function&lt; bool(std::shared_ptr&lt; T &gt;)&gt; findFunction)</td></tr>
+<tr class="memdesc:a8cff3ca8a7ad3035d4b2a0dba518b192"><td class="mdescLeft">&#160;</td><td class="mdescRight">Finds element in vector with find function and converts element to given type.  <a href="namespacespic_1_1helper__functions_1_1container.html#a8cff3ca8a7ad3035d4b2a0dba518b192">More...</a><br /></td></tr>
+<tr class="separator:a8cff3ca8a7ad3035d4b2a0dba518b192"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p >Contains methods which can convert an map to an vector. </p>
@@ -142,6 +147,56 @@ template&lt;typename T &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Finds element in vector with find function. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">vector</td><td>Vector to search in </td></tr>
+    <tr><td class="paramname">findFunction</td><td>Lambda function that checks if element is right element </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>shared_ptr or nullptr </dd></dl>
+
+</div>
+</div>
+<a id="a8cff3ca8a7ad3035d4b2a0dba518b192" name="a8cff3ca8a7ad3035d4b2a0dba518b192"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8cff3ca8a7ad3035d4b2a0dba518b192">&#9670;&#160;</a></span>FindAndConvert()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T , typename C &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">std::shared_ptr&lt; C &gt; spic::helper_functions::container::FindAndConvert </td>
+          <td>(</td>
+          <td class="paramtype">const std::vector&lt; std::shared_ptr&lt; T &gt; &gt; &amp;&#160;</td>
+          <td class="paramname"><em>vector</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::function&lt; bool(std::shared_ptr&lt; T &gt;)&gt;&#160;</td>
+          <td class="paramname"><em>findFunction</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Finds element in vector with find function and converts element to given type. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">vector</td><td>Vector to search in </td></tr>
+    <tr><td class="paramname">findFunction</td><td>Lambda function that checks if element is right element </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>shared_ptr or nullptr </dd></dl>
 
 </div>
 </div>
@@ -181,8 +236,8 @@ template&lt;typename K , typename V &gt; </div>
 
 </div>
 </div>
-<a id="a7394d02380bc89b92446cb6ce9b93bf7" name="a7394d02380bc89b92446cb6ce9b93bf7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7394d02380bc89b92446cb6ce9b93bf7">&#9670;&#160;</a></span>Values()</h2>
+<a id="a3b2fd0b692cd5d0f113872d1aeea72ee" name="a3b2fd0b692cd5d0f113872d1aeea72ee"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3b2fd0b692cd5d0f113872d1aeea72ee">&#9670;&#160;</a></span>GetValues()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -190,7 +245,7 @@ template&lt;typename K , typename V &gt; </div>
 template&lt;typename K , typename V &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">std::vector&lt; V &gt; spic::helper_functions::container::Values </td>
+          <td class="memname">std::vector&lt; V &gt; spic::helper_functions::container::GetValues </td>
           <td>(</td>
           <td class="paramtype">std::map&lt; K, V &gt;&#160;</td>
           <td class="paramname"><em>map</em></td><td>)</td>

@@ -1,4 +1,4 @@
 <map id="spic::internal::systems::NetworkingReceiveSystem" name="spic::internal::systems::NetworkingReceiveSystem">
-<area shape="rect" id="node1" title=" " alt="" coords="5,79,192,119"/>
-<area shape="rect" id="node2" href="$classspic_1_1systems_1_1ISystem.html" title="The ISystem interface needs to be included before running the start method in game engine." alt="" coords="18,5,179,31"/>
+<area shape="rect" id="node1" title="A system that retrieves all info from an socket and processes it." alt="" coords="5,93,192,148"/>
+<area shape="rect" id="node2" href="$classspic_1_1systems_1_1ISystem.html" title="The ISystem interface needs to be included before running the start method in game engine." alt="" coords="16,5,181,45"/>
 </map>

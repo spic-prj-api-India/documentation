@@ -1,0 +1,4 @@
+<map id="spic::internal::Rendering::AddDebugRect" name="spic::internal::Rendering::AddDebugRect">
+<area shape="rect" id="node1" title="Add debug rectangle to renderer, rectangle will be drawn at the end of the render in world space." alt="" coords="207,5,369,45"/>
+<area shape="rect" id="node2" href="$namespacespic_1_1debug.html#a00ef4eb237d27314e36a9f47c621c554" title="Draws a colored rectangle with a specified angle in world space." alt="" coords="5,13,159,38"/>
+</map>

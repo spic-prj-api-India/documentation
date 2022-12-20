@@ -1,0 +1,4 @@
+<map id="spic::extensions::IPhysicsExtension::GetLinearVelocity" name="spic::extensions::IPhysicsExtension::GetLinearVelocity">
+<area shape="rect" id="node1" title="Gets linear velocity of entity with name." alt="" coords="220,5,411,45"/>
+<area shape="rect" id="node2" href="$classspic_1_1RigidBody.html#a26d6b306772b442aab5b402f01a46814" title="Get rigid body&#39;s velocity." alt="" coords="5,13,172,38"/>
+</map>

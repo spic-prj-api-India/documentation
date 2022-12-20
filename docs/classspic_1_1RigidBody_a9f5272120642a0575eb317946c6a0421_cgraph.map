@@ -1,0 +1,5 @@
+<map id="spic::RigidBody::RigidBody" name="spic::RigidBody::RigidBody">
+<area shape="rect" id="node1" title="Default constructor." alt="" coords="5,42,185,67"/>
+<area shape="rect" id="node2" href="$classspic_1_1RigidBody.html#ad6692a5d28ba98f707019b0c158da91b" title="Get rigid body&#39;s gravity scale." alt="" coords="233,5,396,45"/>
+<area shape="rect" id="node3" href="$classspic_1_1RigidBody.html#a417b0fcbb162c28961c4782e2e2f7ba6" title="Get rigid body&#39;s mass." alt="" coords="238,70,391,95"/>
+</map>

@@ -1,4 +1,4 @@
 <map id="spic::SocketScript" name="spic::SocketScript">
-<area shape="rect" id="node1" title="A component representing a rigid body." alt="" coords="5,79,135,104"/>
-<area shape="rect" id="node2" href="$classspic_1_1Component.html" title="Base class for all components." alt="" coords="10,5,130,31"/>
+<area shape="rect" id="node1" title="A component representing a rigid body." alt="" coords="5,93,139,133"/>
+<area shape="rect" id="node2" href="$classspic_1_1Component.html" title="Base class for all components." alt="" coords="10,5,134,45"/>
 </map>

@@ -1,0 +1,5 @@
+<map id="spic::internal::rendering::RendererImpl::DrawGameObject" name="spic::internal::rendering::RendererImpl::DrawGameObject">
+<area shape="rect" id="node1" title="Draws all related components of an gameobject." alt="" coords="5,29,223,69"/>
+<area shape="rect" id="node2" href="$classspic_1_1GameObject.html#a5cdc1f8129fab046e58e1eb71ab86b50" title="Returns whether this game object is itself active." alt="" coords="286,11,458,37"/>
+<area shape="rect" id="node3" href="$classspic_1_1GameObject.html#abf6fd75a08cc88a6dfe93ee0d6e70421" title="Gets all the children of this object." alt="" coords="271,61,473,86"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="spic::Obstacle" name="spic::Obstacle">
+<area shape="rect" id="node1" title="Obstacle can be used for obstacle avoidance." alt="" coords="5,5,116,45"/>
+</map>

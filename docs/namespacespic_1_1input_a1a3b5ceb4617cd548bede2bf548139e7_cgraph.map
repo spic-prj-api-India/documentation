@@ -1,0 +1,4 @@
+<map id="spic::input::GetAxis" name="spic::input::GetAxis">
+<area shape="rect" id="node1" title="Returns the value of the virtual axis identified by axisName." alt="" coords="5,13,143,38"/>
+<area shape="rect" id="node2" href="$namespacespic_1_1internal_1_1input_1_1impl.html#aa05de577551378e543a70139bdc9865e" title="Returns the value of the virtual axis identified by axisName." alt="" coords="191,5,323,45"/>
+</map>

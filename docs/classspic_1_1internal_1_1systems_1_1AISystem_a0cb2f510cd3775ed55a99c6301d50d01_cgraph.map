@@ -1,0 +1,4 @@
+<map id="spic::internal::systems::AISystem::Update" name="spic::internal::systems::AISystem::Update">
+<area shape="rect" id="node1" title="Updates force driven entities." alt="" coords="5,5,160,45"/>
+<area shape="rect" id="node2" href="$classspic_1_1Steering.html#ab5282d1bb2e6ebff87827ae2b076d122" title="Sets obstacles." alt="" coords="208,13,397,38"/>
+</map>

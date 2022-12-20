@@ -1,0 +1,4 @@
+<map id="spic::GameObject::GetComponentsInParent" name="spic::GameObject::GetComponentsInParent">
+<area shape="rect" id="node1" title="Get all components op the specified type from the parent game object. Must be a valid subclass of Com..." alt="" coords="5,5,235,45"/>
+<area shape="rect" id="node2" href="$classspic_1_1GameObject.html#a8ec58bbb6238b7a2e23d0209dbf2b9f2" title="Get all components of the specified type. Must be a valid subclass of Component." alt="" coords="283,13,512,38"/>
+</map>

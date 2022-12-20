@@ -1,0 +1,5 @@
+<map id="spic::input::Subscribe" name="spic::input::Subscribe">
+<area shape="rect" id="node1" title="Subscribes a key listener for a specific key event." alt="" coords="223,45,371,70"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1systems_1_1InputSystem.html#ad356610a086a17ccd654adae08c064bf" title="Initiliazes system." alt="" coords="13,5,167,45"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1systems_1_1RenderingSystem.html#af8ee9bb2717e293f041f45e854310ce8" title="Initiliazes system." alt="" coords="5,69,175,109"/>
+</map>

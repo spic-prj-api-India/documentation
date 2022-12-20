@@ -96,14 +96,23 @@ $(document).ready(function(){initNavTree('namespacespic_1_1debug.html',''); init
 </div><!--header-->
 <div class="contents">
 
-<p>Some convenient debugging functions.  
+<p>Some convenient debugging functions. Function are only run in Debug mode.  
 <a href="namespacespic_1_1debug.html#details">More...</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:ad5cfde4152d71b2332a2508d3619f3b2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacespic_1_1debug.html#ad5cfde4152d71b2332a2508d3619f3b2">DrawLine</a> (const <a class="el" href="structspic_1_1Point.html">Point</a> &amp;start, const <a class="el" href="structspic_1_1Point.html">Point</a> &amp;end, const <a class="el" href="classspic_1_1Color.html">Color</a> &amp;color=<a class="el" href="classspic_1_1Color.html#a872b5f290953ced58216e18cb448ab8a">Color::white</a>())</td></tr>
-<tr class="memdesc:ad5cfde4152d71b2332a2508d3619f3b2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Draws a colored line between specified start and end points.  <a href="namespacespic_1_1debug.html#ad5cfde4152d71b2332a2508d3619f3b2">More...</a><br /></td></tr>
+<tr class="memdesc:ad5cfde4152d71b2332a2508d3619f3b2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Draws a colored line between specified start and end points in world space.  <a href="namespacespic_1_1debug.html#ad5cfde4152d71b2332a2508d3619f3b2">More...</a><br /></td></tr>
 <tr class="separator:ad5cfde4152d71b2332a2508d3619f3b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a00ef4eb237d27314e36a9f47c621c554"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacespic_1_1debug.html#a00ef4eb237d27314e36a9f47c621c554">DrawRect</a> (const <a class="el" href="structspic_1_1Rect.html">Rect</a> &amp;rect, const double angle, const <a class="el" href="classspic_1_1Color.html">Color</a> &amp;color=<a class="el" href="classspic_1_1Color.html#a872b5f290953ced58216e18cb448ab8a">Color::white</a>())</td></tr>
+<tr class="memdesc:a00ef4eb237d27314e36a9f47c621c554"><td class="mdescLeft">&#160;</td><td class="mdescRight">Draws a colored rectangle with a specified angle in world space.  <a href="namespacespic_1_1debug.html#a00ef4eb237d27314e36a9f47c621c554">More...</a><br /></td></tr>
+<tr class="separator:a00ef4eb237d27314e36a9f47c621c554"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aed6faebe318877f9ac3a5ae8116343d4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacespic_1_1debug.html#aed6faebe318877f9ac3a5ae8116343d4">DrawCircle</a> (const <a class="el" href="structspic_1_1Circle.html">Circle</a> &amp;circle, const <a class="el" href="classspic_1_1Color.html">Color</a> &amp;color=<a class="el" href="classspic_1_1Color.html#a872b5f290953ced58216e18cb448ab8a">Color::white</a>(), const float pixelGap=1.0f)</td></tr>
+<tr class="memdesc:aed6faebe318877f9ac3a5ae8116343d4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Draws a colored circle in world space.  <a href="namespacespic_1_1debug.html#aed6faebe318877f9ac3a5ae8116343d4">More...</a><br /></td></tr>
+<tr class="separator:aed6faebe318877f9ac3a5ae8116343d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae30193a4b8c63f91ba59e646f78ac478"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacespic_1_1debug.html#ae30193a4b8c63f91ba59e646f78ac478">DrawPoint</a> (const <a class="el" href="structspic_1_1Point.html">spic::Point</a> &amp;point, const <a class="el" href="classspic_1_1Color.html">spic::Color</a> &amp;color)</td></tr>
+<tr class="memdesc:ae30193a4b8c63f91ba59e646f78ac478"><td class="mdescLeft">&#160;</td><td class="mdescRight">Draws a colored point in world space.  <a href="namespacespic_1_1debug.html#ae30193a4b8c63f91ba59e646f78ac478">More...</a><br /></td></tr>
+<tr class="separator:ae30193a4b8c63f91ba59e646f78ac478"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2de5576578958ef16655d6db11922946"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacespic_1_1debug.html#a2de5576578958ef16655d6db11922946">Log</a> (const std::string &amp;message)</td></tr>
 <tr class="memdesc:a2de5576578958ef16655d6db11922946"><td class="mdescLeft">&#160;</td><td class="mdescRight">Logs a message to the Console.  <a href="namespacespic_1_1debug.html#a2de5576578958ef16655d6db11922946">More...</a><br /></td></tr>
 <tr class="separator:a2de5576578958ef16655d6db11922946"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -120,8 +129,54 @@ Variables</h2></td></tr>
 <tr class="separator:a453a93217265faea7bf965a5ff8b4e6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >Some convenient debugging functions. </p>
+<div class="textblock"><p >Some convenient debugging functions. Function are only run in Debug mode. </p>
 </div><h2 class="groupheader">Function Documentation</h2>
+<a id="aed6faebe318877f9ac3a5ae8116343d4" name="aed6faebe318877f9ac3a5ae8116343d4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aed6faebe318877f9ac3a5ae8116343d4">&#9670;&#160;</a></span>DrawCircle()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void spic::debug::DrawCircle </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="structspic_1_1Circle.html">Circle</a> &amp;&#160;</td>
+          <td class="paramname"><em>circle</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="classspic_1_1Color.html">Color</a> &amp;&#160;</td>
+          <td class="paramname"><em>color</em> = <code><a class="el" href="classspic_1_1Color.html#a872b5f290953ced58216e18cb448ab8a">Color::white</a>()</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const float&#160;</td>
+          <td class="paramname"><em>pixelGap</em> = <code>1.0f</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Draws a colored circle in world space. </p>
+<p ><a class="el" href="structspic_1_1Circle.html" title="Circle model, is used for drawing debug circles.">Circle</a> is not drawn when circle is not in camera view. </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">circle</td><td>The circle. </td></tr>
+    <tr><td class="paramname">color</td><td>The circle color, defaults to white. </td></tr>
+    <tr><td class="paramname">pixelGap</td><td>The gap (in pixels) between each point in the circle </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section attention"><dt>Attention</dt><dd>This is a symbol shared with the partner group and any changes should be communicated.<br  />
+</dd></dl>
+
+</div>
+</div>
 <a id="ad5cfde4152d71b2332a2508d3619f3b2" name="ad5cfde4152d71b2332a2508d3619f3b2"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ad5cfde4152d71b2332a2508d3619f3b2">&#9670;&#160;</a></span>DrawLine()</h2>
 
@@ -154,8 +209,8 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Draws a colored line between specified start and end points. </p>
-<dl class="params"><dt>Parameters</dt><dd>
+<p>Draws a colored line between specified start and end points in world space. </p>
+<p ><a class="el" href="structspic_1_1Line.html" title="Line model, is used for drawing debug lines.">Line</a> is not drawn when line is not in camera view. </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">start</td><td>The starting point. </td></tr>
     <tr><td class="paramname">end</td><td>The end point. </td></tr>
@@ -164,6 +219,91 @@ Variables</h2></td></tr>
   </dd>
 </dl>
 <dl class="section attention"><dt>Attention</dt><dd>This is a symbol defined by the original SPIC API and should be kept as-is.<br  />
+</dd></dl>
+
+</div>
+</div>
+<a id="ae30193a4b8c63f91ba59e646f78ac478" name="ae30193a4b8c63f91ba59e646f78ac478"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae30193a4b8c63f91ba59e646f78ac478">&#9670;&#160;</a></span>DrawPoint()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void spic::debug::DrawPoint </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="structspic_1_1Point.html">spic::Point</a> &amp;&#160;</td>
+          <td class="paramname"><em>point</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="classspic_1_1Color.html">spic::Color</a> &amp;&#160;</td>
+          <td class="paramname"><em>color</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Draws a colored point in world space. </p>
+<p ><a class="el" href="structspic_1_1Point.html" title="Struct representing both a 2D point and a 2D vector.">Point</a> is not drawn when point is not in camera view. </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">point</td><td>The point. </td></tr>
+    <tr><td class="paramname">color</td><td>The line color, defaults to white. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section attention"><dt>Attention</dt><dd>This is a symbol shared with the partner group and any changes should be communicated.<br  />
+</dd></dl>
+
+</div>
+</div>
+<a id="a00ef4eb237d27314e36a9f47c621c554" name="a00ef4eb237d27314e36a9f47c621c554"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a00ef4eb237d27314e36a9f47c621c554">&#9670;&#160;</a></span>DrawRect()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void spic::debug::DrawRect </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="structspic_1_1Rect.html">Rect</a> &amp;&#160;</td>
+          <td class="paramname"><em>rect</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const double&#160;</td>
+          <td class="paramname"><em>angle</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="classspic_1_1Color.html">Color</a> &amp;&#160;</td>
+          <td class="paramname"><em>color</em> = <code><a class="el" href="classspic_1_1Color.html#a872b5f290953ced58216e18cb448ab8a">Color::white</a>()</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Draws a colored rectangle with a specified angle in world space. </p>
+<p >Rectangle is not drawn when rectangle is not in camera view. </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">rect</td><td>The rectangle. </td></tr>
+    <tr><td class="paramname">angle</td><td>The angle of the rectangle in radians. </td></tr>
+    <tr><td class="paramname">color</td><td>The rectangle color, defaults to white. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section attention"><dt>Attention</dt><dd>This is a symbol shared with the partner group and any changes should be communicated.<br  />
 </dd></dl>
 
 </div>

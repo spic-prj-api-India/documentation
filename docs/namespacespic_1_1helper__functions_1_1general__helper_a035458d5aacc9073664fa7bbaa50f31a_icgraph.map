@@ -1,0 +1,4 @@
+<map id="spic::helper_functions::general_helper::NetworkPacketSorting" name="spic::helper_functions::general_helper::NetworkPacketSorting">
+<area shape="rect" id="node1" title="Sorts network packages based on timing." alt="" coords="240,5,451,60"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1systems_1_1NetworkingReceiveSystem.html#abfa26617719cc6d388b3d4560e51b84f" title="Sends message to relevant GameObject." alt="" coords="5,5,192,60"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="spic::helper_functions::general_helper::LineIntersection" name="spic::helper_functions::general_helper::LineIntersection">
+<area shape="rect" id="node1" title="Calculates if a line intersects with another line. Sets intersection point and distance to intersecti..." alt="" coords="5,5,220,45"/>
+<area shape="rect" id="node2" href="$structspic_1_1Point.html#a866ddad0fe00b8d365c8dc567e5ecb52" title="Returns distance between to points." alt="" coords="268,13,411,38"/>
+</map>

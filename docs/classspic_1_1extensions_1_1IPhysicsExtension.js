@@ -6,10 +6,12 @@ var classspic_1_1extensions_1_1IPhysicsExtension =
     [ "IPhysicsExtension", "classspic_1_1extensions_1_1IPhysicsExtension.html#af5165dde474cd34d2c6a6bc4fa8bc0f7", null ],
     [ "AddCollisionLayer", "classspic_1_1extensions_1_1IPhysicsExtension.html#a2882b824bdb3f250a9d69ee4f39db3d6", null ],
     [ "AddForce", "classspic_1_1extensions_1_1IPhysicsExtension.html#a1cef696a6407ebbe462a026cadd8eb57", null ],
+    [ "ClearForces", "classspic_1_1extensions_1_1IPhysicsExtension.html#a9de5e59a90532ba1aa7b169834cd30ca", null ],
     [ "DrawColliders", "classspic_1_1extensions_1_1IPhysicsExtension.html#ac00e1ed0e4b715322a15980003f45f0c", null ],
     [ "GetLinearVelocity", "classspic_1_1extensions_1_1IPhysicsExtension.html#a93f661be9b72b2a2045b3e2ce639a3e0", null ],
     [ "operator=", "classspic_1_1extensions_1_1IPhysicsExtension.html#afcd4be7e143bfe8a0613fba7b72b0e46", null ],
     [ "operator=", "classspic_1_1extensions_1_1IPhysicsExtension.html#acaff309c81f7b8d0ee28bdfdf0754806", null ],
+    [ "RemoveEntity", "classspic_1_1extensions_1_1IPhysicsExtension.html#a7043a02349d8910cb0c8f199e66ddf0d", null ],
     [ "Reset", "classspic_1_1extensions_1_1IPhysicsExtension.html#a45c41458e398daa8bf02c2def8037635", null ],
     [ "RunTimes", "classspic_1_1extensions_1_1IPhysicsExtension.html#a48cda8be3245a970d10943ca2aca25fd", null ],
     [ "Update", "classspic_1_1extensions_1_1IPhysicsExtension.html#ad15196a2fe2bda44bf6efd72988ac041", null ]

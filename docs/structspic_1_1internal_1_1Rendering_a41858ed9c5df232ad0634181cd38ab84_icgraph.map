@@ -1,0 +1,4 @@
+<map id="spic::internal::Rendering::AddDebugPoint" name="spic::internal::Rendering::AddDebugPoint">
+<area shape="rect" id="node1" title="Add debug point to renderer, point will be drawn at the end of the render in world space." alt="" coords="209,5,372,45"/>
+<area shape="rect" id="node2" href="$namespacespic_1_1debug.html#ae30193a4b8c63f91ba59e646f78ac478" title="Draws a colored point in world space." alt="" coords="5,13,161,38"/>
+</map>

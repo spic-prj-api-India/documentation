@@ -1,0 +1,6 @@
+<map id="spic::Scene::Camera" name="spic::Scene::Camera">
+<area shape="rect" id="node1" title="The scene&#39;s camera." alt="" coords="236,77,380,102"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1systems_1_1InputSystem.html#ad356610a086a17ccd654adae08c064bf" title="Initiliazes system." alt="" coords="19,5,174,45"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1systems_1_1InputSystem.html#a650977f1776132a3117c7ec0919489d5" title="Calls Listen method in InputManager." alt="" coords="19,69,174,109"/>
+<area shape="rect" id="node4" href="$classspic_1_1internal_1_1systems_1_1RenderingSystem.html#a273d1136b2a4d49269f578689570a93d" title="Renders all entities in current scene." alt="" coords="5,133,188,173"/>
+</map>

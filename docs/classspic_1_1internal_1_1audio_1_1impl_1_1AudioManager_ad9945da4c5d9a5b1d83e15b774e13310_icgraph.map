@@ -1,0 +1,5 @@
+<map id="spic::internal::audio::impl::AudioManager::PlaySample" name="spic::internal::audio::impl::AudioManager::PlaySample">
+<area shape="rect" id="node1" title="If the sample does not exists it adds it to the Samples list." alt="" coords="448,5,593,60"/>
+<area shape="rect" id="node2" href="$structspic_1_1internal_1_1audio_1_1AudioFacade.html#aacefa67f253e489174e509c5275098ae" title="If the sample does not exists it adds it to the Samples list." alt="" coords="216,13,400,53"/>
+<area shape="rect" id="node3" href="$classspic_1_1AudioSource.html#afc2ea09b57477c34083d937f50e83166" title="Call this method to start playing audio." alt="" coords="5,20,168,45"/>
+</map>

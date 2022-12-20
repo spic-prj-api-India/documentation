@@ -1,5 +1,5 @@
 <map id="spic::extensions::PhysicsExtension1" name="spic::extensions::PhysicsExtension1">
-<area shape="rect" id="node1" title="A extension that handles standard physics." alt="" coords="7,181,179,221"/>
-<area shape="rect" id="node2" href="$classspic_1_1extensions_1_1IPhysicsExtension.html" title="An interface for the physics extensions." alt="" coords="5,93,181,133"/>
-<area shape="rect" id="node3" href="$classspic_1_1extensions_1_1IEngineExtension.html" title="A interface for the engine extensions." alt="" coords="9,5,178,45"/>
+<area shape="rect" id="node1" title="A extension that handles standard physics." alt="" coords="7,211,183,265"/>
+<area shape="rect" id="node2" href="$classspic_1_1extensions_1_1IPhysicsExtension.html" title="An interface for the physics extensions." alt="" coords="5,108,185,163"/>
+<area shape="rect" id="node3" href="$classspic_1_1extensions_1_1IEngineExtension.html" title="A interface for the engine extensions." alt="" coords="9,5,182,60"/>
 </map>

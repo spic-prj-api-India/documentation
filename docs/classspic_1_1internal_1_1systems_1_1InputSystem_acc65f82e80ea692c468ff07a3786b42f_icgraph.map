@@ -1,0 +1,4 @@
+<map id="spic::internal::systems::InputSystem::GetButtons" name="spic::internal::systems::InputSystem::GetButtons">
+<area shape="rect" id="node1" title="Filters all Buttons from entities list." alt="" coords="208,29,387,69"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1systems_1_1InputSystem.html#a650977f1776132a3117c7ec0919489d5" title="Calls Listen method in InputManager." alt="" coords="5,29,160,69"/>
+</map>

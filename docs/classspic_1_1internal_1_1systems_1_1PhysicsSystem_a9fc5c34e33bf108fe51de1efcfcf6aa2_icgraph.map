@@ -1,0 +1,4 @@
+<map id="spic::internal::systems::PhysicsSystem::Reset" name="spic::internal::systems::PhysicsSystem::Reset">
+<area shape="rect" id="node1" title="Resets physics extensions and registers new collision listener." alt="" coords="212,5,376,45"/>
+<area shape="rect" id="node2" href="$classspic_1_1internal_1_1systems_1_1PhysicsSystem.html#a66e6c822d51244b2c633e5c37b2d738c" title="Initiliazes system." alt="" coords="5,5,164,45"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="spic::GameObject::FindWithTag" name="spic::GameObject::FindWithTag">
+<area shape="rect" id="node1" title="Returns one active GameObject tagged tag. Returns nullptr if no GameObject was found." alt="" coords="5,59,212,84"/>
+<area shape="rect" id="node2" href="$namespacespic.html#adb79187e5833b494dbed938167c4ab8e" title="Hulper function for gameobject which uses recursion." alt="" coords="264,29,444,55"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1EntityManager.html#a29cfad81ba4f0123ed80b95ebd6cf2b5" title=" " alt="" coords="260,79,448,119"/>
+<area shape="rect" id="node4" href="$classspic_1_1internal_1_1EntityManager.html#a7555637657d090171be6ceee8451de0a" title="Calls the init method." alt="" coords="496,79,684,119"/>
+<area shape="rect" id="node5" href="$classspic_1_1internal_1_1EntityManager.html#abddae91d3605e8fcdc55640ecb5d463d" title=" " alt="" coords="732,79,920,119"/>
+<area shape="rect" id="node6" href="$structspic_1_1internal_1_1audio_1_1AudioFacade.html#a689fd9c815151a819f325c11f7587d83" title="Creates an new AudioSystem and puts it on the heap. The current audioImplementation has an bug that i..." alt="" coords="968,79,1153,119"/>
+</map>

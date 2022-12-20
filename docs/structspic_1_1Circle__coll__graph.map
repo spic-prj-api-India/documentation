@@ -1,0 +1,4 @@
+<map id="spic::Circle" name="spic::Circle">
+<area shape="rect" id="node1" title="Circle model, is used for drawing debug circles." alt="" coords="5,108,96,148"/>
+<area shape="rect" id="node2" href="$structspic_1_1Point.html" title="Struct representing both a 2D point and a 2D vector." alt="" coords="7,5,95,45"/>
+</map>

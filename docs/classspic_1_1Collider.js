@@ -1,7 +1,7 @@
 var classspic_1_1Collider =
 [
     [ "Collider", "classspic_1_1Collider.html#aa7186870221f868bbc74c3ae8609fa66", null ],
-    [ "Collider", "classspic_1_1Collider.html#aef1f65abc59eb7a40c0f1c3f2fa7b0db", null ],
+    [ "Collider", "classspic_1_1Collider.html#a94f4e786883cf835e0255df21329f54d", null ],
     [ "Bounciness", "classspic_1_1Collider.html#aa262c5afc2cbd5fbee792c0618d3c15a", null ],
     [ "Bounciness", "classspic_1_1Collider.html#a8a48bc5ce21c77506932e688c73abbaa", null ],
     [ "Disable", "classspic_1_1Collider.html#a3c679bfba1e999e5693bedeefddf94db", null ],

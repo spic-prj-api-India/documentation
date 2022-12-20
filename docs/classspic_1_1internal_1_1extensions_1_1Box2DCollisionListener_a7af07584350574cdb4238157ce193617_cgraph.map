@@ -1,0 +1,4 @@
+<map id="spic::internal::extensions::Box2DCollisionListener::EndContact" name="spic::internal::extensions::Box2DCollisionListener::EndContact">
+<area shape="rect" id="node1" title="Is called when body is not colliding with another body anymore." alt="" coords="5,5,172,60"/>
+<area shape="rect" id="node2" href="$classspic_1_1GameObject.html#a169dd1691be6e4e04eba122e0b423c4c" title="Get the first component of the specified type. Must be a valid subclass of Component." alt="" coords="220,20,443,45"/>
+</map>

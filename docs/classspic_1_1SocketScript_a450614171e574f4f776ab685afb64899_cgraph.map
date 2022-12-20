@@ -1,0 +1,5 @@
+<map id="spic::SocketScript::PositionPacket" name="spic::SocketScript::PositionPacket">
+<area shape="rect" id="node1" title="Gets update packet with only an update of the transform of a gameobject." alt="" coords="5,23,135,63"/>
+<area shape="rect" id="node2" href="$classspic_1_1GameObject.html#a6fe08be3a970a4778eac71eabbeef02b" title="Returns name of GameObject." alt="" coords="195,5,365,31"/>
+<area shape="rect" id="node3" href="$classspic_1_1GameObject.html#a1585c2489e79a1628aa0920a1e2b8c41" title="Returns transform of GameObject." alt="" coords="183,55,377,80"/>
+</map>

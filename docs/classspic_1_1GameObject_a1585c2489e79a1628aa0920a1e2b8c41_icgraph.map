@@ -1,0 +1,9 @@
+<map id="spic::GameObject::Transform" name="spic::GameObject::Transform">
+<area shape="rect" id="node1" title="Returns transform of GameObject." alt="" coords="255,170,449,195"/>
+<area shape="rect" id="node2" href="$classspic_1_1Persistable.html#ac13a99f9057ba0d034242b06131748bc" title="Loads the properties of the GameObject." alt="" coords="43,5,169,45"/>
+<area shape="rect" id="node3" href="$classspic_1_1SocketScript.html#a450614171e574f4f776ab685afb64899" title="Gets update packet with only an update of the transform of a gameobject." alt="" coords="41,69,171,109"/>
+<area shape="rect" id="node4" href="$classspic_1_1Persistable.html#a5115d044374adb72d7887302c43f2f46" title="Saves the properties of the GameObject." alt="" coords="43,133,169,173"/>
+<area shape="rect" id="node5" href="$classspic_1_1Flocking.html#a4872b8269c8eeee1eda3439cdeca77f9" title="Tags all nearby neigbors." alt="" coords="11,198,201,223"/>
+<area shape="rect" id="node6" href="$classspic_1_1internal_1_1rendering_1_1RendererImpl.html#acbac2e60f0cf46d0aa19dbd7de6901a0" title="Updates internal parameters width parameters in camera." alt="" coords="5,248,207,288"/>
+<area shape="rect" id="node7" href="$classspic_1_1SocketScript.html#a773188605c0c12ed83504dc723c03745" title="Updates the position of an gameobject with children included." alt="" coords="41,312,171,352"/>
+</map>

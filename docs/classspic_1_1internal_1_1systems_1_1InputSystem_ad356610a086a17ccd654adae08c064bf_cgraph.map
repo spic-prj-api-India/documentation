@@ -1,0 +1,10 @@
+<map id="spic::internal::systems::InputSystem::Start" name="spic::internal::systems::InputSystem::Start">
+<area shape="rect" id="node1" title="Initiliazes system." alt="" coords="5,109,160,149"/>
+<area shape="rect" id="node2" href="$classspic_1_1Scene.html#ac012b72eaeb5c040b3184c8a7dd5a025" title="The scene&#39;s camera." alt="" coords="251,5,395,31"/>
+<area shape="rect" id="node3" href="$classspic_1_1internal_1_1systems_1_1InputSystem.html#a5b6f9f4fc3021b6301895595140d22b3" title=" " alt="" coords="228,79,417,119"/>
+<area shape="rect" id="node4" href="$classspic_1_1GameObject.html#a8ec58bbb6238b7a2e23d0209dbf2b9f2" title="Get all components of the specified type. Must be a valid subclass of Component." alt="" coords="208,144,437,169"/>
+<area shape="rect" id="node5" href="$namespacespic_1_1input.html#aa12c210a5b3363c410958cd8ec5a745f" title="Subscribes a key listener for a specific key event." alt="" coords="249,193,397,219"/>
+<area shape="rect" id="node6" href="$classspic_1_1internal_1_1InputManager.html#a0581e2ffd3539fb358142cb6527cf73d" title=" " alt="" coords="485,154,668,194"/>
+<area shape="rect" id="node8" href="$classspic_1_1internal_1_1InputManager.html#a3e5533076335d5448fd037eda0a0d95d" title="Subscribes a key listener for a specific key event." alt="" coords="485,218,668,258"/>
+<area shape="rect" id="node7" href="$classspic_1_1internal_1_1InputManager.html#a4babbf178d73139836a1f1d89eaabd29" title=" " alt="" coords="716,154,899,194"/>
+</map>

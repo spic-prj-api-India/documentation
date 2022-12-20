@@ -1,0 +1,5 @@
+<map id="Client::wait" name="Client::wait">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,92,31"/>
+<area shape="rect" id="node2" href="$structClient.html#ae7b9b46264c6dc01aaf59f01299789d3" title=" " alt="" coords="140,5,291,31"/>
+<area shape="rect" id="node3" href="$namespacespic_1_1debug.html#adfde69e384e02f2c7c12c63fb308be89" title="A variant of Debug.Log that logs an error message to the console." alt="" coords="339,5,485,31"/>
+</map>
