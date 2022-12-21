@@ -25,7 +25,10 @@
 var NAVTREE =
 [
   [ "SPICPRJ Engine", "index.html", [
-    [ "spic-prj-api", "index.html", null ],
+    [ "spic-prj-api", "index.html", [
+      [ "Features:", "index.html#autotoc_md1", null ],
+      [ "Copyright (c) 2022 Avans Hogeschool, 's-Hertogenbosch.", "index.html#autotoc_md2", null ]
+    ] ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
@@ -58,8 +61,8 @@ var NAVTREEINDEX =
 "classspic_1_1extensions_1_1PhysicsExtension1.html#a28daf9ec5ad5e213a3259a9cf10ea442",
 "classspic_1_1internal_1_1audio_1_1impl_1_1Sample.html#aea8a48c34d94596f6affbbd28938fb2c",
 "functions_func_s.html",
-"namespacespic_1_1input.html#a274f6bbd5b1b0d75d59451b6d24f997fa9792e613da457830bbb555a1e09ddb4d",
-"structspic_1_1Point.html#a3468c94d9b6541b8caf9658109084fa7"
+"namespacespic_1_1input.html#a274f6bbd5b1b0d75d59451b6d24f997fa8d9c307cb7f3c4a32822a51922d1ceaa",
+"structspic_1_1Point.html#a32fc340796236e52d5b60b65c8aa3fc1"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
