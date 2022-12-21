@@ -1,6 +1,6 @@
 <map id="spic::UIObject" name="spic::UIObject">
-<area shape="rect" id="node1" title="Base class for a user interface object like Button or Text." alt="" coords="55,93,164,133"/>
-<area shape="rect" id="node3" href="$classspic_1_1Button.html" title="Instances of this class are clickable user interface items." alt="" coords="5,181,101,221"/>
-<area shape="rect" id="node4" href="$classspic_1_1Text.html" title="Class representing a piece of text which can be rendered." alt="" coords="125,181,208,221"/>
-<area shape="rect" id="node2" href="$classspic_1_1GameObject.html" title="Any object which should be represented on screen." alt="" coords="44,5,175,45"/>
+<area shape="rect" id="node1" title="Base class for a user interface object like Button or Text." alt="" coords="53,79,159,104"/>
+<area shape="rect" id="node3" href="$classspic_1_1Button.html" title="Instances of this class are clickable user interface items." alt="" coords="5,152,97,177"/>
+<area shape="rect" id="node4" href="$classspic_1_1Text.html" title="Class representing a piece of text which can be rendered." alt="" coords="121,152,200,177"/>
+<area shape="rect" id="node2" href="$classspic_1_1GameObject.html" title="Any object which should be represented on screen." alt="" coords="43,5,169,31"/>
 </map>

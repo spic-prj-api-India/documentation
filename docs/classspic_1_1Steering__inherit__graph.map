@@ -1,4 +1,4 @@
 <map id="spic::Steering" name="spic::Steering">
-<area shape="rect" id="node1" title="Calculates all steering forces." alt="" coords="14,93,121,133"/>
-<area shape="rect" id="node2" href="$classspic_1_1Component.html" title="Base class for all components." alt="" coords="5,5,129,45"/>
+<area shape="rect" id="node1" title="Calculates all steering forces." alt="" coords="14,79,117,104"/>
+<area shape="rect" id="node2" href="$classspic_1_1Component.html" title="Base class for all components." alt="" coords="5,5,125,31"/>
 </map>

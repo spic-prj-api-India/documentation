@@ -1,5 +1,5 @@
 <map id="spic::Animator" name="spic::Animator">
-<area shape="rect" id="node1" title="A component which can play animated sequences of sprites." alt="" coords="15,197,126,237"/>
-<area shape="rect" id="node2" href="$classspic_1_1Component.html" title="Base class for all components." alt="" coords="9,108,133,148"/>
-<area shape="rect" id="node3" href="$classspic_1_1GameObject.html" title="Any object which should be represented on screen." alt="" coords="5,5,136,45"/>
+<area shape="rect" id="node1" title="A component which can play animated sequences of sprites." alt="" coords="15,168,122,193"/>
+<area shape="rect" id="node2" href="$classspic_1_1Component.html" title="Base class for all components." alt="" coords="9,93,129,119"/>
+<area shape="rect" id="node3" href="$classspic_1_1GameObject.html" title="Any object which should be represented on screen." alt="" coords="5,5,132,31"/>
 </map>

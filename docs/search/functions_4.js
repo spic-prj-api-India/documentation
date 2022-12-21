@@ -8,7 +8,7 @@ var searchData=
   ['deserialize_5',['Deserialize',['../structspic_1_1NetworkPacket.html#aa75c3294d310b603992511a4e451a7d8',1,'spic::NetworkPacket::Deserialize()'],['../structspic_1_1Serializer.html#a776e5696a8e33c4d6100a5bf893b0503',1,'spic::Serializer::Deserialize()'],['../structspic_1_1Transform.html#af60ef6c490be7f0c886a628b5226eebf',1,'spic::Transform::Deserialize()']]],
   ['destroy_6',['Destroy',['../classspic_1_1GameObject.html#adb7468ce74bdd6283767f089f954b5f9',1,'spic::GameObject::Destroy(const std::string &amp;name)'],['../classspic_1_1GameObject.html#a0a166569cfb874eef8ee7ff21a49560c',1,'spic::GameObject::Destroy(Component *obj)']]],
   ['destroyaudio_7',['DestroyAudio',['../structspic_1_1internal_1_1audio_1_1AudioFacade.html#a607ed07f88502d1e8765d64a99ce3969',1,'spic::internal::audio::AudioFacade']]],
-  ['destroyentity_8',['DestroyEntity',['../classspic_1_1SocketScript.html#aa1b88da861e34d7c12fd6a166f700340',1,'spic::SocketScript']]],
+  ['destroyentity_8',['DestroyEntity',['../classspic_1_1SocketScript.html#ae77ab10081af6638dda0598e288135d2',1,'spic::SocketScript']]],
   ['destroyonload_9',['DestroyOnLoad',['../classspic_1_1GameObject.html#a22eddf58645445a6be0c74ea14b02372',1,'spic::GameObject::DestroyOnLoad() const'],['../classspic_1_1GameObject.html#a7a8eb39cc0ce769287f89c8556cda585',1,'spic::GameObject::DestroyOnLoad(bool destroyOnLoad)']]],
   ['destroyscene_10',['DestroyScene',['../classspic_1_1internal_1_1EntityManager.html#ae50969606f065de053d0d033e43dd24a',1,'spic::internal::EntityManager::DestroyScene()'],['../classspic_1_1GameEngine.html#af88327c5e3059aad573f4677f1e87a69',1,'spic::GameEngine::DestroyScene()']]],
   ['disable_11',['Disable',['../classspic_1_1Collider.html#a3c679bfba1e999e5693bedeefddf94db',1,'spic::Collider']]],

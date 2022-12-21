@@ -18,7 +18,7 @@ var searchData=
   ['destroy_15',['Destroy',['../classspic_1_1GameObject.html#adb7468ce74bdd6283767f089f954b5f9',1,'spic::GameObject::Destroy(const std::string &amp;name)'],['../classspic_1_1GameObject.html#a0a166569cfb874eef8ee7ff21a49560c',1,'spic::GameObject::Destroy(Component *obj)']]],
   ['destroy_16',['DESTROY',['../namespacespic.html#abd86f109bdb1991721dc88779b36daeaa791fe3c37ed66242fb7027c575a2e53d',1,'spic']]],
   ['destroyaudio_17',['DestroyAudio',['../structspic_1_1internal_1_1audio_1_1AudioFacade.html#a607ed07f88502d1e8765d64a99ce3969',1,'spic::internal::audio::AudioFacade']]],
-  ['destroyentity_18',['DestroyEntity',['../classspic_1_1SocketScript.html#aa1b88da861e34d7c12fd6a166f700340',1,'spic::SocketScript']]],
+  ['destroyentity_18',['DestroyEntity',['../classspic_1_1SocketScript.html#ae77ab10081af6638dda0598e288135d2',1,'spic::SocketScript']]],
   ['destroyonload_19',['DestroyOnLoad',['../classspic_1_1GameObject.html#a22eddf58645445a6be0c74ea14b02372',1,'spic::GameObject::DestroyOnLoad() const'],['../classspic_1_1GameObject.html#a7a8eb39cc0ce769287f89c8556cda585',1,'spic::GameObject::DestroyOnLoad(bool destroyOnLoad)']]],
   ['destroyscene_20',['DestroyScene',['../classspic_1_1internal_1_1EntityManager.html#ae50969606f065de053d0d033e43dd24a',1,'spic::internal::EntityManager::DestroyScene()'],['../classspic_1_1GameEngine.html#af88327c5e3059aad573f4677f1e87a69',1,'spic::GameEngine::DestroyScene()']]],
   ['disable_21',['Disable',['../classspic_1_1Collider.html#a3c679bfba1e999e5693bedeefddf94db',1,'spic::Collider']]],

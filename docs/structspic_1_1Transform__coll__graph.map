@@ -1,4 +1,4 @@
 <map id="spic::Transform" name="spic::Transform">
-<area shape="rect" id="node1" title="Instances of this class represent specific 2D transformations." alt="" coords="5,108,123,148"/>
-<area shape="rect" id="node2" href="$structspic_1_1Point.html" title="Struct representing both a 2D point and a 2D vector." alt="" coords="20,5,108,45"/>
+<area shape="rect" id="node1" title="Instances of this class represent specific 2D transformations." alt="" coords="5,93,119,119"/>
+<area shape="rect" id="node2" href="$structspic_1_1Point.html" title="Struct representing both a 2D point and a 2D vector." alt="" coords="20,5,104,31"/>
 </map>

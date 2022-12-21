@@ -1,5 +1,5 @@
 <map id="spic::BoxCollider" name="spic::BoxCollider">
-<area shape="rect" id="node1" title="A collider which represents a rectangular collision area." alt="" coords="5,181,129,221"/>
-<area shape="rect" id="node2" href="$classspic_1_1Collider.html" title="The base class for all colliders." alt="" coords="17,93,118,133"/>
-<area shape="rect" id="node3" href="$classspic_1_1Component.html" title="Base class for all components." alt="" coords="5,5,129,45"/>
+<area shape="rect" id="node1" title="A collider which represents a rectangular collision area." alt="" coords="5,152,125,177"/>
+<area shape="rect" id="node2" href="$classspic_1_1Collider.html" title="The base class for all colliders." alt="" coords="17,79,114,104"/>
+<area shape="rect" id="node3" href="$classspic_1_1Component.html" title="Base class for all components." alt="" coords="5,5,125,31"/>
 </map>

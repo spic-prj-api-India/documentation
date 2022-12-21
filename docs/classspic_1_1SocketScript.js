@@ -2,7 +2,7 @@ var classspic_1_1SocketScript =
 [
     [ "AddSocket", "classspic_1_1SocketScript.html#a2a252c2c6bdbd80031dc10f3b9acc79f", null ],
     [ "CreateEntity", "classspic_1_1SocketScript.html#ab10a10028e55a197de0cfcee4d337c22", null ],
-    [ "DestroyEntity", "classspic_1_1SocketScript.html#aa1b88da861e34d7c12fd6a166f700340", null ],
+    [ "DestroyEntity", "classspic_1_1SocketScript.html#ae77ab10081af6638dda0598e288135d2", null ],
     [ "PositionPacket", "classspic_1_1SocketScript.html#a450614171e574f4f776ab685afb64899", null ],
     [ "RegisterNewEntity", "classspic_1_1SocketScript.html#a48910d90ce4b7b1a7cf4444dc0b3111e", null ],
     [ "RemoveEntity", "classspic_1_1SocketScript.html#a2258505a87df9ca86caf15049628ba11", null ],

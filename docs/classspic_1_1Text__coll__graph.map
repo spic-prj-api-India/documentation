@@ -1,5 +1,5 @@
 <map id="spic::Text" name="spic::Text">
-<area shape="rect" id="node1" title="Class representing a piece of text which can be rendered." alt="" coords="29,181,112,221"/>
-<area shape="rect" id="node2" href="$classspic_1_1UIObject.html" title="Base class for a user interface object like Button or Text." alt="" coords="16,93,125,133"/>
-<area shape="rect" id="node3" href="$classspic_1_1GameObject.html" title="Any object which should be represented on screen." alt="" coords="5,5,136,45"/>
+<area shape="rect" id="node1" title="Class representing a piece of text which can be rendered." alt="" coords="29,152,108,177"/>
+<area shape="rect" id="node2" href="$classspic_1_1UIObject.html" title="Base class for a user interface object like Button or Text." alt="" coords="16,79,121,104"/>
+<area shape="rect" id="node3" href="$classspic_1_1GameObject.html" title="Any object which should be represented on screen." alt="" coords="5,5,132,31"/>
 </map>

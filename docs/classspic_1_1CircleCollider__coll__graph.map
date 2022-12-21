@@ -1,6 +1,6 @@
 <map id="spic::CircleCollider" name="spic::CircleCollider">
-<area shape="rect" id="node1" title="A collider which represents a circular collision area." alt="" coords="5,287,140,327"/>
-<area shape="rect" id="node2" href="$classspic_1_1Collider.html" title="The base class for all colliders." alt="" coords="22,197,123,237"/>
-<area shape="rect" id="node3" href="$classspic_1_1Component.html" title="Base class for all components." alt="" coords="11,108,135,148"/>
-<area shape="rect" id="node4" href="$classspic_1_1GameObject.html" title="Any object which should be represented on screen." alt="" coords="7,5,138,45"/>
+<area shape="rect" id="node1" title="A collider which represents a circular collision area." alt="" coords="5,243,136,268"/>
+<area shape="rect" id="node2" href="$classspic_1_1Collider.html" title="The base class for all colliders." alt="" coords="22,168,119,193"/>
+<area shape="rect" id="node3" href="$classspic_1_1Component.html" title="Base class for all components." alt="" coords="11,93,131,119"/>
+<area shape="rect" id="node4" href="$classspic_1_1GameObject.html" title="Any object which should be represented on screen." alt="" coords="7,5,134,31"/>
 </map>

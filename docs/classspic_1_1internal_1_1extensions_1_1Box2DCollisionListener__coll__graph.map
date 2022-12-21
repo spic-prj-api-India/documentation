@@ -1,5 +1,5 @@
 <map id="spic::internal::extensions::Box2DCollisionListener" name="spic::internal::extensions::Box2DCollisionListener">
-<area shape="rect" id="node1" title="A listener that listens if an Box2D collides with another Box2D body." alt="" coords="76,108,247,163"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,13,136,53"/>
-<area shape="rect" id="node3" href="$classspic_1_1extensions_1_1ICollisionListener.html" title="An interface for physic collision listeners." alt="" coords="161,5,343,60"/>
+<area shape="rect" id="node1" title="A listener that listens if an Box2D collides with another Box2D body." alt="" coords="73,93,240,133"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,13,132,38"/>
+<area shape="rect" id="node3" href="$classspic_1_1extensions_1_1ICollisionListener.html" title="An interface for physic collision listeners." alt="" coords="157,5,335,45"/>
 </map>
