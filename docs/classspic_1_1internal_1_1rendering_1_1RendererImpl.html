@@ -115,21 +115,33 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a2a3fb1c7ea54958132af3084e4d2797b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab36a9959c0af5815e40f93c2589d0b1e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html">RendererImpl</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#ab36a9959c0af5815e40f93c2589d0b1e">operator=</a> (<a class="el" href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html">RendererImpl</a> &amp;&amp;other) noexcept=delete</td></tr>
 <tr class="separator:ab36a9959c0af5815e40f93c2589d0b1e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad38079aabc697c9ee80464488cbc7c0a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#ad38079aabc697c9ee80464488cbc7c0a">DrawGameObject</a> (<a class="el" href="classspic_1_1GameObject.html">GameObject</a> *gameObject, bool isUiOject=false)</td></tr>
-<tr class="memdesc:ad38079aabc697c9ee80464488cbc7c0a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Draws all related components of an gameobject.  <a href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#ad38079aabc697c9ee80464488cbc7c0a">More...</a><br /></td></tr>
-<tr class="separator:ad38079aabc697c9ee80464488cbc7c0a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af07f7b44e447fbeba7d8696edfac6ba1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#af07f7b44e447fbeba7d8696edfac6ba1">Exit</a> ()</td></tr>
-<tr class="memdesc:af07f7b44e447fbeba7d8696edfac6ba1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Closes window.  <a href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#af07f7b44e447fbeba7d8696edfac6ba1">More...</a><br /></td></tr>
-<tr class="separator:af07f7b44e447fbeba7d8696edfac6ba1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:addb2a67f6ff938055cf4c898d21d8bec"><td class="memItemLeft" align="right" valign="top">SDL_RendererFlip&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#addb2a67f6ff938055cf4c898d21d8bec">GetFlip</a> (const bool flipX, const bool flipY)</td></tr>
+<tr class="memdesc:addb2a67f6ff938055cf4c898d21d8bec"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets renderer flip.  <a href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#addb2a67f6ff938055cf4c898d21d8bec">More...</a><br /></td></tr>
+<tr class="separator:addb2a67f6ff938055cf4c898d21d8bec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae72fe7dbcc799bb5f0eeaf7928c98204"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#ae72fe7dbcc799bb5f0eeaf7928c98204">Start</a> ()</td></tr>
+<tr class="memdesc:ae72fe7dbcc799bb5f0eeaf7928c98204"><td class="mdescLeft">&#160;</td><td class="mdescRight">Start up an new window.  <a href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#ae72fe7dbcc799bb5f0eeaf7928c98204">More...</a><br /></td></tr>
+<tr class="separator:ae72fe7dbcc799bb5f0eeaf7928c98204"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7f33c2bc9317ddd567e256a43a4ecff8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a7f33c2bc9317ddd567e256a43a4ecff8">Clean</a> ()</td></tr>
+<tr class="memdesc:a7f33c2bc9317ddd567e256a43a4ecff8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Cleans the render class before drawing it.  <a href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a7f33c2bc9317ddd567e256a43a4ecff8">More...</a><br /></td></tr>
+<tr class="separator:a7f33c2bc9317ddd567e256a43a4ecff8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a89ed9441f54cdbe10f433ca02d336e0c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a89ed9441f54cdbe10f433ca02d336e0c">NewScene</a> ()</td></tr>
+<tr class="memdesc:a89ed9441f54cdbe10f433ca02d336e0c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Resets internal texture and font maps.  <a href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a89ed9441f54cdbe10f433ca02d336e0c">More...</a><br /></td></tr>
+<tr class="separator:a89ed9441f54cdbe10f433ca02d336e0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acbac2e60f0cf46d0aa19dbd7de6901a0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#acbac2e60f0cf46d0aa19dbd7de6901a0">UpdateCamera</a> (<a class="el" href="classspic_1_1Camera.html">Camera</a> *camera)</td></tr>
 <tr class="memdesc:acbac2e60f0cf46d0aa19dbd7de6901a0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Updates internal parameters width parameters in camera.  <a href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#acbac2e60f0cf46d0aa19dbd7de6901a0">More...</a><br /></td></tr>
 <tr class="separator:acbac2e60f0cf46d0aa19dbd7de6901a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad38079aabc697c9ee80464488cbc7c0a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#ad38079aabc697c9ee80464488cbc7c0a">DrawGameObject</a> (<a class="el" href="classspic_1_1GameObject.html">GameObject</a> *gameObject, bool isUiOject=false)</td></tr>
+<tr class="memdesc:ad38079aabc697c9ee80464488cbc7c0a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Draws all related components of an gameobject.  <a href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#ad38079aabc697c9ee80464488cbc7c0a">More...</a><br /></td></tr>
+<tr class="separator:ad38079aabc697c9ee80464488cbc7c0a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a02264da176dbd91aa02553ac1a698be4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a02264da176dbd91aa02553ac1a698be4">DrawUISprite</a> (const float width, const float height, const <a class="el" href="classspic_1_1Sprite.html">Sprite</a> *sprite, const <a class="el" href="structspic_1_1Transform.html">Transform</a> *transform)</td></tr>
 <tr class="memdesc:a02264da176dbd91aa02553ac1a698be4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Draws an ui sprite.  <a href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a02264da176dbd91aa02553ac1a698be4">More...</a><br /></td></tr>
 <tr class="separator:a02264da176dbd91aa02553ac1a698be4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a526e653597b7811bb856ce25ea98dc2d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a526e653597b7811bb856ce25ea98dc2d">DrawSprite</a> (const <a class="el" href="classspic_1_1Sprite.html">Sprite</a> *sprite, const <a class="el" href="structspic_1_1Transform.html">Transform</a> *transform, bool isUiOject=false)</td></tr>
 <tr class="memdesc:a526e653597b7811bb856ce25ea98dc2d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Draws an sprite.  <a href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a526e653597b7811bb856ce25ea98dc2d">More...</a><br /></td></tr>
 <tr class="separator:a526e653597b7811bb856ce25ea98dc2d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3d8369715aa25ab451c8da6f2adff768"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a3d8369715aa25ab451c8da6f2adff768">DrawFps</a> ()</td></tr>
+<tr class="memdesc:a3d8369715aa25ab451c8da6f2adff768"><td class="mdescLeft">&#160;</td><td class="mdescRight">Renders the fps counter.  <a href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a3d8369715aa25ab451c8da6f2adff768">More...</a><br /></td></tr>
+<tr class="separator:a3d8369715aa25ab451c8da6f2adff768"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0c61764db09bec6c5213159d7472c76d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a0c61764db09bec6c5213159d7472c76d">AddDebugLine</a> (const <a class="el" href="structspic_1_1Line.html">spic::Line</a> &amp;line, const <a class="el" href="classspic_1_1Color.html">spic::Color</a> &amp;color)</td></tr>
 <tr class="memdesc:a0c61764db09bec6c5213159d7472c76d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add debug line to renderer, line will be drawn at the end of the render.  <a href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a0c61764db09bec6c5213159d7472c76d">More...</a><br /></td></tr>
 <tr class="separator:a0c61764db09bec6c5213159d7472c76d"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -145,21 +157,12 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a0280491869933937de4920d7db496fc3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a0280491869933937de4920d7db496fc3">DrawDebugShapes</a> ()</td></tr>
 <tr class="memdesc:a0280491869933937de4920d7db496fc3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Draws all added debug shapes.  <a href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a0280491869933937de4920d7db496fc3">More...</a><br /></td></tr>
 <tr class="separator:a0280491869933937de4920d7db496fc3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7f33c2bc9317ddd567e256a43a4ecff8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a7f33c2bc9317ddd567e256a43a4ecff8">Clean</a> ()</td></tr>
-<tr class="memdesc:a7f33c2bc9317ddd567e256a43a4ecff8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Cleans the render class before drawing it.  <a href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a7f33c2bc9317ddd567e256a43a4ecff8">More...</a><br /></td></tr>
-<tr class="separator:a7f33c2bc9317ddd567e256a43a4ecff8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a89ed9441f54cdbe10f433ca02d336e0c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a89ed9441f54cdbe10f433ca02d336e0c">NewScene</a> ()</td></tr>
-<tr class="memdesc:a89ed9441f54cdbe10f433ca02d336e0c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Resets internal texture and font maps.  <a href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a89ed9441f54cdbe10f433ca02d336e0c">More...</a><br /></td></tr>
-<tr class="separator:a89ed9441f54cdbe10f433ca02d336e0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af4cee530cd6ac2e14dd2e5f18a7e597f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#af4cee530cd6ac2e14dd2e5f18a7e597f">Render</a> ()</td></tr>
 <tr class="memdesc:af4cee530cd6ac2e14dd2e5f18a7e597f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Renders everything in internal buffer to screen.  <a href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#af4cee530cd6ac2e14dd2e5f18a7e597f">More...</a><br /></td></tr>
 <tr class="separator:af4cee530cd6ac2e14dd2e5f18a7e597f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae72fe7dbcc799bb5f0eeaf7928c98204"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#ae72fe7dbcc799bb5f0eeaf7928c98204">Start</a> ()</td></tr>
-<tr class="memdesc:ae72fe7dbcc799bb5f0eeaf7928c98204"><td class="mdescLeft">&#160;</td><td class="mdescRight">Start up an new window.  <a href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#ae72fe7dbcc799bb5f0eeaf7928c98204">More...</a><br /></td></tr>
-<tr class="separator:ae72fe7dbcc799bb5f0eeaf7928c98204"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af89c5bbe921a23829509893572aa8295"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#af89c5bbe921a23829509893572aa8295">RenderFps</a> ()</td></tr>
-<tr class="memdesc:af89c5bbe921a23829509893572aa8295"><td class="mdescLeft">&#160;</td><td class="mdescRight">Renders the fps counter.  <a href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#af89c5bbe921a23829509893572aa8295">More...</a><br /></td></tr>
-<tr class="separator:af89c5bbe921a23829509893572aa8295"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af07f7b44e447fbeba7d8696edfac6ba1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#af07f7b44e447fbeba7d8696edfac6ba1">Exit</a> ()</td></tr>
+<tr class="memdesc:af07f7b44e447fbeba7d8696edfac6ba1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Closes window.  <a href="classspic_1_1internal_1_1rendering_1_1RendererImpl.html#af07f7b44e447fbeba7d8696edfac6ba1">More...</a><br /></td></tr>
+<tr class="separator:af07f7b44e447fbeba7d8696edfac6ba1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p >Render singelton. </p>
@@ -460,6 +463,25 @@ Public Member Functions</h2></td></tr>
 
 </div>
 </div>
+<a id="a3d8369715aa25ab451c8da6f2adff768" name="a3d8369715aa25ab451c8da6f2adff768"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3d8369715aa25ab451c8da6f2adff768">&#9670;&#160;</a></span>DrawFps()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void spic::internal::rendering::RendererImpl::DrawFps </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Renders the fps counter. </p>
+
+</div>
+</div>
 <a id="ad38079aabc697c9ee80464488cbc7c0a" name="ad38079aabc697c9ee80464488cbc7c0a"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ad38079aabc697c9ee80464488cbc7c0a">&#9670;&#160;</a></span>DrawGameObject()</h2>
 
@@ -610,6 +632,44 @@ Public Member Functions</h2></td></tr>
 
 </div>
 </div>
+<a id="addb2a67f6ff938055cf4c898d21d8bec" name="addb2a67f6ff938055cf4c898d21d8bec"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#addb2a67f6ff938055cf4c898d21d8bec">&#9670;&#160;</a></span>GetFlip()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">SDL_RendererFlip RendererImpl::GetFlip </td>
+          <td>(</td>
+          <td class="paramtype">const bool&#160;</td>
+          <td class="paramname"><em>flipX</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const bool&#160;</td>
+          <td class="paramname"><em>flipY</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Gets renderer flip. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">flipX</td><td></td></tr>
+    <tr><td class="paramname">flipY</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>SDL_RendererFlip </dd></dl>
+
+</div>
+</div>
 <a id="a89ed9441f54cdbe10f433ca02d336e0c" name="a89ed9441f54cdbe10f433ca02d336e0c"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a89ed9441f54cdbe10f433ca02d336e0c">&#9670;&#160;</a></span>NewScene()</h2>
 
@@ -698,25 +758,6 @@ Public Member Functions</h2></td></tr>
 
 <p>Renders everything in internal buffer to screen. </p>
 <p >Debug shapes will be reset in this function </p>
-
-</div>
-</div>
-<a id="af89c5bbe921a23829509893572aa8295" name="af89c5bbe921a23829509893572aa8295"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af89c5bbe921a23829509893572aa8295">&#9670;&#160;</a></span>RenderFps()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void spic::internal::rendering::RendererImpl::RenderFps </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Renders the fps counter. </p>
 
 </div>
 </div>

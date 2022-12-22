@@ -11,7 +11,7 @@ var classspic_1_1extensions_1_1IPhysicsExtension =
     [ "GetLinearVelocity", "classspic_1_1extensions_1_1IPhysicsExtension.html#a93f661be9b72b2a2045b3e2ce639a3e0", null ],
     [ "operator=", "classspic_1_1extensions_1_1IPhysicsExtension.html#afcd4be7e143bfe8a0613fba7b72b0e46", null ],
     [ "operator=", "classspic_1_1extensions_1_1IPhysicsExtension.html#acaff309c81f7b8d0ee28bdfdf0754806", null ],
-    [ "RemoveEntity", "classspic_1_1extensions_1_1IPhysicsExtension.html#a7043a02349d8910cb0c8f199e66ddf0d", null ],
+    [ "RemoveEntity", "classspic_1_1extensions_1_1IPhysicsExtension.html#ac48854e3148ef631f9b12da2ff06673d", null ],
     [ "Reset", "classspic_1_1extensions_1_1IPhysicsExtension.html#a45c41458e398daa8bf02c2def8037635", null ],
     [ "RunTimes", "classspic_1_1extensions_1_1IPhysicsExtension.html#a48cda8be3245a970d10943ca2aca25fd", null ],
     [ "Update", "classspic_1_1extensions_1_1IPhysicsExtension.html#ad15196a2fe2bda44bf6efd72988ac041", null ]

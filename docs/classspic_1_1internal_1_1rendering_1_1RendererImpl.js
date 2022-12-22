@@ -10,15 +10,16 @@ var classspic_1_1internal_1_1rendering_1_1RendererImpl =
     [ "AddDebugRect", "classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a586468636afaa8f08225660fcbf94583", null ],
     [ "Clean", "classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a7f33c2bc9317ddd567e256a43a4ecff8", null ],
     [ "DrawDebugShapes", "classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a0280491869933937de4920d7db496fc3", null ],
+    [ "DrawFps", "classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a3d8369715aa25ab451c8da6f2adff768", null ],
     [ "DrawGameObject", "classspic_1_1internal_1_1rendering_1_1RendererImpl.html#ad38079aabc697c9ee80464488cbc7c0a", null ],
     [ "DrawSprite", "classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a526e653597b7811bb856ce25ea98dc2d", null ],
     [ "DrawUISprite", "classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a02264da176dbd91aa02553ac1a698be4", null ],
     [ "Exit", "classspic_1_1internal_1_1rendering_1_1RendererImpl.html#af07f7b44e447fbeba7d8696edfac6ba1", null ],
+    [ "GetFlip", "classspic_1_1internal_1_1rendering_1_1RendererImpl.html#addb2a67f6ff938055cf4c898d21d8bec", null ],
     [ "NewScene", "classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a89ed9441f54cdbe10f433ca02d336e0c", null ],
     [ "operator=", "classspic_1_1internal_1_1rendering_1_1RendererImpl.html#a2a3fb1c7ea54958132af3084e4d2797b", null ],
     [ "operator=", "classspic_1_1internal_1_1rendering_1_1RendererImpl.html#ab36a9959c0af5815e40f93c2589d0b1e", null ],
     [ "Render", "classspic_1_1internal_1_1rendering_1_1RendererImpl.html#af4cee530cd6ac2e14dd2e5f18a7e597f", null ],
-    [ "RenderFps", "classspic_1_1internal_1_1rendering_1_1RendererImpl.html#af89c5bbe921a23829509893572aa8295", null ],
     [ "Start", "classspic_1_1internal_1_1rendering_1_1RendererImpl.html#ae72fe7dbcc799bb5f0eeaf7928c98204", null ],
     [ "UpdateCamera", "classspic_1_1internal_1_1rendering_1_1RendererImpl.html#acbac2e60f0cf46d0aa19dbd7de6901a0", null ]
 ];

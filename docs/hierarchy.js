@@ -84,7 +84,6 @@ var hierarchy =
     [ "spic::internal::SaveDocument", "classspic_1_1internal_1_1SaveDocument.html", null ],
     [ "spic::Scene", "classspic_1_1Scene.html", null ],
     [ "spic::internal::rendering::SDL_Deleter", "structspic_1_1internal_1_1rendering_1_1SDL__Deleter.html", null ],
-    [ "spic::Serializer", "structspic_1_1Serializer.html", null ],
     [ "spic::ThreadWrapper", "classspic_1_1ThreadWrapper.html", null ],
     [ "spic::tiled::TileLayer", "classspic_1_1tiled_1_1TileLayer.html", null ],
     [ "spic::tiled::TileMap", "classspic_1_1tiled_1_1TileMap.html", null ],

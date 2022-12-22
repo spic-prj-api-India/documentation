@@ -13,7 +13,7 @@ var searchData=
   ['senddata_10',['SendData',['../classspic_1_1extensions_1_1INetworkExtension.html#a819fa6371d4c031dc9333e5e78071a9c',1,'spic::extensions::INetworkExtension::SendData()'],['../classspic_1_1extensions_1_1SocketUDPExtension.html#aa43b8f439f5c3a81b3fce65a6efc4d27',1,'spic::extensions::SocketUDPExtension::SendData()']]],
   ['sendpacket_11',['SendPacket',['../classspic_1_1SocketScript.html#a4d31f1934ce244ee8a0494963992e82c',1,'spic::SocketScript']]],
   ['seperationon_12',['SeperationOn',['../classspic_1_1Flocking.html#aa162c0ea95bd4411ff5053f8098ebc0b',1,'spic::Flocking']]],
-  ['serialize_13',['Serialize',['../structspic_1_1NetworkPacket.html#a11c84d4353f240d8276e0125c34ffdd3',1,'spic::NetworkPacket::Serialize()'],['../structspic_1_1Serializer.html#a71facc7553d52ad97f11c7e1ad59bc86',1,'spic::Serializer::Serialize()'],['../structspic_1_1Transform.html#a3ddd31d3dcd21783335c24108441df41',1,'spic::Transform::Serialize()']]],
+  ['serialize_13',['Serialize',['../structspic_1_1NetworkPacket.html#a11c84d4353f240d8276e0125c34ffdd3',1,'spic::NetworkPacket::Serialize()'],['../structspic_1_1Transform.html#a3ddd31d3dcd21783335c24108441df41',1,'spic::Transform::Serialize()']]],
   ['setbuttons_14',['SetButtons',['../classspic_1_1internal_1_1input_1_1ButtonClickListener.html#a3bb047b7d484c084827a455d4daaa180',1,'spic::internal::input::ButtonClickListener']]],
   ['setcontent_15',['SetContent',['../classspic_1_1GameObject.html#a169d1a5b3bd5886c266952c5bd9c654a',1,'spic::GameObject']]],
   ['setdeceleration_16',['SetDeceleration',['../classspic_1_1Steering.html#a5a694c4a8805c13246a80ef750c68487',1,'spic::Steering']]],

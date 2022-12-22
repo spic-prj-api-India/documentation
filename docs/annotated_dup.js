@@ -92,7 +92,6 @@ var annotated_dup =
       [ "Rect", "structspic_1_1Rect.html", "structspic_1_1Rect" ],
       [ "RigidBody", "classspic_1_1RigidBody.html", "classspic_1_1RigidBody" ],
       [ "Scene", "classspic_1_1Scene.html", "classspic_1_1Scene" ],
-      [ "Serializer", "structspic_1_1Serializer.html", "structspic_1_1Serializer" ],
       [ "SocketScript", "classspic_1_1SocketScript.html", "classspic_1_1SocketScript" ],
       [ "Sprite", "classspic_1_1Sprite.html", "classspic_1_1Sprite" ],
       [ "Steering", "classspic_1_1Steering.html", "classspic_1_1Steering" ],

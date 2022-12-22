@@ -5,9 +5,8 @@ var searchData=
   ['savedocument_2',['SaveDocument',['../classspic_1_1internal_1_1SaveDocument.html',1,'spic::internal']]],
   ['scene_3',['Scene',['../classspic_1_1Scene.html',1,'spic']]],
   ['sdl_5fdeleter_4',['SDL_Deleter',['../structspic_1_1internal_1_1rendering_1_1SDL__Deleter.html',1,'spic::internal::rendering']]],
-  ['serializer_5',['Serializer',['../structspic_1_1Serializer.html',1,'spic']]],
-  ['socketscript_6',['SocketScript',['../classspic_1_1SocketScript.html',1,'spic']]],
-  ['socketudpextension_7',['SocketUDPExtension',['../classspic_1_1extensions_1_1SocketUDPExtension.html',1,'spic::extensions']]],
-  ['sprite_8',['Sprite',['../classspic_1_1Sprite.html',1,'spic']]],
-  ['steering_9',['Steering',['../classspic_1_1Steering.html',1,'spic']]]
+  ['socketscript_5',['SocketScript',['../classspic_1_1SocketScript.html',1,'spic']]],
+  ['socketudpextension_6',['SocketUDPExtension',['../classspic_1_1extensions_1_1SocketUDPExtension.html',1,'spic::extensions']]],
+  ['sprite_7',['Sprite',['../classspic_1_1Sprite.html',1,'spic']]],
+  ['steering_8',['Steering',['../classspic_1_1Steering.html',1,'spic']]]
 ];

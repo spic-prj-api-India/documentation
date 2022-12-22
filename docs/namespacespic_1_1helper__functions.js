@@ -8,9 +8,9 @@ var namespacespic_1_1helper__functions =
     ] ],
     [ "general_helper", "namespacespic_1_1helper__functions_1_1general__helper.html", [
       [ "CalculateWithinSquare", "namespacespic_1_1helper__functions_1_1general__helper.html#a6f2108b39cf4efe03eaf293e4c5b9002", null ],
-      [ "DEG2RAD", "namespacespic_1_1helper__functions_1_1general__helper.html#a8c6179ad7103b48f8e365489005cccf0", null ],
+      [ "DEG2RAD", "namespacespic_1_1helper__functions_1_1general__helper.html#af3d9746298047643883fd59ab3930f41", null ],
       [ "GetCenter", "namespacespic_1_1helper__functions_1_1general__helper.html#a3f723c104d97b3238798b8d832fd58ff", null ],
-      [ "GetPoints", "namespacespic_1_1helper__functions_1_1general__helper.html#aed7f85c4da3aa2c716d2a395c0cf85c3", null ],
+      [ "GetPoints", "namespacespic_1_1helper__functions_1_1general__helper.html#a3fa276b8606088470c3e92890dd4a272", null ],
       [ "GetRandomUUID", "namespacespic_1_1helper__functions_1_1general__helper.html#a0ce59986f74804d338021e7e58ca1908", null ],
       [ "LineIntersection", "namespacespic_1_1helper__functions_1_1general__helper.html#a9f197d26763aa06e4e829f70e09f2d05", null ],
       [ "NetworkPacketSorting", "namespacespic_1_1helper__functions_1_1general__helper.html#a035458d5aacc9073664fa7bbaa50f31a", null ],
@@ -21,7 +21,7 @@ var namespacespic_1_1helper__functions =
       [ "SpriteSorting", "namespacespic_1_1helper__functions_1_1general__helper.html#aeca704f2fa59947ce4b58031121167ed", null ]
     ] ],
     [ "networking_helper", "namespacespic_1_1helper__functions_1_1networking__helper.html", [
-      [ "GetParsedIPConfigData", "namespacespic_1_1helper__functions_1_1networking__helper.html#ab1e200b55ddc13c1a4f8d301631b0551", null ]
+      [ "GetParsedIPConfigData", "namespacespic_1_1helper__functions_1_1networking__helper.html#a422cfef24316784cbf7b8acc5acd8dee", null ]
     ] ],
     [ "string_helper", "namespacespic_1_1helper__functions_1_1string__helper.html", [
       [ "GetBasePath", "namespacespic_1_1helper__functions_1_1string__helper.html#ad43455de9044a2d716063f94fb5af0e8", null ],
