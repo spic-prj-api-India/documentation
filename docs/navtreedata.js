@@ -27,7 +27,8 @@ var NAVTREE =
   [ "SPICPRJ Engine", "index.html", [
     [ "spic-prj-api", "index.html", [
       [ "Features:", "index.html#autotoc_md1", null ],
-      [ "Copyright (c) 2022 Avans Hogeschool, 's-Hertogenbosch.", "index.html#autotoc_md2", null ]
+      [ "Instalation", "index.html#autotoc_md2", null ],
+      [ "Copyright (c) 2022 Avans Hogeschool, 's-Hertogenbosch.", "index.html#autotoc_md3", null ]
     ] ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
@@ -61,7 +62,7 @@ var NAVTREEINDEX =
 "classspic_1_1extensions_1_1PhysicsExtension1.html#a5e983a4f4579538ee2bb7a7ac69561e1",
 "classspic_1_1internal_1_1exceptions_1_1CastException.html#aff9b2136b53c7bd4108eee5dfc0aded5",
 "functions_func_w.html",
-"namespacespic_1_1input.html#a274f6bbd5b1b0d75d59451b6d24f997fa9bdb32d30c022b17e01a3b208546914d",
+"namespacespic_1_1input.html#a274f6bbd5b1b0d75d59451b6d24f997fa9a030dd2ea5f2802376bfb9cd665b820",
 "structspic_1_1Point.html#a36547cfb7b03bafff5d007afaac630c3"
 ];
 
