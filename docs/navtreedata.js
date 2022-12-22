@@ -27,7 +27,7 @@ var NAVTREE =
   [ "SPICPRJ Engine", "index.html", [
     [ "spic-prj-api", "index.html", [
       [ "Features:", "index.html#autotoc_md1", null ],
-      [ "Instalation", "index.html#autotoc_md2", null ],
+      [ "Installation", "index.html#autotoc_md2", null ],
       [ "Copyright (c) 2022 Avans Hogeschool, 's-Hertogenbosch.", "index.html#autotoc_md3", null ]
     ] ],
     [ "Namespaces", "namespaces.html", [
